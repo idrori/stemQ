@@ -1,0 +1,6 @@
+{
+       "Course": "Introduction to Probability",
+       "Topic": "Expectation",
+       "Original question": "You are visiting the rainforest, but unfortunately your insect repellent has run out. As a result, at each second, a mosquito lands on your neck with probability 0.2. What\u2019s the expected time until the first mosquito lands on you?",
+       "Solution": "5"
+}

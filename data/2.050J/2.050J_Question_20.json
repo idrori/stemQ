@@ -1,0 +1,6 @@
+{
+       "Course": "Nonlinear Dynamics I: Chaos",
+       "Topic": "Periodic Windows",
+       "Original question": "Approximate the value of r at which the logistic map has a superstable\n3-cycle. Please give a numerical approximation that is accurate to at least four\nplaces after the decimal point. ",
+       "Solution": "3.8318741"
+}

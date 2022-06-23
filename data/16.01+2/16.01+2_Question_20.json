@@ -1,0 +1,6 @@
+{
+       "Course": "Unified Engineering 1 and 2",
+       "Topic": "Thermodynamics",
+       "Original question": "Which terms in the first law of thermodynamics depend on path? Explain why the dependence on path is important for the design of heat engines.",
+       "Solution": "Heat and work are path dependent. Energy is not path dependent, it is a function of the state of the system. The implication of path dependence for heat engines is that it is possible take a system from one thermodynamic state to another via different paths (i.e. processes). These processes , which are defined by the engineer, have different amounts of heat and work, and thus result in difference performance for the heat engine."
+}

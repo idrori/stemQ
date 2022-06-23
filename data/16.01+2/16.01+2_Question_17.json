@@ -1,0 +1,6 @@
+{
+       "Course": "Unified Engineering 1 and 2",
+       "Topic": "Thermodynamics",
+       "Original question": "For a thermodynamic cycle involving an ideal gas, what is the relationship between work, shaft (or external) work and flow work when these quantities are calculated for the cycle as a whole?",
+       "Solution": "w=ws +wf\nwf = R(\u2206T) , only a function of the state of the system. Since the system returns to its initial state when completing one loop around the cycle, then wf=0 for a cycle and w=ws for a cycle."
+}

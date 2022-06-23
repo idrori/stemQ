@@ -1,0 +1,6 @@
+{
+       "Course": "Nonlinear Dynamics I: Chaos",
+       "Topic": "Saddle-Node, Transcritical, and Pitchfork Bifurcations",
+       "Original question": "For each of the following systems, find the eigenvalues at the stable fixed point as a\nfunction of \u00b5.\n\u1e8b = \u00b5 - x^2\n\u1e8f = -y",
+       "Solution": "-|\u00b5|, -1"
+}

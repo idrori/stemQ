@@ -1,0 +1,6 @@
+{
+       "Course": "Introduction to Machine Learning",
+       "Topic": "Convolutional Neural Networks",
+       "Original question": "Given an image row [ 1 3 0 ] and filter [ 2 2 1 ] , what is the result from applying the filter to the image row after applying ReLU activation on the filter\u2019s output ?",
+       "Solution": 8.0
+}

@@ -1,0 +1,6 @@
+{
+       "Course": "Introduction to Machine Learning",
+       "Topic": "Features",
+       "Original question": "Given the values for theta as 2 and theta_0 as 1 , compute the NLL loss on the data point ( 2 2 ) . Use log base e of 2.71828 for the log .",
+       "Solution": 4.993284624
+}

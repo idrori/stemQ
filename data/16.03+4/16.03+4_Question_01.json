@@ -1,0 +1,6 @@
+{
+       "Course": "Unified Engineering 3 and 4",
+       "Topic": "Unified Computers and programming",
+       "Original question": "Write an algorithm to check if a user entered string is a palindrome.\nAssume:\ni. Maximum string length is 80 characters\nii. The actual string length is input dependent",
+       "Solution": "Get input string and length from the user. Set Flag to True\nFor I in 1 .. Length/2 loop\nIf String(I) /= String(Length \u2013 I+1) then Display \u2018Input_String not a Palindrome\u201d Set Flag to False\nIf Flag = True then\nDisplay \u201cInput String is a Palindrome\u201d"
+}

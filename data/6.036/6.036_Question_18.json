@@ -1,0 +1,6 @@
+{
+       "Course": "Introduction to Machine Learning",
+       "Topic": "Neural Networks I",
+       "Original question": "In a neural network where it is fully-connected and feedforward , how many total weights are there if we include the biases ? We have 10 inputs and 200 outputs .",
+       "Solution": 4000.0
+}

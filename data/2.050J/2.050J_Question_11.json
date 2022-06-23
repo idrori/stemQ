@@ -1,0 +1,6 @@
+{
+       "Course": "Nonlinear Dynamics I: Chaos",
+       "Topic": "Ruling Out Closed Orbits",
+       "Original question": "Show that \u1e8b = -x+2y^3 -2y^4, \u1e8f = -x-y+xy has no periodic solutions. (Hint: Choose a, m, and n such that V = x^m + ay^n is a liapunov function)",
+       "Solution": "a=1, m=2, n=4"
+}

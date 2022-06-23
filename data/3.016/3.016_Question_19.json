@@ -1,0 +1,6 @@
+{
+       "Course": "Mathematics for Materials Scientists and Engineers",
+       "Topic": "Double integrals, Center of gravity",
+       "Original question": "Find the coordinates x\u0304,y\u0304 of the center of gravity of a mass of density f(x,y) in the region R. Sketch R, show details.\nf = xy, R the triangle with vertices (0,0), (2,0), (2,2)",
+       "Solution": "M = 8, x\u0304 = 8/5, y\u0304 = 16/5"
+}

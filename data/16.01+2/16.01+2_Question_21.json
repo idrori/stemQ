@@ -1,0 +1,6 @@
+{
+       "Course": "Unified Engineering 1 and 2",
+       "Topic": "Thermodynamics",
+       "Original question": "Explain the difference between heat and temperature.",
+       "Solution": "Heat is the transfer of energy across a system boundary by virtue of a temperature difference only. It is measured in Joules. Temperature is a thermodynamic property and a function of the state of the system. It is measured in Kelvin."
+}

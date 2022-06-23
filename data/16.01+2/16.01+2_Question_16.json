@@ -1,0 +1,6 @@
+{
+       "Course": "Unified Engineering 1 and 2",
+       "Topic": "Thermodynamics",
+       "Original question": "For a system composed of a small mass of gas passing through a rocket nozzle, describe the physical implications of an adiabatic, quasi-equilibrium (i.e. quasi- static) process.",
+       "Solution": "Such an assumption would imply that the mass of gas passes through the nozzle too fast for significant heat transfer to occur, but at a rate which is slow compared to the time it takes the small mass of gas to come to thermodynamic equilibrium."
+}

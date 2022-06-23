@@ -1,0 +1,6 @@
+{
+       "Course": "Mathematics for Materials Scientists and Engineers",
+       "Topic": "General solution",
+       "Original question": "Find a general solution. Show the details of your calculation.\n(x^2 * D^2 + 2xD - 12I)y = 0",
+       "Solution": "y = c_1 x^4 + c_2 x^3"
+}

@@ -1,0 +1,6 @@
+{
+       "Course": "Introduction to Probability",
+       "Topic": "Probability",
+       "Original question": "Fred is giving out samples of dog food. He makes calls door to door, but he leaves a sample (one can) only on those calls for which the door is answered and a dog is in residence. On any call the probability of the door being answered is 3/4, and the probability that any household has a dog is 2/3. Assume that the events \u201cDoor answered\u201d and \u201cA dog lives here\u201d are independent and also that the outcomes of all calls are independent. Determine the probability that Fred gives away his first sample on his third call.",
+       "Solution": "8-Jan"
+}

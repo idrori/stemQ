@@ -1,0 +1,6 @@
+{
+       "Course": "Introduction to Machine Learning",
+       "Topic": "Logistic Regression",
+       "Original question": "Calculate the value of the function ( 2 * theta + negative 2 ) ^ 4 after updating the theta value in one step of gradient descent . Have theta be 4 and eta be 0.01 .",
+       "Solution": 665323.4217
+}

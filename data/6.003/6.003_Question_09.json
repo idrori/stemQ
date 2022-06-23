@@ -1,0 +1,6 @@
+{
+       "Course": "Signals and Systems",
+       "Topic": "Z transform, Laplace transform",
+       "Original question": "Evaluate the real part of j^j",
+       "Solution": "exp(-pi/2)"
+}

@@ -1,0 +1,6 @@
+{
+       "Course": "Marine Power and Propulsion",
+       "Topic": NaN,
+       "Original question": "6. A simple cycle 18 MW gas turbine has a maximum turbine entry temperature of\n1100\u00b0C and a max pressure after the compressor of 2.2MPa. The maximum pressure\nin the combustion chamber is 500kPa. Pressure at the intake and temperature is\n110kPa and 30\u00b0 C. Additionally, a recuperator with an effectiveness of 85% has been\ninstalled. Using an isentropic index of 1.4 throughout the turbine determine:\na. power required for compression and polytropic efficiency of the\ncompression process.\nb. power delivered during expansion and polytropic efficiency of the\nexpansion process\nc. amount of heat released in combustion chamber and fuel mass flow.\nd. brake power and over all efficiency\n- Assume gas constant = 0.287 kJ/kgK\n- Specific heat at constant pressure = 1.0 kJ/kgK\n- LHV of fuel = 430000 kJ/kg\n- nc = 1.4 (irreversible loss for compression)\n- nT = 1.33 (irreversible loss for expansion) ",
+       "Solution": NaN
+}

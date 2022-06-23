@@ -1,0 +1,6 @@
+{
+       "Course": "Introduction to Machine Learning",
+       "Topic": "State Machines and Markov Decision Processes",
+       "Original question": "If we have a state machine , defined as s_t = f(s_(t-1), x_t) and y_t = g(s_t) , where x_t is the input , what is the output y_5 if we have s_0 being 11 , f(s_(t-1), x_t) = max ( s_(t-1) , x_t ) , g(s_t) = 2 * s_t , and we input [ 4 12 5 3 16 ] ?",
+       "Solution": 32.0
+}

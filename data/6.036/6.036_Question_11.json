@@ -1,0 +1,6 @@
+{
+       "Course": "Introduction to Machine Learning",
+       "Topic": "Logistic Regression",
+       "Original question": "Let theta be ( negative 2 1 ) , theta_0 be 0.25, and x be ( 0 , negative 1 ) . Compute theta times x plus theta_0 .",
+       "Solution": -0.75
+}

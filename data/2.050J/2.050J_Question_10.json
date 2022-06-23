@@ -1,0 +1,6 @@
+{
+       "Course": "Nonlinear Dynamics I: Chaos",
+       "Topic": "Fixed Points and Stability",
+       "Original question": "Consider the following \u201crabbits vs. sheep\u201d problems, where x, y \u2265 0. Find the fixed\npoints, investigate their stability, draw the nullclines, and sketch plausible phase\nportraits. Indicate the basins of attraction of any stable fixed points.\n\u1e8b = x(3-x-y)\n\u1e8f = y(2-x-y)",
+       "Solution": "Unstable node at ( 0,0 ) , stable node at ( 3,0 ) , saddle point at ( 0,2 ) . Nullclines are parallel diagonal lines. All trajectories end up at ( 3,0 ) , except those starting on the y-axis."
+}

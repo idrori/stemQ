@@ -1,0 +1,6 @@
+{
+       "Course": "Mathematics for Materials Scientists and Engineers",
+       "Topic": "Polar form",
+       "Original question": "Represent in polar form, with the principal argument. -4 - 4i",
+       "Solution": "4sqrt(2)e^(-3\u03c0i/4)"
+}

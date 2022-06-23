@@ -1,0 +1,6 @@
+{
+       "Course": "Signals and Systems",
+       "Topic": "Topic: Feedback and control, Continuous-time frequency response and Bode plots",
+       "Original question": "For a second-order system with poles at \u22121 and \u22124 (and no zeros), find the frequency at which the phase is \u221290\u25e6, using any method except for the vector method. Then illustrate and confirm that result using the vector method.",
+       "Solution": "\u03c9 = 2"
+}

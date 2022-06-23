@@ -1,0 +1,6 @@
+{
+       "Course": "Introduction to Probability",
+       "Topic": "Set Operations, Probability",
+       "Original question": "Find P (A \u222a (Bc \u222a Cc)c) in the following case: P (Ac \u2229 (Bc \u222a Cc)) = 0.65",
+       "Solution": "0.35"
+}

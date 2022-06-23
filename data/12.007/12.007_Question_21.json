@@ -1,0 +1,6 @@
+{
+       "Course": "Geobiology",
+       "Topic": "Earth System History",
+       "Original question": "Discuss some processes through which global warming can influence the biological pump?",
+       "Solution": "The biological pump refers to the creation of chemical gradients in the oceans as a result of biological processes, including primary production, export production, and remineralization. In recitation, we discussed several examples. Any type of nutrient depletion in the surface ocean and concentration increase at depth (~1000 m) would be a good example of the biological pump. Another example discussed in recitation is the dissolved inorganic carbon (DIC) concentration and d13C depth profiles. Carbon is fixed in the surface ocean and remineralized at depth, so there is a lower concentration of DIC in the surface ocean relative to the depths where remineralization is occurring (~1000 m). Similarly, photosynthesizers fix isotopically light carbon and the isotopically light carbon is shuttled to depth via export production. As a result, a carbon isotopic depth gradient is observed where DIC is isotopically heavier in the surface ocean compared to the deeper waters that have input from remineralized organic matter."
+}

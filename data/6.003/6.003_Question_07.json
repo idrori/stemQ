@@ -1,0 +1,6 @@
+{
+       "Course": "Signals and Systems",
+       "Topic": "Feedback, poles, and fundamental modes, Continuous-time systems",
+       "Original question": "Let h[n] represent the nth sample of the unit-sample response of a system with system functional H(R). Determine h[2] of the following system: H[R] = 1/((1-0.5*R)*(1-0.25*R))",
+       "Solution": "h[2] = 7/16"
+}

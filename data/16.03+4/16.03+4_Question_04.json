@@ -1,0 +1,6 @@
+{
+       "Course": "Unified Engineering 3 and 4",
+       "Topic": "Unified Computers and programming",
+       "Original question": "Write an algorithm to insert a node into a sorted doubly linked list. Use a diagram to show the sequence of operations that have to be performed to carry out the insertion step.",
+       "Solution": "Preconditions:\n1. User passes the list (called List) and the element to be inserted (called Element) to\nthe insert procedure\n2. List is already sorted\nPostconidtions:\n1. Procedure returns the list with the element inserted in the correct position\n2. List remains sorted\nAlgorithm:\nCreate three temporary Listptrs Current, Previous and NewNode Previous := null\nCurrent := List.Head;\nNewNode := new Listnode;\nNewNode.Element := Element\nLoop\nexit when Current = Null\nexit when Current.Element > Element Previous := Current;\nCurrent := Current.Next;\nNewNode. Next := Current; NewNode.Prev:= Previous; If Previous = null\nL.Head := NewNode else\nPrevious.Next := NewNode If Current /= null\nCurrent.Prev := NewNode;\nReturn List"
+}

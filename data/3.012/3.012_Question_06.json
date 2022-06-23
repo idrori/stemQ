@@ -1,0 +1,6 @@
+{
+       "Course": "Fundamentals of Materials Science",
+       "Topic": "Super-cooled Silicon",
+       "Original question": "You have a sample of silicon that is super-cooled to 1670 K from a molten state, and then transferred to an adiabatic container at constant pressure. Calculate the fraction of silicon that solidifies when the melt is placed in the adiabatic container.\nData for Si: T_m = 1683 K, \u0394H_m = 50,630 J/mole, C_p^s = 22.817 + 0.0038995T \u2013 8.288x10-^5T^2 \u2013 0.000354063T^2 J/mole K\nC_p^l  = 27.19 J/mole K",
+       "Solution": "0.0069"
+}

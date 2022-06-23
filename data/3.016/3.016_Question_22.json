@@ -1,0 +1,6 @@
+{
+       "Course": "Mathematics for Materials Scientists and Engineers",
+       "Topic": "Fourier series",
+       "Original question": "Find the Fourier series of as given over one period and sketch and partial sums.\nf(x) = 0 if -2 < x < 0, 2 if 0 < x < 2",
+       "Solution": "1 + 4/\u03c0 (sin \u03c0x/2 + 1/3 sin 3\u03c0x/2 + 1/5 sin 5\u03c0x/2 + ...)"
+}

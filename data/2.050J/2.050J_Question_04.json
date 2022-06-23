@@ -1,0 +1,6 @@
+{
+       "Course": "Nonlinear Dynamics I: Chaos",
+       "Topic": "Pitchfork Bifurcation",
+       "Original question": "Show that a pitchfork bifurcation occurs at a critical value of r (to be determined) and classify the bifurcation as supercritical or subcritical.\n\u1e8b = x + rx/(1+x^2) ",
+       "Solution": "r_c = -1, subcritical pitchfork"
+}

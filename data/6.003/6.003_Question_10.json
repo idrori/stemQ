@@ -1,0 +1,6 @@
+{
+       "Course": "Signals and Systems",
+       "Topic": "Z transform, Laplace transform",
+       "Original question": "Evaluate the real part of (1 \u2013 j*sqrt(3))^12",
+       "Solution": "4096"
+}

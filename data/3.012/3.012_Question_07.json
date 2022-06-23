@@ -1,0 +1,6 @@
+{
+       "Course": "Fundamentals of Materials Science",
+       "Topic": "Compressing a solid",
+       "Original question": "The pressure on 100g of nickel is increased reversibly and isothermally from 0 to 500 atm. Assume the density of the sample is initially 8.90x10^3 kg/m^3 and the isothermal compressibility remains constant at 6.75x10^-12 Pa^-1 respectively during this process. Calculate the final volume of the sample and determine the % change in volume that occurs.",
+       "Solution": "1.123*10^-5 m^3, .006%"
+}

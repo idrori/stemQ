@@ -1,0 +1,6 @@
+{
+       "Course": "Nonlinear Dynamics I: Chaos",
+       "Topic": "Pitchfork Bifurcation",
+       "Original question": "(First-order phase transition) Consider the potential V(x) for the system \u1e8b = rx + x^3 - x^5 . Calculate r_c , where r_c is defined by the condition that V has three equally deep wells, i.e., the values of V at the three local minima are equal.",
+       "Solution": "-3/16"
+}

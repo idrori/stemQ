@@ -1,0 +1,6 @@
+{
+       "Course": "Introduction to Machine Learning",
+       "Topic": "Neural Networks I",
+       "Original question": "In a fully-connected feedforward network , how many weights ( including biases ) are there for one layer with 40 inputs and 70 outputs ?",
+       "Solution": 5600.0
+}

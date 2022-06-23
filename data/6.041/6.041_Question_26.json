@@ -1,0 +1,6 @@
+{
+       "Course": "Introduction to Probability",
+       "Topic": "Uniform Random Variables, Expectation",
+       "Original question": "Sam and Pat are dating. All of their dates are scheduled to start at 9pm at the Kendall/MIT T stop. Sam always arrives promptly at 9pm. Pat is highly unorganized, and arrives at a time that is uniformly distributed between 8pm and 10pm. Sam gets irritated when Pat is late. Let X be the time in hours between 8pm and the time when Pat arrives. When Pat arrives after 9pm, their date will last for a time that is uniformly distributed between 0 and (3 \u2212 X) hours. When Pat arrives before 9pm, their date will last exactly 3 hours. The date starts at the time that they meet. Sam will end the relationship after the second date on which Pat is late by more than 45 minutes. All dates are independent of any other dates. What is the expected number of hours Pat waits for Sam to arrive?",
+       "Solution": "4-Jan"
+}

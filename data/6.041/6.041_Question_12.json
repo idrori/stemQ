@@ -1,0 +1,6 @@
+{
+       "Course": "Introduction to Probability",
+       "Topic": "Probability",
+       "Original question": "Bob has a peculiar pair of four-sided dice. When he rolls the dice, the probability of any particular outcome is proportional to the product of the outcome of each die. All outcomes that result in a particular product are equally likely. What is the probability of the product being even?",
+       "Solution": "0.84"
+}

@@ -1,0 +1,6 @@
+{
+       "Course": "Unified Engineering 1 and 2",
+       "Topic": "Thermodynamics",
+       "Original question": "Why is it necessary that a system be quasi-equilibrium (i.e. quasi-static) before applying many of the thermodynamics relations to that system?",
+       "Solution": "If the system is not in equilibrium, then different parts of the system exist at different states at the same time and it is not possible to define one \u201cstate\u201d of the system. Since many of the thermodynamic relations relate to the state of the system, it is necessary that a state can be defined for the system before applying them."
+}

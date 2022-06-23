@@ -1,0 +1,6 @@
+{
+       "Course": "Unified Engineering 1 and 2",
+       "Topic": "Unified Computers and programming",
+       "Original question": "Convert \u20182 + 3 = 5\u2019 into ASCII",
+       "Solution": "\u20182\u2019 - 50 \u2018 \u2019 - 32 \u2018+\u2019 - 43 \u2018 \u2019 - 32 \u20183\u2019 - 51 \u2018=\u2019 - 61 \u20185\u2019 - 53"
+}

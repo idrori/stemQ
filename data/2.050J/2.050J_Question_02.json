@@ -1,0 +1,6 @@
+{
+       "Course": "Nonlinear Dynamics I: Chaos",
+       "Topic": "Potentials",
+       "Original question": "For each of the following vector fields, plot the potential function V(x) and identify all the equilibrium points and their stability. \n\u1e8b = \u2212sinh(x)",
+       "Solution": "V(x)=cosh(x); equilibrium x* =0, stable"
+}

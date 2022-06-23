@@ -1,0 +1,6 @@
+{
+       "Course": "Nonlinear Dynamics I: Chaos",
+       "Topic": "Chaos on a Strange Attractor",
+       "Original question": "Consider the following familiar system in polar coordinates: \u1e59 = r(1-r^2) , d(theta) = 1, Let D be the disk x^2 + y^2 \u2264 1\na) Is D an invariant set?",
+       "Solution": "yes"
+}

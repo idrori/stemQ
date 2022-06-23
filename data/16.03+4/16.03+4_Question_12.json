@@ -1,0 +1,6 @@
+{
+       "Course": "Unified Engineering 3 and 4",
+       "Topic": "Unified Computers and programming",
+       "Original question": "What is the cyclomatic complexity of the code fragment shown below? loop\nexit when Flag := True;\nif A < 100 and B > 200 then if A > 50 then\nSum := Sum +2; else\nSum := Sum +1; end if;\nelse\nif B < 300 then\nSum:= Sum -1; else\nSum := Sum -2; end if;\nend if; end loop;",
+       "Solution": "11 Nodes, 14 edges => Cyclomatic complexity = 5"
+}

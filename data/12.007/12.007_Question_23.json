@@ -1,0 +1,6 @@
+{
+       "Course": "Geobiology",
+       "Topic": "Earth System History",
+       "Original question": "Discuss some processes through which global warming can influence the the production of CaCO3 by phytoplankton",
+       "Solution": "The effects of global warming on production of CaCO3 will depend on the source of global warming. Let\u2019s say that the global warming is driven by a pCO2 increase on a geologically rapid timescale (100s to 1000s yrs), as in the modern.Ocean pH should decline as a result of adding more CO2 (an acid). However, CO2 must equilibrate amongst the different carbonate chemistry species (H2CO3*, HCO3-, CO3 2-). Recall the Bjerrum plot for the distribution of C at different pHs given a specified DIC concentration. The species shift left for lower pH. In other words, as pH decreases, less of the DIC will be in the form of carbonate ion (CO3 2-). The solubility product of calcium carbonate depends on Ca2+ concentrations and carbonate ion concentration. A lower concentration on carbonate ion concentration will drive equilibrium away from calcium carbonate precipitation. Therefore, calcification by organisms will become less energetically favorable."
+}

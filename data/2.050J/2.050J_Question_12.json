@@ -1,0 +1,6 @@
+{
+       "Course": "Nonlinear Dynamics I: Chaos",
+       "Topic": "Limit Cycles",
+       "Original question": "Consider \u1e8d + a\u1e8b(x^2 + (\u1e8b)^2 - 1) + x = 0, where a>0. \nShow that the system has a circular limit cycle, and find its period.",
+       "Solution": "2\u03c0"
+}

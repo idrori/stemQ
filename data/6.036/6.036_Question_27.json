@@ -1,0 +1,6 @@
+{
+       "Course": "Introduction to Machine Learning",
+       "Topic": "Recurrent Neural Networks",
+       "Original question": "An RNN is defined as s_t = w * s_t-1 + x_t. If s_0 is 1 , w is 0 , and x is [ 0.25 0.5 ] , what is s_2 ?",
+       "Solution": 0.5
+}

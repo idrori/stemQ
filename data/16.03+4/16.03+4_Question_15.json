@@ -1,0 +1,6 @@
+{
+       "Course": "Unified Engineering 3 and 4",
+       "Topic": "Signals and Systems",
+       "Original question": "Explain why the non\u00adcausal filter is preferred in signal processing applications where it can be applied.",
+       "Solution": "The non-causal filter produces no phase shift. Therefore, setting the input is easier and the waveform will arrive at the next stage on time. Signals with multiple frequency components would be jumbled due to the variance of pure phase shift at each frequency of the causal filter. The non-causal filter will scale each frequency but produce no phase shift, thereby making an effective multiple frequency low-pass filter."
+}

@@ -1,0 +1,6 @@
+{
+       "Course": "Introduction to Probability",
+       "Topic": "Probability",
+       "Original question": "Sam and Pat are playing foosball. When they begin, the score is 0\u00ad:0. To make things interesting, if the score ever becomes tied, it is instantly reset to 0:\u00ad0. Starting from any score, the probability that Sam gets the next point is 1/3 . The game stops when one player\u2019s score reaches 2. What is the probability that Pat wins?",
+       "Solution": "0.8"
+}

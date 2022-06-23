@@ -1,0 +1,6 @@
+{
+       "Course": "Signals and Systems",
+       "Topic": "Sampling and quantization",
+       "Original question": "For the DT signal x1[n] through x4[n] (below), determine whether the conditions listed in the following are satisfied. X(exp(j0)) = 0",
+       "Solution": "x1[n]: True, x2[n]: False, x3[n]: True, x4[n]:True"
+}

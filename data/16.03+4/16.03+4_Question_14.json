@@ -1,0 +1,6 @@
+{
+       "Course": "Unified Engineering 3 and 4",
+       "Topic": "Signals and Systems",
+       "Original question": "n class, you learned about a smoother, with transfer function\nG1(s) = \u2212a2 (s\u2212a)(s+a)\nThe smoother is an example of a low\u00adpass filter, which means that it tends to attenuate high\u00adfrequency sine waves, but \u201cpass\u201d low\u00adfrequency sine waves. Unfortunately, the smoother is non\u00adcausal, which means that it can\u2019t be implemented in real time. A similar causal low\u00adpass filter is\nG2(s) = a2 (s+a)2\nIn this problem, you will compare these two low\u00adpass filters, to see how they affect sinusoidal inputs. Consider an input signal\nu(t) = cos \u03c9t\n1. Find the transfer function, G1(j\u03c9), as a function of frequency, \u03c9.",
+       "Solution": "G1( j\u03c9) = \u2212a2\n( j\u03c9 \u2212 a)( j\u03c9 + a)"
+}

@@ -1,0 +1,6 @@
+{
+       "Course": "Introduction to Probability",
+       "Topic": "Transforms",
+       "Original question": "Consider random variable Z with transform M_z(s) = (a-3s)/(s^2-6s+8). Find the numerical value for the parameter a.",
+       "Solution": "8"
+}

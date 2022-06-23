@@ -1,0 +1,6 @@
+{
+       "Course": "Introduction to Probability",
+       "Topic": "Binomial Random Variables, Normal Approximations",
+       "Original question": "On any given flight, an airline\u2019s goal is to have the plane be as full as possible, without overbooking. If, on average, 10 cancel their tickets, all independently of each other, what is the probability that a particular flight with maximum capacity 300 people will be overbooked if the airline sells 320 tickets? Find an approximate answer.",
+       "Solution": "0.0099"
+}

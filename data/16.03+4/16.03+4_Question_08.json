@@ -1,0 +1,6 @@
+{
+       "Course": "Unified Engineering 3 and 4",
+       "Topic": "Signals and Systems",
+       "Original question": "For each of the following Laplace transforms, find the inverse Laplace transform. G(s)=(3s6^2 +3s\u221210)/(s^2 \u2212 4), Re[s]>2",
+       "Solution": "G(s) = 3+ 2 + 1 , Re[s]>2 s\u22122 s+2\n  We can take the inverse LT by simple pattern matching. The result is that g(t) = 3\u03b4(t) + (2e2t + e\u22122t) \u03c3(t)"
+}

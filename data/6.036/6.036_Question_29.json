@@ -1,0 +1,6 @@
+{
+       "Course": "Introduction to Machine Learning",
+       "Topic": "Decision Trees",
+       "Original question": "Calculate the entropy of the left region of a 2D plane, split by a line . There are 1 points on the left side that are positive , 23 points on the right side , and 48 points total .",
+       "Solution": 0.2422921891
+}

@@ -1,0 +1,6 @@
+{
+       "Course": "Unified Engineering 3 and 4",
+       "Topic": "Signals and Systems",
+       "Original question": "For each signal below, find the bilateral Laplace transform (including the region of convergence) by directly evaluating the Laplace transform integral. If the signal does not have a transform, say so. g(t) = sin(at) \u03c3(-t)",
+       "Solution": "To do this problem, expand the sinusoid as complex exponentials, so that\n\ufffdeajt \u2212 e\u2212ajt \ufffd\ng(t) = 2j \u03c3(\u2212t)\nTherefore, the LT is given by\n\ufffd0 \ufffdeajt\u2212e\u2212ajt\ufffd\u2212st G(s)= 2jedt\n\u2212\u221e\nFor the LT to converge, the integrand must go to zero as t goes to \u2212\u221e. Therefore, the integral converges only for Re[s] < 0. The integral is then\ng(t) = sin(at)\u03c3(\u2212t)\n  \ufffd0 \ufffdeajt\u2212e\u2212ajt\ufffd\u2212st G(s) 2jedt\n=1\ufffd1\u22121\ufffd 2j \u2212s+aj \u2212s\u2212aj\n= \u2212a , Re[s] < 0 s2 + a2\n \u2212\u221e\n1 \ufffd 1 (aj\u2212s)t\ufffd0\n1 (\u2212aj\u2212s)t\ufffd0 \ufffd \u2212 \u2212s \u2212 aj e \ufffd\n= 2j \u2212s + aj e \ufffd \ufffd\u2212\u221e\n\ufffd\u2212\u221e\n       "
+}

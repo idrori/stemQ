@@ -1,0 +1,6 @@
+{
+       "Course": "Unified Engineering 3 and 4",
+       "Topic": "Unified Computers and programming",
+       "Original question": "Define a recursive binary search algorithm.",
+       "Solution": "If lb > ub\nReturn -1\nelse\nMid := (lb+ub)/2\nIf Array(Mid) = element Return Mid\nElsif Array(Mid) < Element\nReturn Binary_Search(Array, mid+1, ub, Element)\nElse\nReturn Binary_Search(Array, lb, mid-1, Element)\nEnd if End if"
+}

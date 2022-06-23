@@ -1,0 +1,6 @@
+{
+       "Course": "Nonlinear Dynamics I: Chaos",
+       "Topic": "Box Dimension",
+       "Original question": "Find the box dimension of the von Koch snowflake ",
+       "Solution": "ln(4)/ln(3)"
+}

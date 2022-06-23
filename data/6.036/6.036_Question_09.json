@@ -1,0 +1,6 @@
+{
+       "Course": "Introduction to Machine Learning",
+       "Topic": "Features",
+       "Original question": "What is the size of the margin of a point 1 by a classifier with theta 1 and theta_0 negative 2 if the point has label negative 1 ?",
+       "Solution": -3.0
+}

@@ -1,0 +1,6 @@
+{
+       "Course": "Unified Engineering 3 and 4",
+       "Topic": "Unified Computers and programming",
+       "Original question": "What are the best case and worst case computation complexity of: a. Inserting a node into an unsorted singly linked list and b. Inserting a node into a sorted singly linked list",
+       "Solution": "In the case of a sorted linked list, the list has to be traversed to find the right position. The list traversal takes O(n) in the worst case.\nBest case execution time is O(1) if the element being inserted is the smallest element in the list (list in ascending order)\nWorst case execution time is O(n) if the element being inserted is the largest element in the list (list in ascending order)"
+}

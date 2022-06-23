@@ -1,0 +1,6 @@
+{
+       "Course": "Introduction to Machine Learning",
+       "Topic": "Perceptrons",
+       "Original question": "Consider the classifier [ 1 3 0 ] and [ 2 3 1 ] . Do they represent the same classifier ? Return 1 if true and another value if false .",
+       "Solution": 4.0
+}

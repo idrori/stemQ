@@ -1,0 +1,6 @@
+{
+       "Course": "Introduction to Probability",
+       "Topic": "Conditional Probability",
+       "Original question": "Professor May B. Right often has her science facts wrong, and answers each of her students' questions incorrectly with probability 1/4, independently of other questions. In each lecture Professor Right is asked either 1 or 2 questions with equal probability. What is the probability that Professor Right gives wrong answers to all the questions she gets in a given lecture?",
+       "Solution": "May-32"
+}

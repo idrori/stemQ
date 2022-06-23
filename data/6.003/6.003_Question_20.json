@@ -1,0 +1,6 @@
+{
+       "Course": "Signals and Systems",
+       "Topic": "Discrete-time Fourier representations, Relations among Fourier representations",
+       "Original question": "Find the Fourier transforms of the following signal: x(t) = exp(-abs(t))",
+       "Solution": "X(j\u03c9) = 2/(1+\u03c9^2)"
+}

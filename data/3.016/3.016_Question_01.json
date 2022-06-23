@@ -1,0 +1,6 @@
+{
+       "Course": "Mathematics for Materials Scientists and Engineers",
+       "Topic": "Direction field",
+       "Original question": "Graph a direction field and sketch some solution curves. Solve the ODE exactly and compare.\ny' + 2y = 0",
+       "Solution": "y = c e^(-2x)"
+}

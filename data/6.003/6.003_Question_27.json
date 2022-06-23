@@ -1,0 +1,6 @@
+{
+       "Course": "Signals and Systems",
+       "Topic": "Topic: Feedback and control, Continuous-time frequency response and Bode plots",
+       "Original question": "For system s^2/(1+s+s^2), find the frequency \u03c9 for which the magnitude of the gain is greatest.",
+       "Solution": "sqrt(2)"
+}

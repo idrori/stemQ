@@ -1,0 +1,6 @@
+{
+       "Course": "Nonlinear Dynamics I: Chaos",
+       "Topic": "Logistic Map: Analysis",
+       "Original question": "Let p and q be points in a 2-cycle for the logistic map. Find the value of r at which the logistic map has a superstable 2-cycle.",
+       "Solution": "1+sqrt(5)"
+}

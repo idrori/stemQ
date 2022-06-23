@@ -1,0 +1,6 @@
+{
+       "Course": "Mathematics for Materials Scientists and Engineers",
+       "Topic": "Surface integrals",
+       "Original question": "Evaluate the integral \u222b\u222b_S F \u2022 n dA diectly or, if possible, by the divergence theorem. Show details.\nF = [ax, by, cz], S the sphere x^2 + y^2 + z^2 = 36",
+       "Solution": "288(a + b + c)\u03c0"
+}

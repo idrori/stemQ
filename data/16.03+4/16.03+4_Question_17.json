@@ -1,0 +1,6 @@
+{
+       "Course": "Unified Engineering 3 and 4",
+       "Topic": "Unified Computers and programming",
+       "Original question": "Convert the following expression into product of sum form:\nnot A\u3008not B\u3008not C+not A\u3008B\u3008C+A\u3008B\u3008not C+A\u3008not B\u3008C",
+       "Solution": "(A + B + not C) \u3008(A + not B + C) \u3008 (not A + not B + not C) \u3008 (not A + B + C)"
+}

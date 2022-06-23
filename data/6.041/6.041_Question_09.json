@@ -1,0 +1,6 @@
+{
+       "Course": "Introduction to Probability",
+       "Topic": "Poisson Approximations",
+       "Original question": "A particular medical operation proves fatal in 1% of the cases. Find an approximation to the probability that there will be at least 2 fatalities in 200 operations.",
+       "Solution": "0.594"
+}

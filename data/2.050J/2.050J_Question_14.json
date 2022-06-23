@@ -1,0 +1,6 @@
+{
+       "Course": "Nonlinear Dynamics I: Chaos",
+       "Topic": "Hopf Bifurcations",
+       "Original question": "By plotting phase portraits on the computer, show that\nthe system  \u1e8b = -y +\u00b5x+xy^2 , \u1e8f = x + \u00b5y -x^2 , undergoes a Hopf bifurcation at\n\u00b5 = 0. Is it subcritical, supercritical, or degenerate?",
+       "Solution": "subcritical"
+}

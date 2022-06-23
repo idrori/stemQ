@@ -1,0 +1,6 @@
+{
+       "Course": "Introduction to Machine Learning",
+       "Topic": "Neural Networks II",
+       "Original question": "In a neural network , neuron A outputs the sum of x1 times w1 and oA times wOA and neuron C outputs the ReLU of the sum of the product between the input from neuron A and wAC and the product between oC and wOC . What is the output of neuron C if we are given that x1 is negative 1 , w1 is 1 , oA is 0.5 , wOA is 2 , wAC is 1 , oC is 4 , and wOC is 2 ?",
+       "Solution": 8.0
+}

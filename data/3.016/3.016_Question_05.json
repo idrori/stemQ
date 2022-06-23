@@ -1,0 +1,6 @@
+{
+       "Course": "Mathematics for Materials Scientists and Engineers",
+       "Topic": "Initial value problem",
+       "Original question": "Solve the IVP. Show the details of your work.\n(D^3 + 9D^2 + 23D + 15I)y = 12exp(-4x), y(0) = 9, Dy(0) = -41, D^2 y(0) = 189",
+       "Solution": "y = 4e^(-4x) + 5e^(-5x)\n"
+}

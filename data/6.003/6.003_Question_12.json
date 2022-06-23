@@ -1,0 +1,6 @@
+{
+       "Course": "Signals and Systems",
+       "Topic": "Z transform, Laplace transform",
+       "Original question": "Consider this variant of the Fibonacci system: y[n] = y[n \u2212 1] \u2212 y[n \u2212 2] + x[n], compute the period of its unit-sample response.",
+       "Solution": "6"
+}

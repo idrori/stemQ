@@ -1,0 +1,6 @@
+{
+       "Course": "Marine Power and Propulsion",
+       "Topic": NaN,
+       "Original question": "An intercooled recuperative gas turbine has the following design conditions:\n Compressor inlet temperature, T1=T3 310K\n Compressor pressure ratio, p2/p1=p4/p3 5\n Turbine inlet temperature, T6 1350K\n Pressure Loss, \u0394p/p 10%\n Compressor polytropic efficiency, \u03b7pc 85%\n Turbine polytropic efficiency, \u03b7pt 90%\n Regenerator effectiveness, \u03b5=(T5-T4)/(T7-T4) 0.85\n Combustion efficiency, \u03b7comb 92%\n Determine:\na. the fuel/air ratio, mf/ma\nb. the specific power in kW/kg per sec (i.e. net power/mass flow rate of\nair)\nc. the specific fuel consumption in kg of fuel per kW hour\nd. Calculate the required cross sectional area for the inlet duct if the inlet\nduct velocity is 25 m/s for the turbine. Assume that the ambient air\noutside the ship is at 1 bar and 298K\nAssume that the working fluids are air (\u03b3a = 1.4 and cpa = 1.005 kJ/kg K) for the\ncompressor and the combustion products (\u03b3p = 1.33 and cpp = 1.130 kJ/kg K) for\nthe turbine. The fuel for the combustor is at 25\u00b0 C and the heating value (LHV) is\n43,000 kJ/kg.",
+       "Solution": NaN
+}

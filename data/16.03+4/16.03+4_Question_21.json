@@ -1,0 +1,6 @@
+{
+       "Course": "Unified Engineering 3 and 4",
+       "Topic": "Signals and Systems",
+       "Original question": "Consider the signal g(t) = (1 + |t|)e\u2212|t|. How close is the answer to the theoretical lower bound? Explain why the answer is or is not close to the bound.",
+       "Solution": "The duration\u00ad bandwidth product is \u0394t\u0394\u03c9 = 4 \u221a7/5 which is very close to the theoretical lower limit of 2. This is not surprising, since the shape of g(t) is close to a gaussian."
+}

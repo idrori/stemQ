@@ -1,0 +1,6 @@
+{
+       "Course": "Fundamentals of Materials Science",
+       "Topic": "Boltzmann distribution",
+       "Original question": "Consider an imaginary crystal where a collection of 3 atoms vibrate as simple 1D harmonic oscillators, and each atoms has access only to the first 4 energy levels (the ground state and the first 3 excited states). The energies of the 4 states are 75k, 225k, 375k, and 525k from the ground state to the higher energy states (where k is the Boltzmann constant). The atoms are identical and distinguishable. What is the probability of finding one atom of the system at the 75k energy level at T = 200K?",
+       "Solution": "P(75k) = .5553\nP(225k) = .2623\nP(375k) = .1239\nP(525k) = .0585"
+}

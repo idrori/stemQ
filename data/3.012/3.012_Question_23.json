@@ -1,0 +1,6 @@
+{
+       "Course": "Fundamentals of Materials Science",
+       "Topic": "Energy transfer",
+       "Original question": "Two variants of GFP, cyan fluorescent protein (CFP) and yellow fluorescent protein (YFP), form a FRET pair where R_0 = 4.72 nm. The excited-state lifetime of the CFP donor in the absence of YFP is 2.7 ns. At what distance will the rate of energy transfer be equal to the excited-state decay rate for isolated CFP, equal to the inverse of the excited-state lifetime?",
+       "Solution": "4.72 nm"
+}

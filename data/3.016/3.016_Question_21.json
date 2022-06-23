@@ -1,0 +1,6 @@
+{
+       "Course": "Mathematics for Materials Scientists and Engineers",
+       "Topic": "Surface integrals",
+       "Original question": "Evaluate the integral \u222b\u222b_S F \u2022 n dA diectly or, if possible, by the divergence theorem. Show details.\nF = [x + z, y + z, x + y], S the sphere of radius 3 with center 0",
+       "Solution": "72\u03c0"
+}

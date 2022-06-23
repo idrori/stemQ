@@ -1,0 +1,6 @@
+{
+       "Course": "Unified Engineering 3 and 4",
+       "Topic": "Signals and Systems",
+       "Original question": "Consider the signal\ng(t) = (1 + |t|)e\u2212|t|. Find the bandwidth of the signal, \u0394\u03c9. You may want to use the time domain formula for the bandwidth.",
+       "Solution": "\u0394\u03c9 =  2/\u221a5"
+}

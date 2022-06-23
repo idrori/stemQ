@@ -1,0 +1,6 @@
+{
+       "Course": "Unified Engineering 1 and 2",
+       "Topic": "Unified Computers and programming",
+       "Original question": "Convert the following base 10 numbers into 8-bit 2\u2019s complement notation 0, -1, -12",
+       "Solution": "To Compute 0\n0 = 00000000\nTo Compute \u20131\nStep 1. Convert 1 to binary 00000001\nStep 2. Flip the bits 11111110\nStep3. Add 1 11111111\nTherefore \u20131 = 11111111 \nTo Compute \u201312\nStep 1. Convert 12 to binary 00001100\nStep 2. Flip the bits 11110011\nStep3. Add 1 11110100\nTherefore \u201312 = 11110100"
+}

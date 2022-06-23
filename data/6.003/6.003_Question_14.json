@@ -1,0 +1,6 @@
+{
+       "Course": "Signals and Systems",
+       "Topic": "Discrete approximation of continuous-time systems, Convolution",
+       "Original question": "Determine the Laplace transforms (including the regions of convergence) of the following signal: x(t)=(1-(1-t)*exp^(-3*t))u(t)",
+       "Solution": "X = (4*s+9)/(s*(s+3)^2)"
+}

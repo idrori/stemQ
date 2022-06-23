@@ -1,0 +1,6 @@
+{
+       "Course": "Introduction to Probability",
+       "Topic": "Probability",
+       "Original question": "Anne and Bob each have a deck of playing cards. Each flips over a randomly selected card. Assume that all pairs of cards are equally likely to be drawn. Determine the following probability: the probability that at least one card is an ace",
+       "Solution": "25/169"
+}

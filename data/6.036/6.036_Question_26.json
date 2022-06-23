@@ -1,0 +1,6 @@
+{
+       "Course": "Introduction to Machine Learning",
+       "Topic": "Reinforcement Learning",
+       "Original question": "What is the updated Q value of a tuple ( s a ) if q is 0 , the a is 0.2 , and t is 2 ?",
+       "Solution": 0.4
+}

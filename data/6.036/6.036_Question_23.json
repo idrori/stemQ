@@ -1,0 +1,6 @@
+{
+       "Course": "Introduction to Machine Learning",
+       "Topic": "State Machines and Markov Decision Processes",
+       "Original question": "Consider the input x_t = [ 3 4 4 10 16 ] to a state machine with equations s_t = f(s_(t-1), x_t) and y_t = g(s_t) . Compute y_5 if our initial conditions are s_0 is 7 , f(s_(t-1), x_t) = max ( s_(t-1) , x_t ) , and g(s_t) = 4 * s_t .",
+       "Solution": 64.0
+}

@@ -1,0 +1,6 @@
+{
+       "Course": "Mathematics for Materials Scientists and Engineers",
+       "Topic": "Initial value problem",
+       "Original question": "Solve the IVP. Indicate the method used. Show the details of your work.\n3 sec(y)dx + 1/3 sec(x)dy = 0, y(0) = 0",
+       "Solution": "3 sin(x) + 1/3 sin(y) = 0"
+}

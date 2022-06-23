@@ -1,0 +1,6 @@
+{
+       "Course": "Unified Engineering 1 and 2",
+       "Topic": "Unified Computers and programming",
+       "Original question": "Write an Ada95 program to accept a date in the Date/Month/Year format. Accept each of the inputs separately. Display the date in all three formats as shown below. Turn in the hard copy of your algorithm and code listing, and an electronic copy of your code.\ni. 19/9/2003 (Date, Month, Year)\nii. 19 September 2003\niii. 19.IX.2003\nHint: Use Enumerations to represent the month. Note: The enumerations range from 0 to (number_of_elements_in_Enumeration \u20131).",
+       "Solution": "1. Use a subtype to represent the numbers for months\n2. Use an enumeration to represent the named months\n3. Use an enumeration to represent the roman months\n4. Get the inputs from the user\n5. Convert the month into roman and named formats using\na. New_Type_Package\u2019Val(Month_Type\u2019Pos(Month) \u20131);\n6. Display the months in all three formats to the user."
+}

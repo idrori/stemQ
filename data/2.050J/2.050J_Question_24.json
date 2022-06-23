@@ -1,0 +1,6 @@
+{
+       "Course": "Nonlinear Dynamics I: Chaos",
+       "Topic": "H\u00e9non Map",
+       "Original question": "Calculate the Jacobian matrix of the H\u00e9non map and find its eigenvalues.",
+       "Solution": "-ax* \u00b1 sqrt((ax*)^2 + b)"
+}

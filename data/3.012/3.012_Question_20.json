@@ -1,0 +1,6 @@
+{
+       "Course": "Fundamentals of Materials Science",
+       "Topic": "Energy",
+       "Original question": "Generally, the quantization of translational motion is not significant for atoms because of their mass. However, this conclusion depends on the dimensions of the space to which they are confined. Zeolites are structures with small pores that we describe by a cube with edge length 1 nm. Calculate the energy of a H2 molecule with n_x = n_y = n_z = 10.",
+       "Solution": "4.92 * 10^-21 J"
+}

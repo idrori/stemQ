@@ -1,0 +1,6 @@
+{
+       "Course": "Mathematics for Materials Scientists and Engineers",
+       "Topic": "Laplace transforms",
+       "Original question": "Find the transform, indicating the method used and showing the details.\n5 cosh 2t - 3 sinh t",
+       "Solution": "5s / (s^2 - 4) - 3 / (s^2 - 1)"
+}

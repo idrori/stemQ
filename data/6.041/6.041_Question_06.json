@@ -1,0 +1,6 @@
+{
+       "Course": "Introduction to Probability",
+       "Topic": "Discrete Random Variables, Expectation",
+       "Original question": "Imagine that you first roll a fair 6-sided die and then you flip a fair coin the number of times shown by the die. Letting X denote the number of these flips that come up heads, find E[X].",
+       "Solution": "4-Jul"
+}

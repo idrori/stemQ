@@ -1,0 +1,6 @@
+{
+       "Course": "Nonlinear Dynamics I: Chaos",
+       "Topic": "Classification of Linear systems",
+       "Original question": "classify the fixed point of the following linear systems.  \n\u1e8b = y\n\u1e8f = -2x-3y",
+       "Solution": "stable node"
+}

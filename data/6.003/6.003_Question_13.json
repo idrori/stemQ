@@ -1,0 +1,6 @@
+{
+       "Course": "Signals and Systems",
+       "Topic": "Discrete approximation of continuous-time systems, Convolution",
+       "Original question": "Determine the Laplace transforms (including the regions of convergence) of the following signal: x(t)=exp(\u22122*(t\u22123)) u(t\u22123)",
+       "Solution": "X = exp(-3*s)/(s+2)"
+}

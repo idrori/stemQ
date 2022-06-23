@@ -1,0 +1,6 @@
+{
+       "Course": "Mathematics for Materials Scientists and Engineers",
+       "Topic": "Eigenvalues",
+       "Original question": "Find the eigenvalues. Find the eigenvectors.\n[[2.5, 0.5],\n [0.5, 2.5]]",
+       "Solution": "3, [1 1]^T; 2, [1 -1]^T"
+}

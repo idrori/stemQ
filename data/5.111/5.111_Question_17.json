@@ -1,0 +1,6 @@
+{
+       "Course": "Principles of Chemical Science",
+       "Topic": "Thermodynamics",
+       "Original question": "Consider the formation of MgO (s). Assume that \u0394H r\u00b0 and \u0394Sr\u00b0 are independent of temperature. Mg (s) + 1/2 O2 (g) \u2192 MgO (s). \u0394H r\u00b0 = -602 kJ/mol. \u0394Sr\u00b0 = -108 JK-1mol-1. Is there a temperature at which the formation of MgO switches from spontaneous to nonspontaneous or vice versa? If no, explain briefly why not. If yes, calculate the temperature (T*) at which the spontaneity of the reaction switches.",
+       "Solution": "5570 K"
+}

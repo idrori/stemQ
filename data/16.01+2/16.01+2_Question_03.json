@@ -1,0 +1,6 @@
+{
+       "Course": "Unified Engineering 1 and 2",
+       "Topic": "Unified Computers and programming",
+       "Original question": "Write an algorithm to implement the subtraction operation for two positive integers in assembly language.",
+       "Solution": "1. Let the numbers be A, B and the operation be A-B 2. Convert A into binary 3. Convert B into binary 4. Compute 2\u2019s complement of B i. Invert the bits in B using B xor 11111111 ii. Add 1 to B 5. Add A and the 2\u2019s complement of B."
+}

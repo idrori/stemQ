@@ -1,0 +1,6 @@
+{
+       "Course": "Introduction to Machine Learning",
+       "Topic": "Decision Trees",
+       "Original question": "Consider a plane of 47 points , 26 of which are on the left side . Of the points on the left , 2 points are positive . Find the entropy of the left side .",
+       "Solution": 0.3912435636
+}

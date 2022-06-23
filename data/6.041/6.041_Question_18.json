@@ -1,0 +1,6 @@
+{
+       "Course": "Introduction to Probability",
+       "Topic": "Discrete Random Variables, Expectation",
+       "Original question": "Two fair, three-sided dice are rolled simultaneously. As a gambling game, you pay a dollars in advance and get paid 5X, with X defined as the sum of the two rolls. What value of a makes it a fair game, i.e., one in which you break even on average?",
+       "Solution": "15"
+}

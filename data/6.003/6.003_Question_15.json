@@ -1,0 +1,6 @@
+{
+       "Course": "Signals and Systems",
+       "Topic": "Discrete approximation of continuous-time systems, Convolution",
+       "Original question": "Use the initial and final value theorems (where applicable) to find x(0) and x(inf) for the signal with the following Laplace transform: 1/(s * (s+1)^2)",
+       "Solution": "x(0)=0 , x(inf)=1"
+}

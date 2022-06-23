@@ -1,0 +1,6 @@
+{
+       "Course": "Mathematics for Materials Scientists and Engineers",
+       "Topic": "Resultant, equilibrium",
+       "Original question": "Let a = [4, 7, 0], b = [3, -1, 5], c = [-6, 2, 0], and d = [1, -2, 8].\nFind u such that u and a, b, c, d above and u are in equilibrium.",
+       "Solution": "[-2, -6, -13]"
+}

@@ -1,0 +1,6 @@
+{
+       "Course": "Introduction to Machine Learning",
+       "Topic": "Neural Networks I",
+       "Original question": "A neural network has inputs x1 = 1 with weight 2 and x2 = 4 with weight 1 and offset value oA = 0.5 . Neuron B inputs x2 with offset 1 . Neuron C takes in the output of neurons A and B with offsets wAC = 1 and wBC = 3 , respectively . Neuron C has offset value oC = 5 . Compute the output .",
+       "Solution": 22.5
+}

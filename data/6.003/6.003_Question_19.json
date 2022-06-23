@@ -1,0 +1,6 @@
+{
+       "Course": "Signals and Systems",
+       "Topic": "Fourier transform, Discrete-time frequency representations",
+       "Original question": "Find the Fourier transforms of the following signal: x(t) = (1-abs(t))*u(t+1)*u(1-t)",
+       "Solution": "X(j\u03c9)=2*(1-cos(\u03c9))/\u03c9^2"
+}

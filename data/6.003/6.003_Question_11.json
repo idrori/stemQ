@@ -1,0 +1,6 @@
+{
+       "Course": "Signals and Systems",
+       "Topic": "Z transform, Laplace transform",
+       "Original question": "If the region of convergence of a system\u2019s Z transform includes the unit circle, is the system stable?",
+       "Solution": "Yes"
+}

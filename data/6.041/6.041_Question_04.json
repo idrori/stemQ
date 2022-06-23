@@ -1,0 +1,6 @@
+{
+       "Course": "Introduction to Probability",
+       "Topic": "Discrete Random Variables",
+       "Original question": "Let X and Y be independent random variables that take values in the set {1, 2, 3}. Let V = 2X + 2Y and W = X \u2212 Y . Assume that P({X = k}) and P({Y = k}) are positive for any k \u2208 {1, 2, 3}. Can V and W be independent?",
+       "Solution": "no"
+}

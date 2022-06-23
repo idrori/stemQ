@@ -1,0 +1,6 @@
+{
+       "Course": "Unified Engineering 1 and 2",
+       "Topic": "Thermodynamics",
+       "Original question": "What does it mean for a process to be quasi-equilibrium?",
+       "Solution": "A process is quasi-equilibrium if the time rate of change of the process is slow relative to the time it takes for the system to reach thermodynamic equilibrium."
+}

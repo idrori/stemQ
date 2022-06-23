@@ -1,0 +1,6 @@
+{
+       "Course": "Fundamentals of Materials Science",
+       "Topic": "Lattice planes",
+       "Original question": "A particular cubic crystal has a lattice constant of 7 \u00c5. It is irradiated with X-rays produced by\nan X-ray tube with a molybdenum target. The strongest intensity produced from such a\ntarget (one of the two metals that are most commonly used to produce radiation for\ndiffraction; the other is copper) has a wavelength of 0.7107 \u00c5. Upon irradiating the crystal it\nis found that the (310) plane produces a diffracted beam at an angle, \u03b8, of 53.384 degrees.\nCompute the value of the interplanar spacing, d, between (310) planes.",
+       "Solution": "2.21 \u00c5"
+}

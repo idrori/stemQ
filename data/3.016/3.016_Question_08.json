@@ -1,0 +1,6 @@
+{
+       "Course": "Mathematics for Materials Scientists and Engineers",
+       "Topic": "Inverse Laplace transform",
+       "Original question": "Find the inverse transform, indicating the method used and showing the details:\n6(s + 1) / s^4",
+       "Solution": "3t^2 + t^3"
+}

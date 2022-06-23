@@ -1,0 +1,6 @@
+{
+       "Course": "Marine Power and Propulsion",
+       "Topic": "Thermodynamics",
+       "Original question": "3. Consider the tank system below. Tank A has a volume of 100ft^3\n and initially contains\nR134a at a pressure of 100 kPa and a temperature of 313 Kelvin. The compressor\nevacuates tank A and charges tank B. Tank B is initially evacuated and is of such volume\nthat the final pressure of the R134a in tank B is 800 kPa. Temperature remains constant.\nDetermine the work done by the compressor. ",
+       "Solution": "-6.016 * 10^5 J"
+}

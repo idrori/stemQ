@@ -1,0 +1,6 @@
+{
+       "Course": "Mathematics for Materials Scientists and Engineers",
+       "Topic": "Line integrals, Stokes",
+       "Original question": "Evaluate \u222b_C F(r) \u2022 dr for given F and C by the method that seems most suitable. Remember that if F is a force, the integral gives the work done in the displacement along C. Show details.\nF = [9z, 5x, 3y], C the ellipse x^2 + y^2 = 9, z = x + 2",
+       "Solution": "\u00b118\u03c0"
+}

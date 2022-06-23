@@ -1,0 +1,6 @@
+{
+       "Course": "Fundamentals of Materials Science",
+       "Topic": "Heat",
+       "Original question": "An air conditioner is a refrigerator with the inside of the house acting as the cold reservoir and the outside atmosphere acting as the hot reservoir. Assume that an air conditioner consumes 1.70 * 10^3 W of electrical power, and that it can be idealized as a reversible Carnot refrigerator. If the coefficient of performance of this device is 3.30, how much heat can be extracted from the house in a day?\n",
+       "Solution": "4.85 * 10^8 J"
+}

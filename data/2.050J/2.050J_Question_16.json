@@ -1,0 +1,6 @@
+{
+       "Course": "Nonlinear Dynamics I: Chaos",
+       "Topic": "Saddle-Node, Transcritical, and Pitchfork Bifurcations",
+       "Original question": "Consider the system \u1e8b = y-2x, \u1e8f= \u00b5 + x^2 - y.  Find and classify the bifurcations that occur as \u00b5 varies.",
+       "Solution": "(b) \u00b5_c = 1; saddle-node bifurcation"
+}

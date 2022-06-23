@@ -1,0 +1,6 @@
+{
+       "Course": "Mathematics for Materials Scientists and Engineers",
+       "Topic": "Ordinary differential equations, Laplace transform",
+       "Original question": "Solve by the Laplace transform, showing the details and graphing the solution:\ny'' + 4y' + 5y = 50t, y(0) = 5, y'(0) = -5",
+       "Solution": "y = e^(-2t) (13 cos t + 11 sin t) + 10t - 8"
+}

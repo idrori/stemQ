@@ -1,0 +1,6 @@
+{
+       "Course": "Nonlinear Dynamics I: Chaos",
+       "Topic": "Fixed Points and Linearization",
+       "Original question": "For each of the following systems, find the fixed points, classify them\n\u1e8b = sin(y)\n\u1e8f = x-x^3",
+       "Solution": "(-1,-1), stable node; \n(1,1) ,  saddle point"
+}

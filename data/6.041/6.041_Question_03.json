@@ -1,0 +1,6 @@
+{
+       "Course": "Introduction to Probability",
+       "Topic": "Discrete Random Variables, Expectation",
+       "Original question": "Consider another game played with dice. Each of two players rolls a fair, four-sided die. Player A scores the maximum of the two dice minus 1, which is denoted X. Player B scores the minimum of the two dice, which is denoted Y. Find the expectation of X.",
+       "Solution": "17/8"
+}

@@ -1,0 +1,6 @@
+{
+       "Course": "Introduction to Machine Learning",
+       "Topic": "Logistic Regression",
+       "Original question": "Calculate the updated theta after one gradient descent step if theta is 3 , eta is 0.05 , and the loss function is ( 1 * theta + 3 ) ^ 2 .",
+       "Solution": 2.4
+}

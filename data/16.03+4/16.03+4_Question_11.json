@@ -1,0 +1,6 @@
+{
+       "Course": "Unified Engineering 3 and 4",
+       "Topic": "Unified Computers and programming",
+       "Original question": "Define a robust algorithm to carry out integer division using repeated subtraction.\nYour algorithm accepts two integers and returns the quotient and the remainder. Hint: What are the preconditions and postconditions of your algorithm?",
+       "Solution": "Precondtions: Two integers x,y y is non-zero\nAlgorithm:\nSet R to absolute_value(x)\nSet Q to zero\nWhile R >= absolute_value (y)\nIncrement Q\nR := R- absolute_value(y) If either x or y are negative\nIf both x and y are negative Set R to \u2013R\nelse\nif x is negative\nSet R to \u2013R Set Q to \u2013Q\nDisplay Q and R\nPostconditions: Q contains the quotient R contains the remainder\nx = Q*y + R, abs(R) < abs(Q)"
+}

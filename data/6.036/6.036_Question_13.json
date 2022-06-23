@@ -1,0 +1,6 @@
+{
+       "Course": "Introduction to Machine Learning",
+       "Topic": "Regression",
+       "Original question": "Calculate the value of y in the dataset [ ( 0 0 ) , ( 1 2 ) , ( 2 y ) ] if we know that the optimal theta 2 used mean squared error . Let lambda be 1 .",
+       "Solution": 2.0
+}

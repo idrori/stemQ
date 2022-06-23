@@ -1,0 +1,6 @@
+{
+       "Course": "Introduction to Machine Learning",
+       "Topic": "Reinforcement Learning",
+       "Original question": "After applying Q learning to q = 6 , what is its value ? Let the t be 8 and a be 0.2 .",
+       "Solution": 6.4
+}

@@ -1,0 +1,6 @@
+{
+       "Course": "Fundamentals of Materials Science",
+       "Topic": "Boltzmann distribution",
+       "Original question": "In discussing molecular rotation, the quantum number J is used rather than l. Using the Boltzmann distribution, calculate n_J/n_0 for 1H35Cl for J = 0, 5, 10, and 20 at T = 1025 K.",
+       "Solution": "1, 7.04, 4.09, 7.95*10^-2"
+}

@@ -1,0 +1,6 @@
+{
+       "Course": "Introduction to Machine Learning",
+       "Topic": "Regression",
+       "Original question": "f(theta) is the square of the sum of 8 and the product of 5 and theta , where theta is 1 . What is f(theta) ?",
+       "Solution": 169.0
+}

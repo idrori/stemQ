@@ -1,0 +1,6 @@
+{
+       "Course": "Signals and Systems",
+       "Topic": "Fourier transform, Discrete-time frequency representations",
+       "Original question": "Find the Fourier transforms of the following signal: x(t) = (sin(2*pi*t)) / (pi*(t\u22121))",
+       "Solution": "X(j\u03c9) = exp(-j\u03c9)*(u(\u03c9 + 2*pi) \u2013 u(\u03c9 \u2013 2*pi))"
+}

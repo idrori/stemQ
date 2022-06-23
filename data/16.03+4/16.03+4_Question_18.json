@@ -1,0 +1,6 @@
+{
+       "Course": "Unified Engineering 3 and 4",
+       "Topic": "Signals and Systems",
+       "Original question": "Consider the signal\ng(t) = (1 + |t|)e\u2212|t|\n1. Plot the signal. Do you expect the signal to have a \u201cgood\u201d duration\u00adbandwidth\nproduct, meaning that the product is close to the lower bound?",
+       "Solution": "The signal is very smooth, almost like a Gaussian. Therefore, I expect that the duration bandwidth product will be close to the theoretical lower bound."
+}

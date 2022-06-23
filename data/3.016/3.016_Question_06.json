@@ -1,0 +1,6 @@
+{
+       "Course": "Mathematics for Materials Scientists and Engineers",
+       "Topic": "Linearization",
+       "Original question": "Find the location and kind of all critical points of the given nonlinear system by linearization.\ny_1' = y_2\ny_2' = y_1 - y_1^3",
+       "Solution": "(0, 0) saddle point; (-1, 0), (1, 0) centers"
+}

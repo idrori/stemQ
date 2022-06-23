@@ -1,0 +1,6 @@
+{
+       "Course": "Mathematics for Materials Scientists and Engineers",
+       "Topic": "Conic sections",
+       "Original question": "Reduce to principal axes. Express [x_1 x_2]^T in terms of the new variables.\n9x_1^2 - 6x_1x_2 + 17x_2^2 = 72",
+       "Solution": "Ellipse 8y_1^2 + 18y_2^2 = 72, x_1 = (3y_1 + y_2) / sqrt(10), x_2 = (y_1 - 3y)2) / sqrt(10)"
+}

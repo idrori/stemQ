@@ -1,0 +1,6 @@
+{
+       "Course": "Introduction to Machine Learning",
+       "Topic": "Convolutional Neural Networks",
+       "Original question": "Determine how many pixels of padding we need on the input of size 80 by 80 to ensure our filter 31 by 31 gives an output of the same size .",
+       "Solution": 15.0
+}

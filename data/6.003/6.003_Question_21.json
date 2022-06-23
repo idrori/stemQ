@@ -1,0 +1,6 @@
+{
+       "Course": "Signals and Systems",
+       "Topic": "Discrete-time Fourier representations, Relations among Fourier representations",
+       "Original question": "Find the Fourier transforms of the following signal: x(t) = 1/(1+t^2)",
+       "Solution": "X(j\u03c9) = pi * exp(-abs(\u03c9))"
+}

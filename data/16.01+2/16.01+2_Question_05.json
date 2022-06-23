@@ -1,0 +1,6 @@
+{
+       "Course": "Unified Engineering 1 and 2",
+       "Topic": "Unified Computers and programming",
+       "Original question": "What are the First and Last values of the following data types \na. Integer\nb. Float\nc. Character \nd. Boolean",
+       "Solution": "a. Integer\nInteger\u2019First = -2147483648 Integer\u2019Last = 2147483647\nb. Float\nFloat\u2019First = -3.40282E+38 Float\u2019Last = 3.40282E+38\nc. Character Character\u2019First =\nCharacter\u2019Last =\nNote that both the character values are control character and hence do not get printed on the screen. The position values are 0, 255\nd. Boolean\nBoolean\u2019First = FALSE\nBoolean\u2019Last = TRUE"
+}

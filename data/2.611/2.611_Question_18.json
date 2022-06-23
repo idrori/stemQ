@@ -1,0 +1,6 @@
+{
+       "Course": "Marine Power and Propulsion",
+       "Topic": "Thermodynamics",
+       "Original question": "2. Air at 10\u00ba C and 80kPa enters the diffuser of a jet engine steadily with a velocity of\n200 m/s. The inlet area of the diffuser is 0.5 m^2\n. The air leaves the diffuser with a\nvelocity that is very small compared with the inlet velocity. (Assume the diffuser is the\nsystem, flow is steady and air is an ideal gas (R=.287 (kPA*m3\n)/(kg*K), enthalpy @ 283\nKelvin ~ 283 kJ/kg ) Determine:\nb) The temperature of the air leaving the diffuser. ",
+       "Solution": "303.14 K"
+}

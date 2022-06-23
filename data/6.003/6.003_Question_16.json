@@ -1,0 +1,6 @@
+{
+       "Course": "Signals and Systems",
+       "Topic": "Discrete approximation of continuous-time systems, Convolution",
+       "Original question": "Use the initial value theorems (where applicable) to find x(0) for the signal with the following Laplace transform: 1/(s^2+1)",
+       "Solution": "x(0)=0"
+}

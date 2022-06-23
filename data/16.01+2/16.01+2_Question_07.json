@@ -1,0 +1,6 @@
+{
+       "Course": "Unified Engineering 1 and 2",
+       "Topic": "Unified Computers and programming",
+       "Original question": "Solve the following recurrence equation using the iteration method. Show all the steps in your derivation.\nc n=1 T(n)= n\uf8e7\naT b\u221a+cn n>1 \u21b5\n Where a,b,c >=1.",
+       "Solution": "Substitute the value of T(n) from the recurrence equation: aT(n/b) + cn\n\u21d2 a(aT((n/b)/b) + c(n/b)) + cn\n\u21d2 a2T(n/b2) + cn(a/b) + cn\n\u21d2 a2T(n/b2) + cn((a/b) + 1)\n\u21d2 a2(aT((n/b2)/b) + cn/b2) + cn((a/b) + 1)\n\u21d2 a3T(n/b3) + cn(a2/b2) + cn((a/b) + 1)\n\u21d2 a3T(n/b3) + cn((a2/b2)+ (a/b )+ 1) ...\n\u21d2 akT(n/bk) + cn((ak-1/bk-1)+ (ak-2/bk-2)+ ... + (a2/b2)+ (a/b) + 1)\nWhen k = logb n, \u21d2 n = bk\nT(n) = akT(1) + cn(ak-1/bk-1 + ... + a2/b2 + a/b + 1)\n= akc + cn(ak-1/bk-1 + ... + a2/b2 + a/b + 1)\n= cak + cn(ak-1/bk-1 + ... + a2/b2 + a/b + 1)\n= cnak/bk + cn(ak-1/bk-1 + ... + a2/b2 + a/b + 1) = cn(ak/bk + ... + a2/b2 + a/b + 1)"
+}

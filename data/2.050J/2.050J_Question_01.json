@@ -1,0 +1,6 @@
+{
+       "Course": "Nonlinear Dynamics I: Chaos",
+       "Topic": "Flows on the Line",
+       "Original question": "Find all the fixed points of the flow \u1e8b = sin(x)",
+       "Solution": "sin x= 0 at x*=n\u03c0, for integer n"
+}

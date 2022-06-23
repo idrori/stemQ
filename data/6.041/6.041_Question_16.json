@@ -1,0 +1,6 @@
+{
+       "Course": "Introduction to Probability",
+       "Topic": "Conditional Probability",
+       "Original question": "Before leaving to work, Victor checks the weather report before deciding on carrying an umbrella or not. If the forecast is \u201crain\u201d, the probability of actually having rain that day is 80%. On the other hand, if the forecast is \u201cno rain\u201d the probability of actually raining is equal to 10%. During fall and winter the forecast is 70% of the time \u201crain\u201d and during summer and spring it is 20%. One day, Victor missed the forecast and it rained. What is the probability that the forecast was \u201crain\u201d if it was during the summer?",
+       "Solution": "3-Feb"
+}

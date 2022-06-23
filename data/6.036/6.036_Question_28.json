@@ -1,0 +1,6 @@
+{
+       "Course": "Introduction to Machine Learning",
+       "Topic": "Recurrent Neural Networks",
+       "Original question": "What is the RNN result s_3 if s_0 is 3 , w is 1 , and x is [ 0 3 1 ] if we let s_t = w * s_t-1 + x_t ?",
+       "Solution": 7.0
+}

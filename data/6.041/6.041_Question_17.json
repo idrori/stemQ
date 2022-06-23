@@ -1,0 +1,6 @@
+{
+       "Course": "Introduction to Probability",
+       "Topic": "Counting, Probability",
+       "Original question": "Mary and Tom park their cars in an empty parking lot that consists of N parking spaces in a row. Assume that each possible pair of parking locations is equally likely. Calculate the probability that the parking spaces they select are adjacent.",
+       "Solution": "2/N"
+}

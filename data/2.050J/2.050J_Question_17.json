@@ -1,0 +1,6 @@
+{
+       "Course": "Nonlinear Dynamics I: Chaos",
+       "Topic": "Global Bifurcations of Cycles",
+       "Original question": "Using numerical integration, find the value of \u00b5\nat which the system \u1e8b = \u00b5x + y- x^2, \u1e8f= - x + \u00b5y + 2x^2  undergoes a homoclinic\nbifurcation.",
+       "Solution": "\u00b5 = 0.066 \u00b1 0.001"
+}

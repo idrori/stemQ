@@ -1,0 +1,6 @@
+{
+       "Course": "Unified Engineering 1 and 2",
+       "Topic": "Materials and Structures",
+       "Original question": "Explain the change in moduli of polymers at the glass transition temperature.",
+       "Solution": "The Van der Waals bonds \u201cmelt\u201d at this temperature, i.e. the thermal vibration exceeds the ability of the bonds to hold the molecules together. Thermoplastics rely on Van der Waals bonds for their elastic response at low temperatures. If these bonds are removed,then the polymer behaves viscoelastically, with the elastic component\ncoming from entanglements between the polymer chains."
+}

@@ -1,0 +1,6 @@
+{
+       "Course": "Introduction to Probability",
+       "Topic": "Probability Mass Functions",
+       "Original question": "Four fair 6-sided dice are rolled independently of each other. Let X1 be the sum of the numbers on the first and second dice, and X2 be the sum of the numbers on the third and fourth dice. Convolve the PMFs of the random variables X1 and X2 to find the probability that the outcomes of the four dice rolls sum to 8.",
+       "Solution": "35/1296"
+}

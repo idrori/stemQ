@@ -1,0 +1,6 @@
+{
+       "Course": "Unified Engineering 3 and 4",
+       "Topic": "Unified Computers and programming",
+       "Original question": "What is the minimum number of test cases needed to test the fragment of code\nshown below? Justify your answer.\nif A < 100 and B > 200 then if A > 50 then\nSum := Sum +2; else\nSum := Sum +1; end if;\nelse\nif B < 300 then\nSum:= Sum -1; else\nSum := Sum -2; end if;\nend if;",
+       "Solution": " 4 test cases"
+}

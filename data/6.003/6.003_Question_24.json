@@ -1,0 +1,6 @@
+{
+       "Course": "Signals and Systems",
+       "Topic": "Z transform, Laplace transform",
+       "Original question": "Consider this variant of the Fibonacci system: y[n] = y[n \u2212 1] \u2212 y[n \u2212 2] + x[n]\n where x[n] represents the input and y[n] represents the output. Enter the poles of the system.",
+       "Solution": "poles = e^(j*pi/3) e^(-j*pi/3)"
+}

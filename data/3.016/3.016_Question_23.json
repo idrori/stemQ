@@ -1,0 +1,6 @@
+{
+       "Course": "Mathematics for Materials Scientists and Engineers",
+       "Topic": "Minimum square error",
+       "Original question": "Compute the minimum square error for f(x) = x/\u03c0 (-\u03c0 < x < \u03c0) and trigonometric polynomials of degree N = 1, ... , 5.",
+       "Solution": "0.82, 0.50, 0.36, 0.28, 0.23"
+}

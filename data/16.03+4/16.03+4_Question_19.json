@@ -1,0 +1,6 @@
+{
+       "Course": "Unified Engineering 3 and 4",
+       "Topic": "Signals and Systems",
+       "Original question": "Consider the signal g(t) = (1 + |t|)e\u2212|t|. Find the duration of the signal, \u0394t.",
+       "Solution": " \u0394t=2 \u221a(7/5)"
+}

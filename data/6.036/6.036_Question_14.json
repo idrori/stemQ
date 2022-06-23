@@ -1,0 +1,6 @@
+{
+       "Course": "Introduction to Machine Learning",
+       "Topic": "Regression",
+       "Original question": "If f(theta) is 9 times theta plus 8 squared , what is f(theta) when theta is 1 ?",
+       "Solution": 289.0
+}

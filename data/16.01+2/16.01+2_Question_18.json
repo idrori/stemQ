@@ -1,0 +1,6 @@
+{
+       "Course": "Unified Engineering 1 and 2",
+       "Topic": "Thermodynamics",
+       "Original question": "For a thermodynamic cycle involving an ideal gas, what is the relationship between heat and work when calculated for the cycle as a whole?",
+       "Solution": "\u2206u = q \u2013 w\nu is a property and a function of the state of the system. Therefore \u2206ucycle = 0 since the system returns to its initial state when completing one loop around the cycle. So\nwcycle=qcycle"
+}

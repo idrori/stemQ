@@ -1,0 +1,6 @@
+{
+       "Course": "Introduction to Solid-State Chemistry",
+       "Topic": "Doping",
+       "Original question": "Doping levels in semiconductors typically range from 10^13/cm^3 to 10^18/cm^3, depending on the application. In some devices (like transistors) you need several n- and p-type materials with different doping concentrations.\nSi has a density of 2.328 g/cm^3. What is the ratio of Si atoms to dopant atoms in 10^13/cm^3 doping?",
+       "Solution": "5000000000 : 1"
+}

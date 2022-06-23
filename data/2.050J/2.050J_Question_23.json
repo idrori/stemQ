@@ -1,0 +1,6 @@
+{
+       "Course": "Nonlinear Dynamics I: Chaos",
+       "Topic": "Box Dimension",
+       "Original question": "A fractal slice of swiss cheese is constructed as follows:\nThe unit square is divided into p^2 squares, and m^2\n squares are chosen at random\nand discarded. (Here p> m+11, and p, m are positive integers.) The process is\nrepeated for each remaining square (side= 1 / p ). Assuming that this process is\nrepeated indefinitely, find the box dimension of the resulting fractal. (Notice that\nthe resulting fractal may or may not be self-similar, depending on which squares\nare removed at each stage. Nevertheless, we are still able to calculate the box\ndimension.)",
+       "Solution": "ln(p^2 - m^2)/ln(p)"
+}

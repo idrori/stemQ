@@ -1,0 +1,6 @@
+{
+       "Course": "Introduction to Probability",
+       "Topic": "Transforms, Variance",
+       "Original question": "Consider random variable Z with transform M_z(s) = (a-3s)/(s^2-6s+8). Find Var(Z).",
+       "Solution": "Nov-64"
+}

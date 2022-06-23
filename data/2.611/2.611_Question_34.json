@@ -1,0 +1,6 @@
+{
+       "Course": "Marine Power and Propulsion",
+       "Topic": "Diesel Cycle",
+       "Original question": "The air standard dual-cycle is used to represent the thermodynamic characteristics of a large two-stroke diesel engine. The cylinder volume V1=1.0 m^3; the compression ratio r_v = 13; the value of r_p = 1.8; and the cut-off ratio r_c = 1.4 the temperature of the air entering the cylinder T_1 = 300 K; and the pressure p_1 = 1.0 bar\nThe engine is now fitted with a turbocharger and charge cooler. The compressor\npressure ratio of the turbocharger is 3.9 and the polytropic efficiency \u03b7_PC = 0.83\nThe effectiveness of the charge cooler \u03b5 = 0.8 where the cooling water temperature T_w = 300K, the air temperature leaving the\ncompressor and entering the charge cooler is T_comp and the temperature of the air\nleaving the charge cooler and entering the engine cylinder is T. \nDetermine:\nf. Repeat the tasks a through d for the new situation.\nAssume that the properties of air are 1.00 / C kJ k p = gK , c k 1/1.40 / v = J kgK\nand R = .286 / kJ kgK .",
+       "Solution": NaN
+}

@@ -1,0 +1,6 @@
+{
+       "Course": "Signals and Systems",
+       "Topic": "Signals and systems, Discrete-time systems",
+       "Original question": "Expand 1/(1-a)^2 in a power series.",
+       "Solution": "1 + 2a + 3a^2 + 4a^3 + \u2026"
+}

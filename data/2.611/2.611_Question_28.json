@@ -1,0 +1,6 @@
+{
+       "Course": "Marine Power and Propulsion",
+       "Topic": "Diesel Cycle",
+       "Original question": "A diesel engine designer is interested to know the effect of turbo-charging on\nmean effective pressure and power. The engine he is considering is a 14 cylinder,\n4 stroke diesel engine. The rotational speed is 1200 rpm, mean piston speed of 12\nm/s, and stroke to bore ratio of 1.25. The following data is estimated:\nNote: Review chapter 7 in the text before attempting this problem.\n Thermodynamic efficiency = 58.5%\n Mechanical losses = 8 %\n Heat losses = 9 %\n Charge pressure = 3.5 bar overpressure in inlet receiver\n Charging is reasonably effective (93%)\n Inlet receiver temp 60 Celsius\n Air excess ratio 1.8\n Lower heating value of fuel 42,000 kJ/kg\n Stoichiometric fuel air ratio = 13:1\n Gas constant air/exhaust gas R = .287 kJ/kg\n b. If an engine of the same size was not turbocharged, what would be the\nefficiency, mean effective pressure and power (keep assumptions unchanged). ",
+       "Solution": "45.4%, 6.85 bar, 862 kW"
+}

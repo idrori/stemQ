@@ -1,0 +1,6 @@
+{
+       "Course": "Unified Engineering 1 and 2",
+       "Topic": "Unified Engineering",
+       "Original question": "Derive an equation for the range of a battery-powered aircraft in steady-level flight. Express the range in terms of L/D, propulsion system efficiency, battery mass and heating value, and aircraft weight. Estimate the range of a B-777 if the fuel was taken out and replaced with its equivalent weight in batteries.",
+       "Solution": "\nThe key with a battery-powered aircraft is that its mass does not change as it burns the energy. This makes the range equation more straightforward.\nmb \u22c5 h = energy available in the battery ( J )\nT\u22c5uo =rateof energyusagetoovercomedrag(J/s)\n \u03b7overall\ntime of flight = mb \u22c5 h\nT \u22c5 uo \u03b7overall\n(s)\n \uf8eb\uf8f6 Rangeof flight=u\uf8ecmb\u22c5h \uf8f7\n(m)\n or\no\uf8ec T\u22c5u\uf8f7 \uf8eco\uf8f7 \uf8ed \u03b7overall \uf8f8\nRange of flight = mb \u22c5h\u22c5\u03b7overall = mb \u22c5h\u22c5\u03b7overall \uf8eb L\uf8f6 (m) T W\uf8edD\uf8f8\nWith mb = 137,000kg, h=2.5MJ/kg, W=(275,000kg)(9.8m/s2)=2695kN, I calculate the range to be: 820km. As you can see, the low energy density of the battery is a disaster for range\u2014it is reduced by a factor of more than 20 relative to the Jet-A powered model."
+}

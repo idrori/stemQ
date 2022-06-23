@@ -1,0 +1,6 @@
+{
+       "Course": "Signals and Systems",
+       "Topic": "Feedback, poles, and fundamental modes, Continuous-time systems",
+       "Original question": "Consider a system H whose unit-sample response is h[n] = n+1 for n >= 0, h[n] = 0 otherwise, determine the poles of H.",
+       "Solution": "two poles, each at z = 1"
+}

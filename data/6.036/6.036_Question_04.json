@@ -1,0 +1,6 @@
+{
+       "Course": "Introduction to Machine Learning",
+       "Topic": "Perceptrons",
+       "Original question": "Calculate the maximum number of possible mistakes made by the perceptron algorithm if the margin of the separator is 4 and the maximum magnitude of a point is 8 .",
+       "Solution": 1024.0
+}

@@ -1,0 +1,6 @@
+{
+       "Course": "Unified Engineering 1 and 2",
+       "Topic": "Thermodynamics",
+       "Original question": "What is the physical meaning of enthalpy and for what kinds of systems is it useful and why?",
+       "Solution": "Enthalpy is the amount of energy that is transferred across a system boundary by a moving flow. This energy is composed of two parts: the internal energy of the fluid (u) and the flow work (pv) associated with pushing the mass of fluid across the system boundary. Because enthalpy is a measure of the energy that is transferred across a system boundary by a flow, it is most useful for flow processes involving open systems, e.g. applications of the steady flow energy equation."
+}

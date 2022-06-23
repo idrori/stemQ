@@ -1,0 +1,6 @@
+{
+       "Course": "Fundamentals of Materials Science",
+       "Topic": "Magnetic fields",
+       "Original question": "Magnetic resonance imaging (MRI) is a common medical technique used for diagnostic\nimaging of tissues in patients. MRI is based on measuring the response of the weak\nmagnetic dipoles in the atoms of tissues under a strong applied magnetic field. Typically, the\nmagnetic induction in a clinical MRI machine may be ~2 Tesla. Consider the materials used\nto fabricate the MRI chamber that will be placed in the magnetic field, such as aluminum.\nWhat magnetic field strength is required to achieve a 2T induction in the MRI housing\nif the housing is fabricated from aluminum?",
+       "Solution": "1.59 * 10^6 A/m"
+}

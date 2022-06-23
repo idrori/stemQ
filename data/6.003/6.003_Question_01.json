@@ -1,0 +1,6 @@
+{
+       "Course": "Signals and Systems",
+       "Topic": "Signals and systems, Discrete-time systems",
+       "Original question": "Solve the following differential equation y(t) + 3dy(t)/dt+ 2d^2y(t)/dt^2 = 1 for t \u2265 0 assuming the initial conditions y(0) = 1 and dy(t)/dt = 2 when t=0 Express the solution in closed form. Enter your closed form expression below.",
+       "Solution": "y(t) = -4*exp(-t) + 4*exp(-t/2) + 1"
+}

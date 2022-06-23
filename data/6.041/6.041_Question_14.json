@@ -1,0 +1,6 @@
+{
+       "Course": "Introduction to Probability",
+       "Topic": "Conditional Probability",
+       "Original question": "Bo and Ci are the only two people who will enter the Rover Dog Food Jingle contest. Only one entry is allowed per contestant, and the judge (Rover) will declare the one winner as soon as he receives a suitably inane entry, which may be never. Bo writes inane jingles rapidly but poorly. He has probability 0.7 of submitting his entry first. If Ci has not already won the contest, Bo\u2019s entry will be declared the winner with probability 0.3. Ci writes slowly, but he has a gift for this sort of thing. If Bo has not already won the contest by the time of Ci\u2019s entry, Ci will be declared the winner with probability 0.6. What is the probability that the prize never will be awarded?",
+       "Solution": "0.28"
+}

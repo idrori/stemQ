@@ -1,0 +1,6 @@
+{
+       "Course": "Unified Engineering 3 and 4",
+       "Topic": "Unified Computers and programming",
+       "Original question": "What are doubly linked lists? What is the record declaration for a node in a doubly linked list?",
+       "Solution": "Doubly linked lists have two pointers instead of the single pointer seen in singly linked lists. The pointers point to both the previous node in the list as well as the next node in\nthe list.\ntype Listnode is record\nElement : Elementtype;\nNext : Listptr;\nPrev : Listptr; -- this is the change made to singly linked lists\nend record;"
+}

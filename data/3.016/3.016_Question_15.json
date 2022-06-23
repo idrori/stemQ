@@ -1,0 +1,6 @@
+{
+       "Course": "Mathematics for Materials Scientists and Engineers",
+       "Topic": "Moment",
+       "Original question": "A force p = (4, 2, 0) is acting in a line through (2, 3, 0). Find its moment vector about the center (5, 1, 0) of a wheel.",
+       "Solution": "[0, 0, -14]"
+}

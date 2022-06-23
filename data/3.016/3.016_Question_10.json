@@ -1,0 +1,6 @@
+{
+       "Course": "Mathematics for Materials Scientists and Engineers",
+       "Topic": "Linear systems",
+       "Original question": "Showing the details, find all solutions or indicate that no solution exists.\n4y + z = 0, 12x - 5y - 3z = 34, -6x + 4z = 8",
+       "Solution": "x = 4, y = -2, z = 8"
+}

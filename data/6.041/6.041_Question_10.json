@@ -1,0 +1,6 @@
+{
+       "Course": "Introduction to Probability",
+       "Topic": "Set Operations, Probability",
+       "Original question": "Find P (A \u222a (Bc \u222a Cc)c) in the following case: A, B, C are mutually exclusive events and P(A)=3/7",
+       "Solution": "7-Mar"
+}

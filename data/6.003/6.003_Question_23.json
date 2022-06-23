@@ -1,0 +1,6 @@
+{
+       "Course": "Signals and Systems",
+       "Topic": "Z transform, Laplace transform",
+       "Original question": "Determine the Z transform of the following signal: x[n]= (1/2)^n * u[n\u22123]",
+       "Solution": "X=1/(8*z^2*(z-1/2))"
+}

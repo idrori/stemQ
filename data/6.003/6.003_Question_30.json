@@ -1,0 +1,6 @@
+{
+       "Course": "Signals and Systems",
+       "Topic": "Audio CD",
+       "Original question": "Determine the pole(s) of a causal CT system that is described by y \u0307C(t) + 3yC(t) = xC(t)",
+       "Solution": "single pole, s=-3"
+}

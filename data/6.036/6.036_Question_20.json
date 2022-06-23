@@ -1,0 +1,6 @@
+{
+       "Course": "Introduction to Machine Learning",
+       "Topic": "Neural Networks II",
+       "Original question": "Neuron A takes in value negative 1 with weight 2 and offset 0.5 . Its output is passed into neuron C with weight 1 . Neuron B takes in value 1 with weight 1 and offset 1 . Its output is passed into neuron C with weight 2. Neuron C has offset 5 and a ReLU on its output . Compute the output of this neural network .",
+       "Solution": 7.5
+}

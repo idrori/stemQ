@@ -1,0 +1,6 @@
+{
+       "Course": "Introduction to Probability",
+       "Topic": "Binomial Random Variables, Normal Approximations",
+       "Original question": "Your friend challenges you to a coin flipping contest. However you know this friend to be of questionable moral character. In fact you know that he usually caries a weighted coin that comes up heads with probability 0.55, along with a fair coin. You demand that he flip one coin 1000 times, and if it comes up heads more than 525 times, then you will play using the other coin. Assuming he uses the fair coin, find an approximation for the probability that you will think it is the biased coin.",
+       "Solution": "0.0537"
+}

@@ -1,0 +1,6 @@
+{
+       "Course": "Theory of Numbers",
+       "Topic": "Euclidean Algorithm, Primes, Binomial Coefficients, Congruences",
+       "Original question": "tabulate the number of primes less than x, for x = 10000, 20000,..., 100000. Also tabulate the number of primes less than x and of the form 4k +1, and the number of the form 4k + 3",
+       "Solution": "You should notice that about 50% of the primes are 1 mod 4 and about 50% are 3 mod 4. Also, the\nnumber of primes which are 3 mod 4 seems to be larger than the number of primes 1 mod 4, up to any\ninteger"
+}

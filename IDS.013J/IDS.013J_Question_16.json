@@ -1,0 +1,6 @@
+{
+       "Course": "Statistical Thinking and Data Analysis",
+       "Topic": "Statistical Thinking and Data Analysis",
+       "Original question": "Two methods of memorizing words are to be compared. You choose two groups of 5 people, where the first person in the first group has the same characteristics as the first person in the second group (they have the same educational level, age, etc.). Same thing about the second person in each group - they are also similar to each other in terms of education, age, etc. Same thing for the third, fourth and fifth people from each group. The first group is assigned to the first method of memorization and the second group to the other method. The number of words recalled in a memory test after a week\u2019s training with these two methods is shown below. (For Method 1: pair 1= 25, pair 2=30, pair 3= 22, pair 4= 27, pair 5= 29; For Method 2: pair 1= 21, pair 2=20, pair 3= 23, pair 4= 18, pair 5= 17). Test the hypothesis that the first method is better than the second method at the 0.05 level. You\nmay assume normality of the data.",
+       "Solution": "t=2.132, we conclude that the first method is significantly better than the second method"
+}

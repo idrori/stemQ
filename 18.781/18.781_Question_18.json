@@ -1,0 +1,6 @@
+{
+       "Course": "Theory of Numbers",
+       "Topic": "Exponential Modulus",
+       "Original question": "Find 3^64 mod 67",
+       "Solution": "15"
+}

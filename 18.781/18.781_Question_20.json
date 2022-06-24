@@ -1,0 +1,6 @@
+{
+       "Course": "Theory of Numbers",
+       "Topic": "Divisors",
+       "Original question": "For n = 1728, figure out the number of positive divisors of n, and the sum of its positive divisors.",
+       "Solution": "5080"
+}

@@ -1,0 +1,6 @@
+{
+       "Course": "Theory of Numbers",
+       "Topic": "Generating Functions",
+       "Original question": "Calculate the continued fractions of 6157/783.",
+       "Solution": "[7, 1, 6, 3, 6, 1, 4] "
+}

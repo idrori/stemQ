@@ -1,0 +1,6 @@
+{
+       "Course": "Statistical Thinking and Data Analysis",
+       "Topic": "Statistical Thinking and Data Analysis",
+       "Original question": "The weight of an object is measured eight times using an electronic scale that reports the true weight\nplus a random error that is normally distributed with zero mean and variance \u03c32 = 4. Assume that the\nerrors in the observations are independent. The following results are obtained:\n{4.45, 4.02, 5.51, 1.10, 2.62, 2.38, 5.94, 7.64}\nCompute a 95% confidence interval for the true weight.",
+       "Solution": "[2.82, 5.59]"
+}

@@ -1,0 +1,6 @@
+{
+       "Course": "Theory of Numbers",
+       "Topic": "Euclidean Algorithm",
+       "Original question": "Use the Euclidean algorithm to find an integer solution (x0, y0) to 89x + 43y = 1.",
+       "Solution": "(\u221214)89 + (29)43 = 1, i.e., (x0, y0) = (\u221214, 29). Now if x, y is any solution then 89(x \u2212 x0) + 43(y \u2212 y0) = 0. And since 43 and 89 are coprime, 43|x0 \u2212 x and 89|y \u2212 y0. Then we have x = x0 \u2212 43k and y = y0 + 89k for some k \u2208 Z. It\u2019s easy to verify that all solutions of this form satisfy 89x + 43y = 1. So all the solutions are given by (x, y) \u2208 {(\u221214 \u2212 43k, 29 + 89k) : k \u2208 Z}."
+}

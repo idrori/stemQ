@@ -1,0 +1,6 @@
+{
+       "Course": "Statistical Thinking and Data Analysis",
+       "Topic": "Statistical Thinking and Data Analysis",
+       "Original question": "You are an investment manager of an asset management company and you want to evaluate the performance of two hedge funds. For this you record their past performance for the last 10 years. The returns for both of the hedge funds in different years are independent and normally distributed with unknown mean \u00af and variance. The mean return for Hedge Fund 1, averaged over the 10 years, is X = 22.15% and the standard deviation calculated from those 10 measurements is 2.79%. For Hedge Fund 2 the mean \u00af return, averaged over the 10 years, is Y = 20.6% and the standard deviation calculated from those 10 measurements is 2.46%. Test equality of the variances for the two hedge funds using \u03b1 = 0.1.",
+       "Solution": "F-statistic= 1.29; Under H0 this statistic has F9,9 distribution. From the table in the book we see that this is less\nthan the critical value 3.18, therefore we do not reject the null hypothesis."
+}

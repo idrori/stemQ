@@ -1,0 +1,6 @@
+{
+       "Course": "Theory of Numbers",
+       "Topic": "Linear Congruences, Chinese Remainder Theorem, Algorithms, Primality, Factoring, RSA, Hensel's Lemma",
+       "Original question": "Find the number of solutions of x^2 \u2261 x (mod m) for any positive integer m.",
+       "Solution": "For an arbitrary integer m, the number of solutions is 2^r where r is the number of distinct prime divisors of m."
+}

@@ -1,0 +1,6 @@
+{
+       "Course": "Theory of Numbers",
+       "Topic": "Generating Functions",
+       "Original question": "At a party, there are n people, who each give their coat to a coat-check person. Calculate the probability the coats can be handed back, each person receiving one, so that no one receives their own coat.",
+       "Solution": "The probability that no one receives their coat back is approximately 1/e \u2248 36.79%."
+}

@@ -1,0 +1,6 @@
+{
+       "Course": "Theory of Numbers",
+       "Topic": "Linear Congruences, Chinese Remainder Theorem, Algorithms, Primality, Factoring, RSA, Hensel's Lemma",
+       "Original question": "What are the last two digits of 2^100 and of 3^100?",
+       "Solution": "76 and 01"
+}

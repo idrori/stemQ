@@ -1,0 +1,6 @@
+{
+       "Course": "Statistical Thinking and Data Analysis",
+       "Topic": "Statistical Thinking and Data Analysis",
+       "Original question": "A company makes high-definition televisions and does not like to have defective pixels. Historically, the\nmean number of defective pixels in a TV is 20. An MIT engineer is hired to make better TV\u2019s that\nhave fewer defective pixels. After her first week of work she claims that she can significantly improve\nthe current method. To check her claim you try her new method on 100 new televisions. The average\nnumber of defective pixels in those 100 TV\u2019s is 19.1. Assume that the new method doesn\u2019t change the\nstandard deviation of defective pixels, which has always been 4. How many televisions will you have to check so that the test you did in part 1 will conclude that\nthe new method is effective, with 95% probability? Please assume again that the mean number\nof defective pixels is actually 19.",
+       "Solution": "174"
+}

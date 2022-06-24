@@ -1,0 +1,6 @@
+{
+       "Course": "Statistical Thinking and Data Analysis",
+       "Topic": "Statistical Thinking and Data Analysis",
+       "Original question": "In HighHatVille (population 1200), a third of the townsfolk have very high hats, more than three feet tall for the hat (not including the person underneath)! But they keep their hats hidden most of the time and bring them out only on HighHatHoliday. They lend the hats out when they aren\u2019t using them though. The MIT students need some high hats for a party, so we decided to visit HighHatVille for a day. Unfortunately we can\u2019t spend too long there, and we need 50 hats. How many people do we need to visit in order to ensure that we get at least 50 hats with more than 70% probability? Hint: We do not expect a numerical answer just a procedure which would give the exact answer.",
+       "Solution": "158"
+}

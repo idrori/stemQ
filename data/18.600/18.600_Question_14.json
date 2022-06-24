@@ -1,0 +1,6 @@
+{
+       "Course": "Probability and Random Variables",
+       "Topic": "Probability",
+       "Original question": "A \u201cgender reveal\u201d party is held to announce the gender of an expected newborn. 15 cups are filled in advance with colored beads and covered: if the baby is a boy, 8 are filled with blue beads and 7 with pink. If the baby is a girl, 7 are filled with blue and 8 with pink. When the audience arrives the cups are knocked over (revealing bead colors) in a uniformly random order until the audience has seen 8 cups of the same color (and thereby knows the gender). Compute the probability that 15 cups are turned over before the gender is known.",
+       "Solution": "8/15"
+}

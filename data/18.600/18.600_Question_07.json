@@ -1,0 +1,6 @@
+{
+       "Course": "Probability and Random Variables",
+       "Topic": "Counting",
+       "Original question": "In the US lottery game of Powerball one is required to choose an (unordered) collection of five numbers from the set {1, 2, . . . , 69} (the white balls) along with another number from the set {1, 2, . . . , 26} (the red ball). You make your selection (five white, one red), the Powerball people choose theirs randomly, and you win if there is a match. Suppose that you have already chosen your numbers (the unordered set of five white, and the one red). How many possible Powerball outcomes match exactly one of your five white numbers (regardless of whether they match the red number)?",
+       "Solution": "82598880"
+}

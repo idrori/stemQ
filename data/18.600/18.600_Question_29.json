@@ -1,0 +1,6 @@
+{
+       "Course": "Probability and Random Variables",
+       "Topic": "Variance",
+       "Original question": "Larry the Very Subprime Lender gives loans of size $10,000. In 25 percent of cases, the borrower pays back the loan quickly with no interest or fees. In 50 percent of cases, the borrower disappears (moves away, declares bankruptcy, dies) without paying anything. In 25 percent of cases, the borrower pays back the loan slowly and \u2014 after years of ballooning interest payments, hefty fees, etc. \u2014 pays Larry a total of $100,000. However, in this scenario, Larry has to give $60,000 to third parties (repo services, foreclosure lawyers, eviction teams, bill collectors, etc.) in order to get the borrower to pay the $100,000. Compute the variance of the net amount of profit Larry makes from each loan (after subtracting collection expenses and the initial $10,000 outlay).",
+       "Solution": "268750000"
+}

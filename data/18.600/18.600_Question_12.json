@@ -1,0 +1,6 @@
+{
+       "Course": "Probability and Random Variables",
+       "Topic": "Probability",
+       "Original question": "The online comic strip xkcd.com has a \u201crandom\u201d button one can click to choose one of the previous n \u2248 2400 strips. Assume there are exactly 2400 numbered strips and that clicking the \u201crandom\u201d button yields the kth strip, where k is chosen uniformly from {1, 2, . . . , n}. If one observes 38 strips this way, what is the probability that one sees at least one strip more than once?",
+       "Solution": "0.255"
+}

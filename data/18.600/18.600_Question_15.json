@@ -1,0 +1,6 @@
+{
+       "Course": "Probability and Random Variables",
+       "Topic": "Conditional Probability",
+       "Original question": "There are 3 coins in a box. One is a two-headed coin, another is a fair coin, and the third is a biased coin that comes up heads 75 percent of the time. When one of the 3 coins is selected at random and flipped, it shows heads. What is the probability that it was the two-headed coin?",
+       "Solution": "4/9"
+}

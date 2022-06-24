@@ -1,0 +1,6 @@
+{
+       "Course": "Probability and Random Variables",
+       "Topic": "Probability, Binomial Random Variables, Poisson Random Variables",
+       "Original question": "Each time Bob shares an elevator, he has a 1/1000 chance of being infected. If he shares 4 rides a day for 250 days, what is the probability he\u2019ll be infected at some point?",
+       "Solution": "0.6323"
+}

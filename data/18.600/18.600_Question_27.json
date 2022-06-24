@@ -1,0 +1,6 @@
+{
+       "Course": "Probability and Random Variables",
+       "Topic": "Probability, Binomial Random Variables",
+       "Original question": "On ACT Planet, Jack is preparing to take a test called the Math ACT. Jack knows his stuff but is error prone under pressure, and because of this he only gets the right answer 85 percent of the time. His success probability is the same for all problems (no matter how hard they are for others) and his outcomes are independent from one problem to another. If he gets his expected 51 out of 60 answers correct, it comes to a Math ACT score of 30. (On ACT planet, the score conversion table is the same each time the test is given.) Jack wants to attend \u201cThirty Four or Higher University\u201d (known as TFOHU) for which he needs a 34 on the Math ACT, which requires at least 55 out of 60 correct. Fortunately, the university only requires that he obtain that score once. He is not required to report scores that fall below the threshold. Jack decides to invest the time and money to take the exam 12 times. Assuming Jack\u2019s abilities remain constant, what is the probability that he gets a sufficiently high score (i.e., at least 55 correct answers) at least once?",
+       "Solution": "0.70528"
+}

@@ -1,0 +1,6 @@
+{
+       "Course": "Systems Microbiology",
+       "Topic": "Systems Microbiology",
+       "Original question": "What are the differences in electron donor and carbon source used by Esherichia coli and Acidithiobacillus thioparus (a sulfur chemolithotroph)?",
+       "Solution": "Electron transport chains with oxygen as the final electron acceptor are utilized by both organisms.E. coli oxidizes organic compounds to produce energy, whereas A. thioparus oxidizes inorganic sulfur to use it as an electron donor."
+}

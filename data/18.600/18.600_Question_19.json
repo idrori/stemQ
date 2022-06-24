@@ -1,0 +1,6 @@
+{
+       "Course": "Probability and Random Variables",
+       "Topic": "Conditional Probability",
+       "Original question": "On Interrogation Planet, there are 730 suspects, and it is known that exactly one of them is guilty of a crime. It is also known that any time you ask a guilty person a question, that person will give a \u201csuspicious-sounding\u201d answer with probability .9 and a \u201cnormal-sounding\u201d answer with probability .1. Similarly, any time you ask an innocent person a question, that person will give a suspicious-sounding answer with probability .1 and a normal-sounding answer with probability .9. Interrogators pick a suspect at random (all 730 people being equally likely) and ask that person nine questions. The first three answers sound normal but the next six answers all sound suspicious. Given the answers thus far, compute the conditional probability that the suspect is guilty.",
+       "Solution": "0.5"
+}

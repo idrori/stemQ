@@ -1,0 +1,6 @@
+{
+       "Course": "Systems Microbiology",
+       "Topic": "Systems Microbiology",
+       "Original question": "Most biosynthetic operons need only be under negative control for effective regulation, while most catabolic operons need to be under both negative and positive control. Why might this be?",
+       "Solution": "Biosynthetic operons normally require only negative control for effective regulation because the cell only needs to know when there is \u201cenough\u201d of that biosynthetic product for growth. Catabolic operons, on the other hand, have to be regulated both positively and negatively, since these operons provide the ATP for biosynthesis, and also the carbon intermediates for biosynthesis."
+}

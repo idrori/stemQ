@@ -1,0 +1,6 @@
+{
+       "Course": "Systems Microbiology",
+       "Topic": "Systems Microbiology",
+       "Original question": "The attenuation control of some of the pyrimidine biosynthetic pathway genes in E. coli actually involvescoupled transcription and translation. Can you propose a mechanism whereby the cell could somehow make use of translation to help it measure the level of pyrimidine nucleotides?",
+       "Solution": "If there were a shortage of pyrimidine nucleotides, one would expect transcription to go more slowly. Such a system might include a termination loop that forms unless the ribosome is closely following the RNA polymerase. When polymerase is functioning at maximal rates, it moves out ahead of the ribosome, allowing the termination loop to form. When transcription slows because of pyrimidine shortage, the ribosome follows RNA polymerase closely enough so that the loop does not form."
+}

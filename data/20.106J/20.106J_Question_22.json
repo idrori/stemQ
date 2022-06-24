@@ -1,0 +1,6 @@
+{
+       "Course": "Systems Microbiology",
+       "Topic": "Systems Microbiology",
+       "Original question": "Describe the stringent response, and at what level and what components of cellular activity it regulates.",
+       "Solution": "The stringent response is triggered in response to two modified nucleotides called alarmones\u2014guanosine tetraphostpate (ppGpp) and guanosine pentaphosphate (pppGpp). These nucleotides accumulate rapidly during a shift-down from amino acid excess to starvation and are synthesized by an STP-dependent protein, RelA that is associated with the ribosomal 50S subunit. These alarmones have global control effects that inhibit rRNA and tRNA synthesis, and thus adjust the cell\u2019s biosynthesis in response to amino acid limitation."
+}

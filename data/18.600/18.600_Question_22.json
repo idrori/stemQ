@@ -1,0 +1,6 @@
+{
+       "Course": "Probability and Random Variables",
+       "Topic": "Conditional Probability",
+       "Original question": "Suppose that one universe contains 1050 intelligent beings, grouped into civilizations of size 10^12 each. Another universe contains 10^50 intelligent beings, grouped into civiliations of size 10^15 each. A final universe contains 10^50 intelligent beings, grouped into civilizations of size 10^18 each. You pick a random one of these 3 \u00d7 10^50 beings and learn that before this being was born, exactly 141, 452, 234, 521 other beings were born in its civilization. What is the conditional probability that the being comes from the first universe?",
+       "Solution": "1000000/1001001"
+}

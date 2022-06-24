@@ -1,0 +1,6 @@
+{
+       "Course": "Systems Microbiology",
+       "Topic": "Systems Microbiology",
+       "Original question": "Why are promoters from E. coli under positive control not close matches to the promoter consensus sequence for E. coli?",
+       "Solution": "If a promoter closely matches the DNA consensus sequence one would expect RNA polymerase to bind to that promoter and induce transcription in the absence of other factors. Therefore, promoters under positive control would be expected to be quite different."
+}

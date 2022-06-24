@@ -1,0 +1,6 @@
+{
+       "Course": "Systems Microbiology",
+       "Topic": "Systems Microbiology",
+       "Original question": "Explain the following observation: cells of E. coli fermenting glucose grow faster when NO - is supplied to the culture, and then grow even faster when the culture is highly aerated.",
+       "Solution": "When E. coli is growing in a fermentative mode, there is no external electron receptor and the energy yield is low. When NO - is added to the culture, nitrate acts as an electron receptor. Under these 3 respiratory conditions the energy yield is greater than fermentative conditions but still less than when O2 is the final electron receptor (aerobic)"
+}

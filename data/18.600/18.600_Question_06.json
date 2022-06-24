@@ -1,0 +1,6 @@
+{
+       "Course": "Probability and Random Variables",
+       "Topic": "Counting",
+       "Original question": "In a standard deck of 52 cards, there are 4 suits, and 13 cards of each suit. Using such a deck, there are 52 choose 13 ways to form a bridge hand containing 13 cards. How many of these hands have the property that: Exactly 3 of the 4 suits are represented in the hand.",
+       "Solution": "32364894588"
+}

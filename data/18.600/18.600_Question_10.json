@@ -1,0 +1,6 @@
+{
+       "Course": "Probability and Random Variables",
+       "Topic": "Probability",
+       "Original question": "In Essay Admission Country, each applicant submits one essay to each of 10 universities. There are 10 distinct types of essays (personal vignette, accomplishment overview, political manifesto, absurdist ramble, etc.) and each applicant is capable of writing a good essay of any type. All universities invite students to submit any type they\u2019d like. However, each year the national zeitgeist selects a single type (uniformly at random) to be preferred by all the universities that year. Each university (independently) accepts an applicant with probability p = .5 if their type is preferred and 0 otherwise. Applicants don\u2019t know which type is preferred. Compute (give numeric percentages) the probability of being accepted to at least one school if an applicant submits the same essay to all 10 schools.",
+       "Solution": "9.99%"
+}

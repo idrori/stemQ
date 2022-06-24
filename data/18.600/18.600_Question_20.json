@@ -1,0 +1,6 @@
+{
+       "Course": "Probability and Random Variables",
+       "Topic": "Conditional Probability",
+       "Original question": "Suppose that one factory has produced 10 million baseball cards in 100,000 batches of 100. Each batch is numbered from 1 to 100. Another factory has produced 10 million baseball card in 10,000 batches of 1,000, each batch numbered from 1 to 1,000. A third factory produced a 10 million baseball card in 1000 batches of 10,000, with each batch numbered from one to 10,000. You chance upon a baseball card from one of these three factories, and a priori you think it is equally likely to come from each of the three factories. Then you notice that the number on it is 87. Given the number you have seen, what is the conditional probability that the card comes from the first factory?",
+       "Solution": "100/111"
+}

@@ -1,0 +1,6 @@
+{
+       "Course": "Systems Microbiology",
+       "Topic": "Systems Microbiology",
+       "Original question": "Describe the growth cycle of a population of bacterial cells from the time this population is first inoculated into fresh medium.",
+       "Solution": "The four stages are: lag, log (exponential), stationary, and death phases. Measurements of total versus viable cell counts will be identical during log phase growth. However, during stationary phase the viable count may differ from total cell count since intact cells that are no longer viable will be included in the total cell count."
+}

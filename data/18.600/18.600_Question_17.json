@@ -1,0 +1,6 @@
+{
+       "Course": "Probability and Random Variables",
+       "Topic": "Conditional Probability",
+       "Original question": "Suppose that a fair coin is tossed infinitely many times, independently. Let Xi denote the outcome of the ith coin toss (an element of {H, T}). Compute: the conditional probability that the first two tosses are both heads given that exactly 5 of the first 10 tosses are heads.",
+       "Solution": "2/9"
+}

@@ -1,0 +1,6 @@
+{
+       "Course": "Probability and Random Variables",
+       "Topic": "Counting",
+       "Original question": "Imagine that the world has 24 time zones (evenly spaced around the globe) and that a class has exactly one student in each time zone. How many ways are there to divide the students into 12 partnerships (2 students each) if you insist that each student\u2019s partner belong to a neighboring time zone?",
+       "Solution": "2"
+}

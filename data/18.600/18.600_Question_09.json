@@ -1,0 +1,6 @@
+{
+       "Course": "Probability and Random Variables",
+       "Topic": "Probability",
+       "Original question": "A pair of dice is rolled until a sum of either 5 or 7 appears. Find the probability that a 5 occurs first.",
+       "Solution": "2/5"
+}

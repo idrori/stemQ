@@ -1,0 +1,6 @@
+{
+       "Course": "Quantum Physics",
+       "Topic": "Operators",
+       "Original question": "Let A and B be linear operators, and let C denote their commutator, i.e. C = [A, B]. Show that C is also a linear operator",
+       "Solution": "[A,B](af+bg) = AB(af+bg) - BA(af+bg) = aABf + bABg - aBAf - bBAg = a[A,B]f + b[A,B]g"
+}

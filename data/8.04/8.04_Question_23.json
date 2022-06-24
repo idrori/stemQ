@@ -1,0 +1,6 @@
+{
+       "Course": "Quantum Physics",
+       "Topic": "Scattering",
+       "Original question": "Suppose a beam of particles is incident from the left on a potential V(x) = - V_0 \\delta(x) with typical energy E. Calculate the fraction of particles in the incident beam that are reflected by this potential, i.e. find the reflection coefficient R. Write your answer in terms of E, m, Vo and any fundamental constants needed. Check if your result is reasonable in the limits Vo \u2192 0 for constant E, and E \u2192 0 for constant Vo.",
+       "Solution": "R = \\beta^2/(1+\\beta^2) where \\beta = m V_0 / (k \\hbar^2) and where k = \\sqrt(2mE)/\\hbar"
+}

@@ -1,0 +1,6 @@
+{
+       "Course": "Hydrodynamics",
+       "Topic": "Incident Wave Forces on Bodies",
+       "Original question": "Compare and contrast the vertical Foude-Krylov force to the restoring force due to\nbuoyancy. What causes each force, and why are they different? ",
+       "Solution": "Buoyancy is a resting force that opposes the ship's motion away from its equilibrium position. As the ship goes down, buoyancy pushes up. Fronde-Krylov is a driving force that tries to pull the ship from its equilibrium position. As a wave passes, if the boat were fixed at its equilibrium position and a crest passes, it is like the boat is in deeper water, so a force pushes it up towards the surface, similar (heuristically) to buoyancy."
+}

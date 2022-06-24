@@ -1,0 +1,6 @@
+{
+       "Course": "Hydrodynamics",
+       "Topic": "Boundary Layers with Pressure Gradient",
+       "Original question": "In 1957 H. G\u00f6rtler proposed the adverse gradient test cases U = U_0/(1+x/L)^n\nand computed separation for laminar flow at n =1 to be\nxsep/L = 0.159. Compare with Thwaites\u2019s method, assuming theta_0 = 0",
+       "Solution": "Separation at x/L = 0.158 (1 percent error)"
+}

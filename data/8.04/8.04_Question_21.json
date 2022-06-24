@@ -1,0 +1,6 @@
+{
+       "Course": "Quantum Physics",
+       "Topic": "Operators",
+       "Original question": "Show that the commutator of two hermitian operators is anti-hermitian ",
+       "Solution": "C^\\dagger = [A,B]^\\dagger = B^\\dagger A^\\dagger - A^\\dagger B^\\dagger = BA-AB = - [A,B]"
+}

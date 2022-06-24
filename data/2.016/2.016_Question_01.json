@@ -1,0 +1,6 @@
+{
+       "Course": "Hydrodynamics",
+       "Topic": "Hydrostatic Pressure",
+       "Original question": "At a particular point in the Pacific Ocean, the density of sea water increases non-linearly with depth according to rho = rho_0 +mz^2 where rho_0 is the density at the surface, z is the depth below the surface, and m is a constant. Develop an algebraic equation for the relationship between pressure and depth. ",
+       "Solution": "p = p_atm + rho_0gz + mgz^3/3"
+}

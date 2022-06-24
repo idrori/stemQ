@@ -1,0 +1,6 @@
+{
+       "Course": "Quantum Physics",
+       "Topic": "Infinite Square Well",
+       "Original question": "What is the probability of measuring the energy of the particle to be <E> at t=0 and some t>0",
+       "Solution": "Zero for all t because <E> is not an eigen-energy of the particle "
+}

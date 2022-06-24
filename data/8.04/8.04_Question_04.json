@@ -1,0 +1,6 @@
+{
+       "Course": "Quantum Physics",
+       "Topic": "Wavefunction properties",
+       "Original question": "Consider the smooth function \\psi(x) = N/2 * ( \\tanh( (x + a/2)/b ) - \\tanh( (x - a/2)/b ) ), Sketch \\psi(x) for various values of b to convince yourself that \u03c87b(x) well approximates \u03c87(x) as b \u2192 0. Argue that, for b \u00ab a, N is roughly independent of b. Compute N when b \u2192 0.",
+       "Solution": "for b << a, the area between the graph of \\psi(x)/N and the x-axis is approximately given by a rectangle centered at the origin of height 1 and width a. \u221a The same goes for the area between (\\psi(x)/N)2 and the x \u2212 axis, and thus N \u223c 1/ a."
+}

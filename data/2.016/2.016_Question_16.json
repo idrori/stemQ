@@ -1,0 +1,6 @@
+{
+       "Course": "Hydrodynamics",
+       "Topic": "Froude and Mach Number Scaling",
+       "Original question": "A one-fiftieth scale model of a military airplane is\ntested at 1020 m/s in a wind tunnel at sea-level conditions. The model wing area is 180 cm^2. The angle of\nattack is 3 degrees. If the measured model lift is 860 N,\nwhat is the prototype lift, using Mach number scaling,\nwhen it flies at 10,000 m standard altitude under\ndynamically similar conditions? Note: Be careful with\nthe area scaling",
+       "Solution": "561 kN"
+}

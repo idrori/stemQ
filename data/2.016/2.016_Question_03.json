@@ -1,0 +1,6 @@
+{
+       "Course": "Hydrodynamics",
+       "Topic": "Basic Fluid Properties",
+       "Original question": "Discuss the difference between a pathline and a streamline. Under what conditions\nare they the same? ",
+       "Solution": "A pathline connects all of the points that the fluid passes through over some period of time. A streamline is drawn tangent to the flow for the same snapshot in time."
+}

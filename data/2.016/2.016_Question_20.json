@@ -1,0 +1,6 @@
+{
+       "Course": "Hydrodynamics",
+       "Topic": "Specific Energy: Critical Depth",
+       "Original question": "Water flows full in an asphalt half-hexagon channel of\nbottom width W. The flow rate is 12 m^3/s. Estimate W if\nthe Froude number is exactly 0.60.",
+       "Solution": "W = 2.06 m"
+}

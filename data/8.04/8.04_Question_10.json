@@ -1,0 +1,6 @@
+{
+       "Course": "Quantum Physics",
+       "Topic": "Infinite Square Well",
+       "Original question": "Calculate <E> for \\psi(x,t) as described in the previous problem in terms of E_0 ",
+       "Solution": "6*E_0"
+}

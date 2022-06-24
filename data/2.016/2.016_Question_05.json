@@ -1,0 +1,6 @@
+{
+       "Course": "Hydrodynamics",
+       "Topic": "Added Mass",
+       "Original question": "Calculate the added mass coefficients m_33 and m_44 for a circular cylinder of radius R = 1cm and length L = 1m whose axis is along the 1 axis.",
+       "Solution": "m_33 = 0.314 kg, m_44 = 0"
+}

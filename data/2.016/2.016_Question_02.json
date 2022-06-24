@@ -1,0 +1,6 @@
+{
+       "Course": "Hydrodynamics",
+       "Topic": "Hydrostatic Pressure",
+       "Original question": "a) Determine the horizontal and vertical forces acting on a wall sloped at angle, \u03b8, to the horizontal seafloor as\na function of z. Assume that the water is h deep and that atmospheric pressure acts everywhere.\nb) Determine the total resulting force and center of pressure. ",
+       "Solution": "a) vertical force = -pgwH^2cot(\u03b8)/2, horizontal force =pgwH^2/2\n\nb) pgwsin(\u03b8)L^2/2, L/3"
+}

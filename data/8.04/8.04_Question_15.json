@@ -1,0 +1,6 @@
+{
+       "Course": "Quantum Physics",
+       "Topic": "Operators",
+       "Original question": "Show that exponetiation of a hermitian operator M is unitary (e^iM)",
+       "Solution": "U = e^(iM) = \\sum _n (iM)^n / n! and U\\dagger = \\sum _n (iM)^n / n! = e^(-iM) thus U U\\dagger = e^(iM) e^(-iM) = 1"
+}

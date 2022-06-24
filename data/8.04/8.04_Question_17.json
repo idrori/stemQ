@@ -1,0 +1,6 @@
+{
+       "Course": "Quantum Physics",
+       "Topic": "Quantum Harmonic Oscillator",
+       "Original question": "What is \\psi(x,t) and |\\psi(x,t)|^2 for the state \\psi(x,0) = 1/sqrt(2) * ( \\phi_0(x) + i * \\phi_1(x) ) where \\phi_i are the i^th eigenstates of the potential V(x) = m * \\omega^2 * x^2 / 2",
+       "Solution": "\\psi(x,t) = 1/\\sqrt(2) * ( e^(-i \\omega_0 t /2 )* \\phi_0(x) +  i * e^(-i 3\\omega_0 t /2 )* \\phi_1(x) ); |\\psi(x,t)|^2 = 1/2( |phi_0(x)|^2 + |phi_1(x)|^2 + 2\\phi_0(x)\\phi_1(x)\\sin(\\omega_0 t)  )"
+}

@@ -1,0 +1,6 @@
+{
+       "Course": "Hydrodynamics",
+       "Topic": "Viscosity and Other Secondary Properties",
+       "Original question": "Pipelines are cleaned by pushing through them a closefitting cylinder called a pig. The name comes from the\nsquealing noise it makes sliding along. Reference 50\ndescribes a new nontoxic pig, driven by compressed air,\nfor cleaning cosmetic and beverage pipes. Suppose the\npig diameter is 5-15/16 in and its length 26 in. It cleans\na 6-in-diameter pipe at a speed of 1.2 m/s. If the\nclearance is filled with glycerin at 20\u0006C, what pressure\ndifference, in pascals, is needed to drive the pig?\nAssume a linear velocity profile in the oil and neglect\nair drag.",
+       "Solution": "39500 Pa"
+}

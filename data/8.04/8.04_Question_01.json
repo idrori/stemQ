@@ -1,0 +1,6 @@
+{
+       "Course": "Quantum Physics",
+       "Topic": "Wavefunction properties",
+       "Original question": "Electrons of momentum p fall normally on a pair of slits separated by a distance d. What is the distance, w, between adjacent maxima of the interference fringe pattern formed on a screen a distance D beyond the slits? note: You may assume that the width of the slits is much less than the electron de Broglie wavelength.",
+       "Solution": "d \\sin \\theta_m = m\\lambda; \\sin \\theta_m = \\frac{y_m}{D}; \\frac{d}{D} y_m = m\\lambda; \\frac{d}{D}w = \\lambda; w = \\lambda\\frac{D}{d}; w = \\frac{hD}{pd}"
+}

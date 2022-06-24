@@ -1,0 +1,6 @@
+{
+       "Course": "Quantum Physics",
+       "Topic": "Operators",
+       "Original question": "What is the commuator of the momentum and position operators p and x?",
+       "Solution": "[p,x] = \\hbar/i dx (x \\psi(x)) x (\\hbar/i dx \\psi(x)) = \\hbar/i ( \\psi(x) + x dx \\psi(x) = x dx \\psi(x)  ) = \\hbar/i \\psi(x)"
+}

@@ -1,0 +1,6 @@
+{
+       "Course": "Quantum Physics",
+       "Topic": "Infinite Square Well",
+       "Original question": "How does \\psi(x,t) evolve in time given \\psi(x,0) = sqrt(1/6)*\\phi_0(x) + sqrt(1/3)*\\phi_1(x) + sqrt(1/2)*\\phi_2(x) where \\phi_i(x) are the i^th eigenstates of a 1D infinite square well that spans for x=0 to x=L",
+       "Solution": "\\psi(x,t) = e^(-i E_0 t / \\hbar) * sqrt(1/6)*\\phi_0(x) + e^(-i E_1 t / \\hbar) * sqrt(1/3)*\\phi_1(x) + e^(-i E_2 t / \\hbar) * sqrt(1/2)*\\phi_2(x)"
+}

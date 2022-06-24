@@ -1,0 +1,6 @@
+{
+       "Course": "Quantum Physics",
+       "Topic": "Quantum Harmonic Oscillator",
+       "Original question": "Find <p> as a function of t for the previous problem",
+       "Solution": "<p>(t) = \\sqrt(m * \\omega_0 /2 ) * \\cos(\\omega_0 * t)"
+}

@@ -1,0 +1,6 @@
+{
+       "Course": "Quantum Physics",
+       "Topic": "Operators",
+       "Original question": "Show that acting on a state v with a unitary operator U perserves the norm of v ",
+       "Solution": "|u> = U|v> ;  |u|^2 = <u|u> = <v|U\\dagger U |v> = <v|v> = |v|^2"
+}

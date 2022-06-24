@@ -1,0 +1,6 @@
+{
+       "Course": "Quantum Physics",
+       "Topic": "Quantum Harmonic Oscillator",
+       "Original question": "Find <x> as a function of t for the previous problem",
+       "Solution": "<x>(t) = \\sqrt(\\hbar/(2 m \\omega_0)) * \\sin(\\omega_0 t)"
+}

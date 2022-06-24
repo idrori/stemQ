@@ -1,0 +1,6 @@
+{
+       "Course": "Quantum Physics",
+       "Topic": "Operators",
+       "Original question": "Show that all eigenvalues of a unitary operator are pure phases ",
+       "Solution": "U|u> = u|u>; <Uu|Uu> = |u|^2 and <Uu|Uu> = <u|U\\dagger U u> = <u|u> = 1 thus |u|^2 = 1 meaning u = e^(ix)"
+}

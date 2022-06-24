@@ -1,0 +1,6 @@
+{
+       "Course": "Quantum Physics",
+       "Topic": "Quantum Harmonic Oscillator",
+       "Original question": "Show that the probability distribution of the wave function returns to its original shape after the classical osscillation period for any HO state ",
+       "Solution": "\\psi(x,t) =  e^(-i \\omega_0 t / 2) \\sum c_n \\phi_n(x) e^(-i n \\omega_0 t) Each term in the sum oscillates with period Tn = 2\u03c0 /n\u03c90 , i.e. some integer fraction of \u2212i\u03c90t/2 the classical period T = 2\u03c0/\u03c90. For example, aside from the overall the e in front, the first term is constant, the second term oscillates with period T, the third term oscillates with period T/2, and so on. Thus, after a time T all the phases will be aligned once again, except for phase in the prefactor, so that \\psi(x, t+T) = e^(-i \\omega_0 T / 2) \\psi(x,t), thus |\\psi(x, t+T)|^2 = |\\psi(x, t)|^2"
+}

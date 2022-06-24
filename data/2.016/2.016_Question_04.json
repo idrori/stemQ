@@ -1,0 +1,6 @@
+{
+       "Course": "Hydrodynamics",
+       "Topic": "Basic Principles of Hydrodynamics",
+       "Original question": "A velocity field is given by V = (x^2-y^2)(i_hat) - 2xy(j_hat). Is this a valid velocity field for an\nincompressible fluid? (Hint: It must satisfy the Continuity Equation.) ",
+       "Solution": "Yes"
+}

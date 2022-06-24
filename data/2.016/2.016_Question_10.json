@@ -1,0 +1,6 @@
+{
+       "Course": "Hydrodynamics",
+       "Topic": "equations of Motion",
+       "Original question": "An autonomous underwater vehicle (AUV) shaped like a torpedo is being designed to\noperate in an area of the Atlantic Ocean with strong currents around U = 3 m/s. In\norder to determine the thrust needed for the vehicle a smaller scale model is tested in\nthe propeller tunnel. The model is 10th the size of the real AUV. The model is 75\ncentimeters long and diameter is 7.5 cm. The front of the torpedo is a hemisphere and\nthe aft is tapered to the propeller. The full scale AUV will need enough thrust to maintain position in a 3 m/s\ncurrent. In order to determine the thrust needed to overcome the current the model will be\nhooked up to a force balance and the drag on the hull measured at a certain towing\nspeed (analogous to incoming current). What speed should the model be tested at to determine the necessary thrust on\nthe full-scale vehicle? ",
+       "Solution": "30 m/s"
+}

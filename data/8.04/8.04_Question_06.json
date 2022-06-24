@@ -1,0 +1,6 @@
+{
+       "Course": "Quantum Physics",
+       "Topic": "Wavefunction properties",
+       "Original question": "In the limit that b \u00ab a (so that N is independent of b and you can use the value you computed above), and without evaluating any integrals, show that p is propotional to 1/sqrt(a*b)",
+       "Solution": "By symmetry, <p> = 0. Thus \u0394p^2 = <p^2>, and we have \u0394p^2  = integral( dk  k^2/a  (b*sin(k*a/2))/(sinh(k*pi*b/2))^2  ) = integral( dy/b  y^2/(b^2*a)  (b*sin(k*a/2))/(sinh(k*pi*b/2))^2  ) \\approx integral( dy/b  y^2/(b^2*a)  (b^2/2/(sinh^2(k*pi*b/2))  )  \\prop 1/(ab)"
+}

@@ -1,0 +1,6 @@
+{
+       "Course": "Hydrodynamics",
+       "Topic": "Net Positive-Suction Head",
+       "Original question": "An 8-in model pump delivering 180\u00b0F water at 800\ngal/min and 2400 r/min begins to cavitate when the inlet\npressure and velocity are 12 lbf/in2 absolute and 20 ft/s,\nrespectively. Find the required NPSH of a prototype that\nis 4 times larger and runs at 1000 r/min",
+       "Solution": "23 ft"
+}

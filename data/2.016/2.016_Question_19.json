@@ -1,0 +1,6 @@
+{
+       "Course": "Hydrodynamics",
+       "Topic": "Isentropic Flow with Area Changes",
+       "Original question": "An air tank of volume 1.5 m^3 is initially at 800 kPa and\n20\u00b0C. At t = 0, it begins exhausting through a converging nozzle to sea-level conditions. The throat area\nis 0.75 cm^2 Estimate (a) the initial mass flow in kg/s.",
+       "Solution": "0.142 kg/s"
+}

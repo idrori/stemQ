@@ -1,0 +1,6 @@
+{
+       "Course": "Quantum Physics",
+       "Topic": "Operators",
+       "Original question": "Show that the eigenvalues of a hermitian operator are all real ",
+       "Solution": "A|a> = a|a>;  <a|Aa> = a = <Aa|a> = a* ; thus since a=a* this can only be true if a is real  "
+}

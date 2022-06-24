@@ -1,0 +1,6 @@
+{
+       "Course": "Hydrodynamics",
+       "Topic": "Viscous Lift and Drag",
+       "Original question": "A fishnet is made of 1mm-diameter strings knotted together into 2cm x 2cm\nsquares. Estimate the horsepower required to tow a 300 ft^2 of this netting at 3\nknots in seawater. Assume that the net plane is normal to the direction of towing\n(flow). Assume the string can be modeled as a cylinder with drag coefficient 1.2,\nconsider only viscous drag force. ",
+       "Solution": "8.4 Hp"
+}

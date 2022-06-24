@@ -1,0 +1,6 @@
+{
+       "Course": "Hydrodynamics",
+       "Topic": "Added Mass",
+       "Original question": "Consider a cylinder of radius, R, and length, L, held in place a distance, d, under the\nsurface of the water by a slender post. The axis of the cylinder is parallel to the sea\nfloor and perpendicular to incoming linear free-surface waves. Given \\omega, \\lambda, a and H, calculate the added mass forces on the cylinder, as a function of time. (Hint: the cylinder is not moving, so the simple added mass equation applies.) ",
+       "Solution": "F_x = 2*p*pi*R^2*L*a*(\\omega)^2f(-d)*sin(kx-\\omega*t),\n\nF_z = -2*p*pi*R^2*L*a*(\\omega)^2f(-d)*cos(kx-\\omega*t)"
+}

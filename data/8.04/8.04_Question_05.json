@@ -1,0 +1,6 @@
+{
+       "Course": "Quantum Physics",
+       "Topic": "Wavefunction properties",
+       "Original question": " Show that the fourier transform of \\psi(x) is, N/2 * sqrt( pi/2 ) * (b*sin(k*a/2))/(sinh(k*pi*b/2))",
+       "Solution": "N/2 * sqrt( pi/2 ) * (b*sin(k*a/2))/(sinh(k*pi*b/2))"
+}

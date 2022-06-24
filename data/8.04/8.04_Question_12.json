@@ -1,0 +1,6 @@
+{
+       "Course": "Quantum Physics",
+       "Topic": "Infinite Square Well",
+       "Original question": "What energies can be meausred at t=0 and with what probabilities? And how do these probabilities change with time? ",
+       "Solution": "E_0, E_1 = 4E_0, E_2 = 9 E_0; P_0 = 1/6, P_1 = 1/3, P_2 =  1/2"
+}

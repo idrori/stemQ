@@ -1,0 +1,6 @@
+{
+       "Course": "Hydrodynamics",
+       "Topic": "Laminar Pipe Flow",
+       "Original question": "A 5-mm-diameter capillary tube is used as a viscometer\nfor oils. When the flow rate is 0.071 m3\n/h, the measured\npressure drop per unit length is 375 kPa/m. Estimate the\nviscosity of the fluid. Is the flow laminar?",
+       "Solution": "0.29 kg/m-s"
+}

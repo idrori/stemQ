@@ -1,0 +1,6 @@
+{
+       "Course": "Quantum Physics",
+       "Topic": "Infinite Square Well",
+       "Original question": "The energy of the particle is found to be E2 as a result of a single measurement at t=t1. Write down the wave function \u03c8A(x,t) which describes the state of the particle for t> t1. what energy values will be observed and with what probabilities at a time t2 > t1",
+       "Solution": "E_2 with P = 1"
+}

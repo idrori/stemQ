@@ -1,6 +1,0 @@
-{
-       "Course": "Marine Power and Propulsion",
-       "Topic": NaN,
-       "Original question": "3. A simple closed-cycle Brayton engine operates with air as the working fluid. The\nconditions at the design point are as follows:\n - compressor inlet temperature, T1 = 25 \u00b0C (300 K)\n - compressor pressure ratio, p2/p1 = 11\n - compressor isentropic efficiency, \u03b7c = 85%\n - turbine inlet temperature, T3 = 1425\u00b0C (1698 K)\n - turbine isentropic efficiency, \u03b7t = 92%\n - pressure loss, \u0394p/p = 6%\n - mass flow rate of air through engine = 60 kg/s\nDetermine:\n a. T2 & T4 using ideal gas properties\nb. the ratio of compressor power/turbine power\n c. the net power of the Brayton Cycle, (kW)\n d. the heat transfer rate (kW) (between T3 \u2013 T4)\n e. the thermal efficiency of the cycle\nAssume that air is an ideal gas with constant specific heats (cp = 1.00 kJ/kg K, \u03b3 = 1.4). ",
-       "Solution": NaN
-}

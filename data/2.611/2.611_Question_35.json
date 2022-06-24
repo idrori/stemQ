@@ -1,6 +1,0 @@
-{
-       "Course": "Marine Power and Propulsion",
-       "Topic": "Diesel Cycle",
-       "Original question": "3. Using the data presented in the \u201cVee-form additions to Pielstick family\u201d article,\ncalculate the engine performance assuming that it can be modeled as an Air\nStandard Dual Cycle. Use the PC40 engine. Assume that the constant volume\ntemperature rise is T3-T2 = 300 K, the constant pressure temperature rise is T4-T3\n= 800 K, and the air (from a charge cooled turbocharger) enters the cylinders at\n300 K and 3 bar.\n Determine:\na. the temperatures and pressures at conditions 1 through 5 (the text\ncan be used to help you understand terms you are not familiar with\nlike combustion ratio)\n b. the thermal efficiency and sfc of the cycle (section 7.4.3 in text)\n c. the mass of air in each cylinder\n d. the power output per cylinder\n e. the mean effective pressure\n f. compare your predicted values with the data in the article\n g. provide a justification for any differences\n Assume that air has cp = 1.00 kJ/kg K, \u03b3 = 1.4, and the heating value of the fuel\n(LHV) is 43,000 kJ/kg.",
-       "Solution": NaN
-}

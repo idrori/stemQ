@@ -1,0 +1,6 @@
+{
+       "Course": "Statistical Thinking and Data Analysis",
+       "Topic": "Statistical Thinking and Data Analysis",
+       "Original question": "The weight of an object is measured using an electronic scale that reports the true weight plus a random fluctuation that is normally distributed with zero mean. The manufacturing company of the electronic scale claims that the standard deviation of the fluctuation is 2 milligrams. Assume that the fluctuations are independent. The company measures the weight of one object 8 times, and observes these values: 100.9, 98.2, 101.5, 102.2, 105.1, 99.4, 93.6, 97.5. Compute a 95% confidence interval for the variance of the fluctuation.",
+       "Solution": "[5.27, 49.94]"
+}

@@ -1,0 +1,6 @@
+{
+       "Course": "Theory of Numbers",
+       "Topic": "Congruences mod Primes, Order, Primitive Roots, Primitive Roots (Prime Powers), Index Calculus, Quadratic Residues, Quadratic Reciprocity",
+       "Original question": "How many solutions are there to x^12 \u2261 7 (mod 19)?",
+       "Solution": "6"
+}

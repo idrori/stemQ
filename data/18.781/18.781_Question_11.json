@@ -1,0 +1,6 @@
+{
+       "Course": "Theory of Numbers",
+       "Topic": "Primes Congruent to 1 mod n",
+       "Original question": "Does the following congruence x^2 \u2261 \u22121 (mod 244) have solutions, if so how many?",
+       "Solution": "No"
+}

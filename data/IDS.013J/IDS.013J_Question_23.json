@@ -1,0 +1,6 @@
+{
+       "Course": "Statistical Thinking and Data Analysis",
+       "Topic": "Statistical Thinking and Data Analysis",
+       "Original question": "You are an investment manager of an asset management company and you want to evaluate the performance of two hedge funds. For this you record their past performance for the last 10 years. The returns for both of the hedge funds in different years are independent and normally distributed with unknown mean \u00af and variance. The mean return for Hedge Fund 1, averaged over the 10 years, is X = 22.15% and the standard deviation calculated from those 10 measurements is 2.79%. For Hedge Fund 2 the mean \u00af return, averaged over the 10 years, is Y = 20.6% and the standard deviation calculated from those 10 measurements is 2.46%. Test for the equality of the means of the two hedge funds\u2019 performances, using\t \u03b1 = 0.05 with\r\na suitable test. Would you recommend using a t-test calculated from a pooled variance or the\r\nmethod for unequal variances? If you rejected the test in (1) then you may assume the variances\r\nare unequal, otherwise you may assume that the variances are equal.",
+       "Solution": "t= 1.33; Since |t| is less than t(18,0.025) = 2.1, we do not reject the null hypothesis at \u03b1 = 5% level."
+}

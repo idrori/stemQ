@@ -1,0 +1,6 @@
+{
+       "Course": "Statistical Thinking and Data Analysis",
+       "Topic": "Statistical Thinking and Data Analysis",
+       "Original question": "Suppose that the observations X1, X2, \u00b7 \u00b7 \u00b7 , Xn are iid with common mean \u03b8 and known variance \u03c32. Consider the following estimator of the mean \u03b8: \u0398\u02c6n = (X1+\u00b7\u00b7\u00b7+Xn)/( n+1 ). What happens to the bias as we increase the size of the sample?",
+       "Solution": "bias goes to 0"
+}

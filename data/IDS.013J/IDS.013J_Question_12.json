@@ -1,0 +1,6 @@
+{
+       "Course": "Statistical Thinking and Data Analysis",
+       "Topic": "Statistical Thinking and Data Analysis",
+       "Original question": "The returns of an asset management firm in different years are independent and normally distributed\nwith unknown mean and variance. The asset management firm claims that the standard deviation of\nthe returns is as low as \u03c3 = 2% and the mean of the returns is \u00b5 = 22%. You believe that this is too\ngood to be true. To verify your suspicion, you take the returns from the last 10 years. These are:\nr = {20.6, 19.2, 17, 19.1, 18.7, 22.5, 27.2, 17.9, 22.5, 21.3}. What is the probability that when we draw a new random sample of size 10, its sample standard deviation will be larger than 20.6, assuming that the company\u2019s claims are correct?",
+       "Solution": "0.0188"
+}

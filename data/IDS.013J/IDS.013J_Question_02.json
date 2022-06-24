@@ -1,0 +1,6 @@
+{
+       "Course": "Statistical Thinking and Data Analysis",
+       "Topic": "Probability",
+       "Original question": "A very large bin contains 3 different types of disposable flashlights. The probability that a type 1 flashlight will give over 100 hours of use is 0.7, with the corresponding probabilities for type 2 and 3 flashlights being 0.4 and 0.3 respectively. Suppose that 20% of the flashlights in the bin are type 1, 30% are type 2 and 50% are type 3. Given the flashlight lasted over 100 hours, what is the conditional probability that it was a type 1 flashlight?",
+       "Solution": "0.34"
+}

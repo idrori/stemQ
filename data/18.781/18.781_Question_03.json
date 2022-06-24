@@ -1,0 +1,6 @@
+{
+       "Course": "Theory of Numbers",
+       "Topic": "Fermat, Euler, Wilson, Linear Congruences",
+       "Original question": "Let p be an odd prime. How many p-element subsets of {1, 2,..., 2p} have the sum of their elements divisible by p?",
+       "Solution": "(2p + (2\ud835\udc5dCp \u2212 2))/p"
+}

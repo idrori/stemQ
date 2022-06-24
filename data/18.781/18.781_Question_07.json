@@ -1,0 +1,6 @@
+{
+       "Course": "Theory of Numbers",
+       "Topic": "Linear Congruences, Chinese Remainder Theorem, Algorithms, Primality, Factoring, RSA, Hensel's Lemma",
+       "Original question": "This computational exercise will involve the notion of \u201cdensity\u201d. We say that a set S of primes has density d if the limit of |{p < N : p prime and p is in S}|/|{p < N : p prime}| as N goes to infinity exists and is equal to d. Let f(x) = x^3 - 2, write a program to calculate the set S of primes p less than 10000 such that f has a solution modulo p. Approximate the density of such primes.",
+       "Solution": "~2/3"
+}

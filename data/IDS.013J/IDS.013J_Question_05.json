@@ -1,0 +1,6 @@
+{
+       "Course": "Statistical Thinking and Data Analysis",
+       "Topic": "Statistical Thinking and Data Analysis",
+       "Original question": "An airline company accepts 100 reservations for a flight that has 72 available seats. A person booking\na reservation does not show up in the flight with probability q = 0.1. Find an upper bound in the\nprobability that no traveler showing up is bumped (excluded) from the flight.",
+       "Solution": "P(X \u2264 72) \u2264 1/36"
+}

@@ -1,0 +1,6 @@
+{
+       "Course": "Theory of Numbers",
+       "Topic": "Primes Congruent to 1 mod n",
+       "Original question": "Does the following congruence x^2 \u2261 \u22121 (mod 365) have solutions, if so how many?",
+       "Solution": "We have 365 = 5 \u00b7 73. There are two solutions to each of the congruences x^2 \u2261 \u22121 (mod 5) and x^2 \u2261 \u22121 (mod 73), so there are 2 \u00b7 2 = 4 solutions."
+}

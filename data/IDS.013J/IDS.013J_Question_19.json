@@ -1,0 +1,6 @@
+{
+       "Course": "Statistical Thinking and Data Analysis",
+       "Topic": "Statistical Thinking and Data Analysis",
+       "Original question": "After your MIT graduation you decide to go to Monte Carlo for vacation. You visit a casino and decide to gamble; specifically, you want to play roulette. Before you start betting, you watch 500 roulette games at the casino, and you find that red is hit 260 times. Can you determine whether the roulette is fair? In case you don\u2019t know how roulette is played in Monte Carlo, it involves spinning a wheel that has many slots around it. There is 1 gold slot, 18 red slots, and 18 black slots. Find a 95% CI for the proportion of red results.",
+       "Solution": "[0.4762, 0.5638]"
+}

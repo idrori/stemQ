@@ -1,0 +1,6 @@
+{
+       "Course": "Theory of Numbers",
+       "Topic": "Linear Congruences, Chinese Remainder Theorem, Algorithms, Primality, Factoring, RSA, Hensel's Lemma",
+       "Original question": "Show that the number n = 561 = 3 \u00b7 11 \u00b7 17 satisfies the property P: for any a coprime to n, we have a^(n\u22121) \u2261 1 (mod n).",
+       "Solution": "We need to show that a 560 \u2261 1 mod 3, mod 11, and mod 17 for any a coprime to 561. Since a is coprime to 3, a^2 \u2261 1 (mod 3), so a^560 = a^(2\u00b7280) \u2261 1 (mod 3). Since a is coprime to 11, a^10 \u2261 1 (mod 11), so a^560 = a^(56\u00b710) \u2261 1 (mod 11). Since a is coprime to 17, a^16 \u2261 1 (mod 17), so a^560 = a^(35*16) \u2261 1 (mod 17)."
+}

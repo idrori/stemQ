@@ -1,0 +1,6 @@
+{
+       "Course": "Theory of Numbers",
+       "Topic": "Generating Functions",
+       "Original question": "Calculate the continued fractions of \u221a15.",
+       "Solution": "[3, 1, 6, 1, ...]"
+}

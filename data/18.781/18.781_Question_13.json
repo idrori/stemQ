@@ -1,0 +1,6 @@
+{
+       "Course": "Theory of Numbers",
+       "Topic": "Primes Congruent to 1 mod n",
+       "Original question": "Does the following congruence x^2 \u2261 267 (mod 789) have solutions, if so how many?",
+       "Solution": "We have 789 = 3 \u00b7 263. The first congruence, x^2 = 267 \u2261 0 (mod 3), has exactly one solution. The second, x^2 = 267 \u2261 4 (mod 263), has two solutions. Thus there are two solutions."
+}

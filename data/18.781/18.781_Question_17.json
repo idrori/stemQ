@@ -1,0 +1,6 @@
+{
+       "Course": "Theory of Numbers",
+       "Topic": "GCD",
+       "Original question": "Find the gcd of 621 and 483.",
+       "Solution": "Run the Euclidean algorithm to find that gcd(621, 483) = 69."
+}

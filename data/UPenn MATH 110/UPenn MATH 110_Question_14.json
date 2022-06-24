@@ -1,0 +1,6 @@
+{
+       "Course": "Calculus for Wharton Students",
+       "Topic": "Calculus",
+       "Original question": "Compute the indefinite integral of ln(1+x)*sqrt(1+x)",
+       "Solution": "2/3*(x + 1)^(3/2) * ln(x + 1) \u2212 4/9*(x + 1)^(3/2) + c"
+}

@@ -1,0 +1,6 @@
+{
+       "Course": "Calculus for Wharton Students",
+       "Topic": "Calculus",
+       "Original question": "Let f(x,y) = x/y. Compute \u2207f.",
+       "Solution": "$$\n\\nabla f=\\frac{1}{y} \\hat{\\mathbf{i}}-\\frac{x}{y^{2}} \\hat{\\mathbf{j}}\n$$"
+}

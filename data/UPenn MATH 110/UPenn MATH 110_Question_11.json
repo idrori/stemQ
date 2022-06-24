@@ -1,0 +1,6 @@
+{
+       "Course": "Calculus for Wharton Students",
+       "Topic": "Calculus",
+       "Original question": "Find a function $g(x)=c x^{p}$ such that $f(x) \\sim g(x)$ as $x \\rightarrow \\infty$ where\n$$\nf(x)=\\frac{\\sqrt{4 / x}}{\\frac{3}{x}+\\frac{5}{x^{2}}} .\n$$\nYou do not have to prove your answer but we should be able to see how you got it.\n",
+       "Solution": "$f(x) = \\frac{2}{3} x^{1 / 2}$"
+}

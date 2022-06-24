@@ -1,0 +1,6 @@
+{
+       "Course": "Calculus for Wharton Students",
+       "Topic": "Calculus",
+       "Original question": "A dart lands uniformly somewhere in the triangle bounded by the x-axis, the y-axis and the line 5x + 2y = 10. Compute the probability density of the location of the dart.\n\n",
+       "Solution": "Since the dart lands uniformly inside the shadow area, the density is just 1/Sshadow = 1/5 anywhere insider the shadow area, and zero elsewhere."
+}

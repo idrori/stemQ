@@ -1,0 +1,6 @@
+{
+       "Course": "Calculus for Wharton Students",
+       "Topic": "Calculus",
+       "Original question": "Suppose x and y are related by ln x = 3 ln y. State in words the relation between x and y.",
+       "Solution": "Exponentiate both sides with base $e: x=e^{3 \\ln y}=\\left(e^{\\ln y}\\right)^{3}=y^{3}$ In words, $x$ is equal to the cube of $y$, or $y$ is equal to the cube root of $x$ (either one of these is fine)."
+}

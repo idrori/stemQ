@@ -1,0 +1,6 @@
+{
+       "Course": "Calculus for Wharton Students",
+       "Topic": "Calculus",
+       "Original question": "Write a differential equation for this scenario. You do not have to solve the differential equation but you must give the interpretation of all variables and constants, their units, and indicate which is the dependent and the independent variable.\nThe amount of an endowment increases due to investment at a rate proportional to the value, decreased by fees that are taken out at a constant rate.",
+       "Solution": "The differential equation should look like dE = kE \u2212 F,\ndt\nwhere\n\u2022 E is the amount of endowment,\n\u2022 t is time,\n\u2022 k is the constant of proportionality of endowment with respect to rate, \u2022 F is the fees that are taken out at a constant rate."
+}

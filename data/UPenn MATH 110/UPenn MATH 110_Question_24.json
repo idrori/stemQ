@@ -1,0 +1,6 @@
+{
+       "Course": "Calculus for Wharton Students",
+       "Topic": "Calculus",
+       "Original question": "Compute $\\lim _{x \\rightarrow 0^{+}} x \\ln x$",
+       "Solution": "0"
+}

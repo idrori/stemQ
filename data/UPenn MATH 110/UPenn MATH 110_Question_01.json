@@ -1,0 +1,6 @@
+{
+       "Course": "Calculus for Wharton Students",
+       "Topic": "Calculus",
+       "Original question": "Estimate \u221a9.2 using the linearization of the function \u221ax at x = 9.",
+       "Solution": "L(9.2)=3+0.2/6=3&1/30 =3.0333...."
+}

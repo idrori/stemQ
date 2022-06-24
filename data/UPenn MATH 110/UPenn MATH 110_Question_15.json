@@ -1,0 +1,6 @@
+{
+       "Course": "Calculus for Wharton Students",
+       "Topic": "Calculus",
+       "Original question": "Find c and p such that x^(-2)/(2+1/x)\u223ccx^p as x\u2192\u221e.",
+       "Solution": "c = 1/2 and p = \u22122"
+}

@@ -1,0 +1,6 @@
+{
+       "Course": "Calculus for Wharton Students",
+       "Topic": "Calculus",
+       "Original question": "Compute the quadratic (n = 2) Taylor polynomial P2(x) for the function x2/3 at the value a = 8.",
+       "Solution": "Since f(x) = x2/3 has\n\u2032 2x\u22121/3 \u2032\u2032 2x\u22124/3\nf(x)= 3 andf (x)=\u2212\nP2(x) = f(8) + f\u2032(8)(x \u2212 8) + f\u2032\u2032(8)(x \u2212 8)2\n  one computes\n9 , =4+1(x\u22128)\u2212 1 (x\u22128)2."
+}

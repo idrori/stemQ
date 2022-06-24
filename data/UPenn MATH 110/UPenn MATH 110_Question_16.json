@@ -1,0 +1,6 @@
+{
+       "Course": "Calculus for Wharton Students",
+       "Topic": "Calculus",
+       "Original question": "Compute the indefinite integral of x2e^(\u2212x).",
+       "Solution": "\u2212x^2e^\u2212x \u2212 2xe^\u2212x \u2212 2e^\u2212x + constant"
+}

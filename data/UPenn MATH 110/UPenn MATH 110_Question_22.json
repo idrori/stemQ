@@ -1,0 +1,6 @@
+{
+       "Course": "Calculus for Wharton Students",
+       "Topic": "Calculus",
+       "Original question": "A retirement account growing at an exponential rate is expected to double in 14 years. Write an equation for the amount in the account after t years in terms of the starting contribution, assuming no further contributions. Be sure to give units for all constants.",
+       "Solution": "\u03b1 = ln 2/14"
+}

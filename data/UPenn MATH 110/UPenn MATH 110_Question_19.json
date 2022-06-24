@@ -1,0 +1,6 @@
+{
+       "Course": "Calculus for Wharton Students",
+       "Topic": "Calculus",
+       "Original question": "A revenue forecast for a technological innovation forecasts earnings of n^(\u22122/5) million dollars in year n.\n(a) Express the total possible earnings of this innovation (assuming you can continue marketing it forever) as an infinite series in Sigma-notation.",
+       "Solution": "An observation tells us the series should be \\Sigma^{\u221e}_{n=1} n^{\u22122/5}."
+}

@@ -1,0 +1,6 @@
+{
+       "Course": "Intermediate Calculus",
+       "Topic": "Stokes' Theorem",
+       "Original question": "Use the surface integral in Stokes\u2019 Theorem to calculate the circulation of the field F around the curve C in the indicated direction.\nF = yi + xzj + x^2k\nC: The boundary of the triangle cut from the plane x + y + z = 1 by the first octant, counterclockwise when viewed from above",
+       "Solution": "4pi"
+}

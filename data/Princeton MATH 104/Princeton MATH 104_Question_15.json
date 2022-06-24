@@ -1,0 +1,6 @@
+{
+       "Course": "Calculus II",
+       "Topic": "Calculus",
+       "Original question": "Evaluate the indefinite integral of sin(ln(t))dt",
+       "Solution": "(t*sin(ln(t)) -t*cos(ln(t)))/2 +C"
+}

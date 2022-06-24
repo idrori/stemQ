@@ -1,0 +1,6 @@
+{
+       "Course": "Probability",
+       "Topic": "Conditional Probability",
+       "Original question": "X and Y are i.i.d. N(0, 1) random variables. You are given that X > 0 and Y > 0. What is the probability that Y > X?",
+       "Solution": "1/2"
+}

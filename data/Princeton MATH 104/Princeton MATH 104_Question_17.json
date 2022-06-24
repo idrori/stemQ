@@ -1,0 +1,6 @@
+{
+       "Course": "Calculus II",
+       "Topic": "Calculus",
+       "Original question": "Approximate the following integral with an error less than 10^-3. \nThe definite integral of cos(sqrt(t))dt from 0 to 1/10. ",
+       "Solution": "39/400"
+}

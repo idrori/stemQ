@@ -1,0 +1,6 @@
+{
+       "Course": "Intermediate Calculus",
+       "Topic": "Optimization",
+       "Original question": "Find the maximum value of s = xy + yz + xz where x + y + z = 6.",
+       "Solution": "12"
+}

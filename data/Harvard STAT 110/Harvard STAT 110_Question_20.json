@@ -1,0 +1,6 @@
+{
+       "Course": "Probability",
+       "Topic": "Conditional Probability",
+       "Original question": "How many people do we need in a class to make the probability that two people have the same birthday more than 1/2? For simplicity, assume there are 365 days in a year.",
+       "Solution": "23"
+}

@@ -1,0 +1,6 @@
+{
+       "Course": "Intermediate Calculus",
+       "Topic": "Velocity and acceleration",
+       "Original question": "r(t) is the position of a particle in space at time t. Find the angle between the velocity and acceleration vectors at time t = 0.\nr(t) = (3t + 1)i + \u221a3 tj + t^2 k",
+       "Solution": "pi/2"
+}

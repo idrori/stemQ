@@ -1,0 +1,6 @@
+{
+       "Course": "Calculus II",
+       "Topic": "Calculus",
+       "Original question": "Does the definite integral of (sin(x))^2/x^2 dx from 0 to infty converge or diverge?",
+       "Solution": "Converges"
+}

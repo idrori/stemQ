@@ -1,0 +1,6 @@
+{
+       "Course": "Intermediate Calculus",
+       "Topic": "Centroid",
+       "Original question": "Find the centroid of the region in the first quadrant bounded by the x-axis, the parabola y^2 = 2x, and the line x + y = 4.",
+       "Solution": "x = 64/35, y = 5/7"
+}

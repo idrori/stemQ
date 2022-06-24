@@ -1,0 +1,6 @@
+{
+       "Course": "Probability",
+       "Topic": "Expected Value",
+       "Original question": "What's the expected number of coin flips until you get two heads in a row? What's the expected number of coin flips until you get two tails in a row?",
+       "Solution": "6"
+}

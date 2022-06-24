@@ -1,0 +1,6 @@
+{
+       "Course": "Probability",
+       "Topic": "Conditional Expectation",
+       "Original question": "A fair coin is tossed repeatedly until 5 consecutive heads occurs. What is the expected number of coin tosses?",
+       "Solution": "62"
+}

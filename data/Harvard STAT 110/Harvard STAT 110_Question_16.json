@@ -1,0 +1,6 @@
+{
+       "Course": "Probability",
+       "Topic": "Geometric Probability, Expected Value",
+       "Original question": "A stick of length 1 breaks at a random point distributed uniformly across it length. What is the expected length of the smaller part of the broken stick?",
+       "Solution": "1/4"
+}

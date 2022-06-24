@@ -1,0 +1,6 @@
+{
+       "Course": "Calculus II",
+       "Topic": "Calculus",
+       "Original question": "For what values of x does the series \\sum_{n=1}^{infty} (2x-1)^n/n converge?",
+       "Solution": "0<=x<1"
+}

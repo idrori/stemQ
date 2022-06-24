@@ -1,0 +1,6 @@
+{
+       "Course": "Intermediate Calculus",
+       "Topic": "Partial derivatives",
+       "Original question": "Find df/dx and df/dy.\nf(x, y) = (x + y) / (xy - 1)",
+       "Solution": "(-y^2-1) / (xy - 1)^2\n-1 / (x + y)^2"
+}

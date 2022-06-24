@@ -1,0 +1,6 @@
+{
+       "Course": "Calculus II",
+       "Topic": "Calculus",
+       "Original question": "Find the second order Taylor polynomial of arctan(x) about the center a =1/2",
+       "Solution": "arctan(1/2) + 4(x- 1/2)/5 -8*(x-1/2)^2/25"
+}

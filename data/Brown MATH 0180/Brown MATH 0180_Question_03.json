@@ -1,0 +1,6 @@
+{
+       "Course": "Intermediate Calculus",
+       "Topic": "Spheres",
+       "Original question": "Determine an equation for the sphere centered at (7, -3, 2) with radius 4.",
+       "Solution": "x^2 - 14x + 49 + y^2 + 6y + 9 + z^2 - 4z + 4 = 16"
+}

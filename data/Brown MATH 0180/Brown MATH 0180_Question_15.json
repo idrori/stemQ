@@ -1,0 +1,6 @@
+{
+       "Course": "Intermediate Calculus",
+       "Topic": "Lagrange multipliers",
+       "Original question": "Use the method of Lagrange multipliers to find the dimensions of the rectangle of\r\ngreatest area that can be inscribed in the ellipse x^2/16 + y^2/9 = 1 with sides parallel to the coordinate axes.",
+       "Solution": "length = 4\u221a2, width = 3\u221a2 "
+}

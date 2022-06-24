@@ -1,0 +1,6 @@
+{
+       "Course": "Probability",
+       "Topic": "Geometric Probability",
+       "Original question": "p and q are two points chosen at random between 0 & 1. What is the probability that the ratio p/q lies between 1 & 2?",
+       "Solution": "1/4"
+}

@@ -1,0 +1,6 @@
+{
+       "Course": "Calculus II",
+       "Topic": "Calculus",
+       "Original question": "Evaluate the indefinite integral of (\u03b8^2 + 1) cos \u03b8 d\u03b8.",
+       "Solution": "(\u03b8^2*sin(\u03b8) +2*\u03b8cos(\u03b8) -sin(\u03b8) +C"
+}

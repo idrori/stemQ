@@ -1,0 +1,6 @@
+{
+       "Course": "Intermediate Calculus",
+       "Topic": "Local extrema",
+       "Original question": "Find all the local maxima, local minima, and saddle points of the function\n\u0192(x, y) = 2xy - x^2 - 2y^2 + 3x + 4",
+       "Solution": "f(3, 3/2) = 17/2, local maximum"
+}

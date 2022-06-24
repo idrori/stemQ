@@ -1,0 +1,6 @@
+{
+       "Course": "Probability",
+       "Topic": "Expected Value",
+       "Original question": "Let's say we play a game where I keep flipping a coin until I get heads. If the first time I get heads is on the nth coin, then I pay you 2n-1 dollars. How much would you pay me to play this game?",
+       "Solution": "3"
+}

@@ -1,0 +1,6 @@
+{
+       "Course": "Calculus II",
+       "Topic": "Calculus",
+       "Original question": "Find all real solutions to the differential equation cos^2(x)dy/dx + y = e^(tan(x))",
+       "Solution": "e^(tan(x))/2 + Ce^(-tan(x))"
+}

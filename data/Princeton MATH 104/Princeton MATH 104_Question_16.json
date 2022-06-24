@@ -1,0 +1,6 @@
+{
+       "Course": "Calculus II",
+       "Topic": "Calculus",
+       "Original question": "Evaluate the indefinite integral of dx/(sqrt(9x^2 + 16))",
+       "Solution": "ln(3x + sqrt(16+9x^2))/3 + C"
+}

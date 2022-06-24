@@ -1,0 +1,6 @@
+{
+       "Course": "Probability",
+       "Topic": "Conditional Probability",
+       "Original question": "You have a group of couples that decide to have children until they have their first girl, after which they stop having children. What is the expected gender ratio of the children that are born? What is the expected number of children each couple will have?",
+       "Solution": "1/2"
+}

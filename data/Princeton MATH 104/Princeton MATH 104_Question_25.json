@@ -1,0 +1,6 @@
+{
+       "Course": "Calculus II",
+       "Topic": "Calculus",
+       "Original question": "Find the limit as x goes to 0 of (e^(2x^2) - 1- 2x^2)*(cos(x)-1)/(x^4 * (sin(3x) - ln(1+3x)))",
+       "Solution": "-2/9"
+}

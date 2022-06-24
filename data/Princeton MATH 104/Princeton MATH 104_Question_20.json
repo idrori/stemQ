@@ -1,0 +1,6 @@
+{
+       "Course": "Calculus II",
+       "Topic": "Calculus",
+       "Original question": "Find all real solutions to the differential equation xdy/dx +2y = sin(x)",
+       "Solution": "(-xcos(x) +sin(x) + C)/x^2"
+}

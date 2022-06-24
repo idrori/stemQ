@@ -1,0 +1,6 @@
+{
+       "Course": "Calculus II",
+       "Topic": "Calculus",
+       "Original question": "Evaluate the indefinite integral of  5dx/(x^3+2x^2 + 5x)",
+       "Solution": "ln|x| - ln((x+1)^2 +4)/2 - arctan((x+1)/2)/2 +C"
+}

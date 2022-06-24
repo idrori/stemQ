@@ -1,0 +1,6 @@
+{
+       "Course": "Calculus II",
+       "Topic": "Calculus",
+       "Original question": "Find all real solutions to the differential equation d^2y/dx^2 + dy/dx - 2y = e^(3x)",
+       "Solution": "C_1e^(x) + C_2e^(-2x) +e^(3x)/10"
+}

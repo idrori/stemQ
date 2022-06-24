@@ -1,0 +1,6 @@
+{
+       "Course": "Computer Architecture",
+       "Topic": "Computer Architecture arithmetic",
+       "Original question": "If a computer has 45 address lines, what is the maximal byte address in hexadecimal?",
+       "Solution": "1FFFFFFFFFFF"
+}

@@ -1,0 +1,6 @@
+{
+       "Course": "Computer Architecture",
+       "Topic": "Computer Architecture arithmetic",
+       "Original question": "What is 2^8 \u00d7 2^4? Only provide the exponent.",
+       "Solution": "12"
+}

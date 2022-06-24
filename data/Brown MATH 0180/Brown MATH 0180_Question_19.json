@@ -1,0 +1,6 @@
+{
+       "Course": "Intermediate Calculus",
+       "Topic": "Line integrals",
+       "Original question": "Integrate \u0192 over the given curve.\n\u0192(x, y) = x + y, C: x^2 + y^2 = 4 in the first quadrant from (2, 0) to (0, 2)",
+       "Solution": "8"
+}

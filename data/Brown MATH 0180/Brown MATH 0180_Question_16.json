@@ -1,0 +1,6 @@
+{
+       "Course": "Intermediate Calculus",
+       "Topic": "Polar coordinates",
+       "Original question": "The region that lies inside the cardioid r = 1 + cos u and outside the circle r = 1 is the base of a solid right cylinder. The top of the cylinder lies in the plane z = x. Find the cylinder\u2019s volume.",
+       "Solution": "4/3 + 5pi /8"
+}

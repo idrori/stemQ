@@ -1,0 +1,6 @@
+{
+       "Course": "Computer Architecture",
+       "Topic": "Computer Architecture arithmetic",
+       "Original question": "How many 4096-byte blocks are there on a 32TB disk in 2^x notation? (Provide only the exponent.)",
+       "Solution": "33"
+}

@@ -1,0 +1,6 @@
+{
+       "Course": "Calculus II",
+       "Topic": "Calculus",
+       "Original question": "Find the limit as x goes to 0 of (xcos(x) - xe^(-x^2))/(sin^3(x))",
+       "Solution": "1/2"
+}

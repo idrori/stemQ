@@ -1,0 +1,6 @@
+{
+       "Course": "Computer Architecture",
+       "Topic": "Computer Architecture arithmetic",
+       "Original question": "Suppose a CPU has an address bus with 32 lines, and all registers, including the PSW (Processor Status\n Word), have 32 bits.\n If the stack pointer is 0xFFFA0938 and the computer pushes 4 2-byte words onto the stack, what is the resulting stack pointer in hexadecimal?",
+       "Solution": "0xFFFA0930"
+}

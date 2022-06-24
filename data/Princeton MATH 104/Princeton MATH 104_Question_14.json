@@ -1,0 +1,6 @@
+{
+       "Course": "Calculus II",
+       "Topic": "Calculus",
+       "Original question": "Find the volume of the solid obtained by revolving the region under the curve y=cos(x) and above the x-axis, for 0<=x<=pi/3, about the line x=-1. ",
+       "Solution": "(pi^2)/(sqrt(3))  + pi*(sqrt(3)-1)"
+}

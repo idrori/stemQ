@@ -1,0 +1,6 @@
+{
+       "Course": "Intermediate Calculus",
+       "Topic": "Integrals",
+       "Original question": "Evaluate the given indefinite or definite integral: \u222b sin 3\u03b8 / sqrt(cos3\u03b8 + 4) d\u03b8",
+       "Solution": "-2/3 sqrt(cos 3\u03b8 + 4) + C"
+}

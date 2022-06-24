@@ -1,0 +1,6 @@
+{
+       "Course": "Intermediate Calculus",
+       "Topic": "Derivatives",
+       "Original question": "Determine the derivative of the given function: f(x) = x ln (e^x + 1)",
+       "Solution": "ln(e^x + 1) + xe^x / (e^x + 1)"
+}

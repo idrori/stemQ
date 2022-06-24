@@ -1,0 +1,6 @@
+{
+       "Course": "Intermediate Calculus",
+       "Topic": "Green's Theorem",
+       "Original question": "Use Green\u2019s Theorem to find the counterclockwise circulation and outward flux for the field F and curve C.\nF = (x-y)i + (y-x)j\nC: The square bounded by x = 0, x = 1, y = 0, y = 1",
+       "Solution": "Flux = 2, circ = 0"
+}

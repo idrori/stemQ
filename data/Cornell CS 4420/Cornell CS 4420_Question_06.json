@@ -1,0 +1,6 @@
+{
+       "Course": "Computer Architecture",
+       "Topic": "Computer Architecture arithmetic",
+       "Original question": "If the stack pointer is 0xFFF3DAA8 and the computer pushes 3 4-byte words onto the stack (which is growing down), what is the resulting stack pointer in hexadecimal?",
+       "Solution": "0xFFF3DA9C"
+}

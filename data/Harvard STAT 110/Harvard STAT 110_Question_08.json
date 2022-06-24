@@ -1,0 +1,6 @@
+{
+       "Course": "Probability",
+       "Topic": "Bayes' Theorem and Conditional Probability",
+       "Original question": "You have two coins, one of which is fair and comes up heads with a probability 1/2, and the other which is biased and comes up heads with probability 3/4. You randomly pick coin and flip it twice, and get heads both times. What is the probability that you picked the fair coin?",
+       "Solution": "4/13"
+}

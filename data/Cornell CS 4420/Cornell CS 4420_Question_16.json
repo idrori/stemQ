@@ -1,0 +1,6 @@
+{
+       "Course": "Computer Architecture",
+       "Topic": "Computer Architecture arithmetic",
+       "Original question": "What is 01100110 XOR 00111011 in binary?",
+       "Solution": "1011101"
+}

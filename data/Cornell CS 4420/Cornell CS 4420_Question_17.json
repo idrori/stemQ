@@ -1,0 +1,6 @@
+{
+       "Course": "Computer Architecture",
+       "Topic": "Computer Architecture arithmetic",
+       "Original question": "Suppose a CPU has an address bus with 32 lines, and all registers, including the PSW (Processor Status\n Word), have 32 bits.\n What is the address of the last 4-byte word in hexadecimal?",
+       "Solution": "0xFFFFFFFC"
+}

@@ -1,0 +1,6 @@
+{
+       "Course": "Calculus II",
+       "Topic": "Calculus",
+       "Original question": "Consider the region under the curve y = e^(\u2212x)\nand above the x-axis for 0 \u2264 x < \u221e. Revolve it around the x-axis and find the volume.",
+       "Solution": "pi/2"
+}

@@ -1,0 +1,6 @@
+{
+       "Course": "Probability",
+       "Topic": "Conditional Probability",
+       "Original question": "Calvin and Hobbes play a match consisting of a series of games, where Calvin has probability 0.5 of winning each game (independently). They play with a 'win by two' rule: the first player to win two games more than his opponent wins the match. Find the probability that Calvin wins the match (in terms of p)",
+       "Solution": "0.25"
+}

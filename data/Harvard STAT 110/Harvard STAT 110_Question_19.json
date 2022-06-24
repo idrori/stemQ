@@ -1,0 +1,6 @@
+{
+       "Course": "Probability",
+       "Topic": "Conditional Expectation",
+       "Original question": "Suppose that you roll a dice. For each roll, you are paid the face value. If a roll gives 4, 5, or 6, you can roll the dice again. If you get 1, 2, or 3, the game stops. What is the expected payoff of this game?",
+       "Solution": "7"
+}

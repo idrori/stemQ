@@ -1,0 +1,6 @@
+{
+       "Course": "Intermediate Calculus",
+       "Topic": "Implicit differentiation",
+       "Original question": "Find the value of dz/dx at the point (1, 1, 1) if the equation xy + z^3 x - 2yz = 0 defines z as a function of the two independent variables x and y and\r\nthe partial derivative exists.",
+       "Solution": "-2"
+}

@@ -1,0 +1,6 @@
+{
+       "Course": "Calculus II",
+       "Topic": "Calculus",
+       "Original question": "For what values of x does the series \\sum_{n=1}^{infty} (x+3)^n/sqrt(n^3) converge?",
+       "Solution": "-4 <= x < =2"
+}

@@ -1,0 +1,6 @@
+{
+       "Course": "Computer Architecture",
+       "Topic": "Computer Architecture arithmetic",
+       "Original question": "The CPU runs an operating system kernel. A user process occupies the bottom half of the 32-bit address\n space (i.e., the lower addresses), while the kernel occupies the top half of the same address space (i.e., the\n higher address\n What is the address where the kernel starts?",
+       "Solution": "0x80000000"
+}

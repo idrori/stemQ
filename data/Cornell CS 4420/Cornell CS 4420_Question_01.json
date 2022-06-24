@@ -1,0 +1,6 @@
+{
+       "Course": "Computer Architecture",
+       "Topic": "Computer Architecture arithmetic",
+       "Original question": "What is 2^3 x 2^5? Only provide the exponent",
+       "Solution": "8"
+}

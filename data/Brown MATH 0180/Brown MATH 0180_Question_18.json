@@ -1,0 +1,6 @@
+{
+       "Course": "Intermediate Calculus",
+       "Topic": "Volume",
+       "Original question": "Find the volume of the region bounded above by the paraboloid z = 5 - x^2 - y^2 and below by the paraboloid z = 4x^2 + 4y^2",
+       "Solution": "5pi / 2"
+}

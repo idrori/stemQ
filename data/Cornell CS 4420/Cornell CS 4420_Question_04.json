@@ -1,0 +1,6 @@
+{
+       "Course": "Computer Architecture",
+       "Topic": "Computer Architecture arithmetic",
+       "Original question": "What is 2^12 \u2212 1 in hexadecimal?",
+       "Solution": "FFF"
+}

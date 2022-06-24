@@ -1,0 +1,6 @@
+{
+       "Course": "Intermediate Calculus",
+       "Topic": "Forces",
+       "Original question": "An object weighs 10 pounds, so the force of gravity on the object is represented by the downward-pointing vector <0, 0, \u221210>. However, the object is on a slanted surface, so that the vector <1, \u22122, \u22125> points straight into (not along) the surface. Determine the magnitude of the portion of the gravity vector that points straight into the surface.\n(In physics, this quantity would be used to help calculate friction.)",
+       "Solution": "5\u221a30 / 3"
+}

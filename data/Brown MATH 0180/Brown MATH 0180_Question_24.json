@@ -1,0 +1,6 @@
+{
+       "Course": "Intermediate Calculus",
+       "Topic": "Surface mass",
+       "Original question": "A surface S lies on the plane 2x + 3y + 6z = 12 directly above the rectangle in the xy-plane with vertices (0, 0), (1, 0), (0, 2), and (1, 2). If the density at a point (x, y,z) on S is given by \u03b4(x, y, z) = 4xy + 6z mg/cm^2, find the total mass of S.",
+       "Solution": "70/3 mg"
+}

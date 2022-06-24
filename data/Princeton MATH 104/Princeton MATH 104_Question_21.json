@@ -1,0 +1,6 @@
+{
+       "Course": "Calculus II",
+       "Topic": "Calculus",
+       "Original question": "Find all complex numbers z satisfying the equation (2z-1)^4 = -16. Express your answers in the form a+ib, where a and b are real.",
+       "Solution": "1/2 + sqrt(2)/2 + i*sqrt(2)/2\n1/2 - sqrt(2)/2 + i*sqrt(2)/2\n1/2 + sqrt(2)/2 - i*sqrt(2)/2\n1/2 - sqrt(2)/2  - i*sqrt(2)/2\n"
+}

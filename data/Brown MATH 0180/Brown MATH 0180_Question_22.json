@@ -1,0 +1,6 @@
+{
+       "Course": "Intermediate Calculus",
+       "Topic": "Work",
+       "Original question": "Find the work done by F in moving a particle once counterclockwise around the given curve.\r\nF = 2xy^3i + 4x^2y^2j\r\nC: The boundary of the \u201ctriangular\u201d region in the first quadrant enclosed by the x-axis, the line x = 1, and the curve y = x^3",
+       "Solution": "2/33"
+}

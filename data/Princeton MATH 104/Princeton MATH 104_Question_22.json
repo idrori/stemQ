@@ -1,0 +1,6 @@
+{
+       "Course": "Calculus II",
+       "Topic": "Calculus",
+       "Original question": "Write AC or CC or D to indicate whether the given series is Absolutely Convergent or Conditionally convergent or Divergent.\n\\sum_{n=1}^{infty} (2^(2n) + (-5)^n)/5^n",
+       "Solution": "D"
+}

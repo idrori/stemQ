@@ -1,0 +1,6 @@
+{
+       "Course": "Calculus II",
+       "Topic": "Calculus",
+       "Original question": "Find the limit as x goes to 0 of (e^(2x) -cos(x) - sin(2x))/(ln(1+x) -x)",
+       "Solution": "-5"
+}

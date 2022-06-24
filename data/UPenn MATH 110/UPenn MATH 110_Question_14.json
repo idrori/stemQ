@@ -1,0 +1,6 @@
+{
+       "Course": "Calculus for Wharton Students",
+       "Topic": "Calculus",
+       "Original question": "Let g(x) be the time in hours it takes to drill a one foot diameter shaft x meters deep into a bed of limestone. State an interpretation for the inverse function g\u22121.",
+       "Solution": "g\u22121(t) is the length in meters of a shaft with diameter one foot that can be drilled into a bed of limestone in t hours."
+}

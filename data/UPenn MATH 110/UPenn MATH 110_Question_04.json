@@ -1,0 +1,6 @@
+{
+       "Course": "Calculus for Wharton Students",
+       "Topic": "Calculus",
+       "Original question": "An estuary contains 10 kg. of PCB (toxic waste) dispersed in a total of 3 MCF (million cubic feet) of mud. Influx of muddy water will add to the mud volume at the rate of 1 MCF / year. Superfund begins to clean up the site using an enzyme that breaks down (hence removes) the PCB at a rate proportional to the concentration in kg/MCF of PCB.\nWrite an initial value problem for the amount P (t) of PCB present af- ter t years. Be sure to state interpretations and units for any constants you introduce.",
+       "Solution": "The concentration is the amount of PCB divided by the amount of mud, which is given after t years by P (t)/(3 + t). Therefore,\nP \u2032(t) = \u2212k P (t) . 3+t\nwhere k is a proportionality constant. The units of the left side are PCB / time. The units of the right, other than k, are PCB/MCF, because 3+t is really 3 MCF + (t years) (1 MCF/year). Therefore k has units of MCF/year. The initial value is P (0) = 10."
+}

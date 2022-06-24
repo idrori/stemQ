@@ -1,0 +1,6 @@
+{
+       "Course": "Calculus for Wharton Students",
+       "Topic": "Calculus",
+       "Original question": "Write an equation expressing the following scenario. Be sure to define variables and constants and to give units for each.\nThe number of troops necessary to patrol an area after combat units are with- drawn is proportional to the 1/2 power of the area being patrolled and inversely proportional to the length of time after the withdrawal.",
+       "Solution": "N = C \u221aA /t where C has units of people days per mile."
+}

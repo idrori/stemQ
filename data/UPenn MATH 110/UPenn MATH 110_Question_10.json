@@ -1,0 +1,6 @@
+{
+       "Course": "Calculus for Wharton Students",
+       "Topic": "Calculus",
+       "Original question": "Compute the indefinite integral \udbff\udc05 x\u22123 ln x dx.",
+       "Solution": "This is a straightforward integration by parts. Let u = lnx and dv =\nx\u22123dx so that v = \u2212(1/2)x\u22122 dx and dv = x\u22121 dx. Then\n\udbff\udc05 x\u22123lnxdx=\u22121x\u22122lnx+1\udbff\udc05 x\u22122(x\u22121dx)=\u22121x\u22122lnx\u22121x\u22122."
+}

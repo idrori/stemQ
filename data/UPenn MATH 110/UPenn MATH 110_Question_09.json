@@ -1,0 +1,6 @@
+{
+       "Course": "Calculus for Wharton Students",
+       "Topic": "Calculus",
+       "Original question": "Compute the gradient of the function f (x, y) =x^2/ 8\u221ay .",
+       "Solution": "\u2202f 2x x \u2202x = 8\u221ay=4\u221ay\n\u2202f x2\n\u2202y = \u221216y3/2 .\n       x\u02c6 x2\u02c6 Therefore the gradient of f is 4\u221ay i \u2212 16y3/2 j."
+}

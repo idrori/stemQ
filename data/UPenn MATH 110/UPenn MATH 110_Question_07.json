@@ -1,0 +1,6 @@
+{
+       "Course": "Calculus for Wharton Students",
+       "Topic": "Calculus",
+       "Original question": "Give the general solution of the differential equation (1+t) y'+y=\\sqrt{t}",
+       "Solution": "$$\ny(t)=\\frac{2 t^{3 / 2}+C}{3(t+1)}\n$$\nwhere $C$ is any real number. We can also write this as\n$$\ny(t)=\\frac{2}{3} \\frac{t^{3 / 2}}{t+1}+\\frac{c}{t+1}\n$$\nwhere $c$ is any real number.\n"
+}

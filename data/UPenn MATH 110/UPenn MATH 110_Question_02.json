@@ -1,0 +1,6 @@
+{
+       "Course": "Calculus for Wharton Students",
+       "Topic": "Calculus",
+       "Original question": "\u201cDollar Bill\u201d Stearn was convicted of tax evasion. As of January, 2017, he owed the U.S. Treasury a total of $14 million in back taxes. The payment agreement requires him to pay back $1.5 million each year on January 1, beginning in 2018. Federally mandated interest charges add 10% to his bill every December 31.\n(a) How many millions of dollars does he owe on the morning of January 2 of each of these years?",
+       "Solution": "2017: 14 \n2018: 14 \u00b7 1.1 \u2212 1.5 = 13.9\n2019: (14\u00b71.1\u22121.5)\udbff\udc03\u00b71.1\u22121.5=14\u00b71.12 \u22121.5\u00b71.1\u22121.5=13.79"
+}

@@ -1,0 +1,6 @@
+{
+       "Course": "Calculus for Wharton Students",
+       "Topic": "Calculus",
+       "Original question": "Use integrals to give upper and lower bounds for this sum.\n99 \u221a \udbff\udc02mm.\nm=16\nThese should be given as analytic expressions, with no integrals left un- evaluated, simplified when possible. Please include a sketch on the facing page (back of problem 6) or an extra piece of paper.",
+       "Solution": "Upper bound:\u224839,600\nLower bound:$\\frac{2}{5}\\left(99^{\\frac{5}{2}}-15^{\\frac{5}{2}}\\right)\u224838659$"
+}

@@ -1,0 +1,6 @@
+{
+       "Course": "Fundamentals of Physics I",
+       "Topic": "Mechanics",
+       "Original question": "A bullet of mass m moving at horizontal velocity v strikes and sticks to the rim of a wheel (a solid disc) of mass M, radius R, anchored at its center but free to rotate. Find \u03c9f the final angular velocity of the wheel.",
+       "Solution": "\u03c9f = v/R * (1/(1+M/(2m))"
+}

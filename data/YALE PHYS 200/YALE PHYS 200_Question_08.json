@@ -1,0 +1,6 @@
+{
+       "Course": "Fundamentals of Physics I",
+       "Topic": "Mechanics",
+       "Original question": "Why can a body with total energy E < 0 not escape to infinity?",
+       "Solution": "For a body bound in a gravitational potential, E = 1/2*m*v^2 \u2212G*M*m/R. If R = \u221e then the potential energy term is zero and E will necessarily be greater than or equal to zero. Hence, for a mass with E < 0, R must always have a finite value and therefore the mass can never escape to infinity."
+}

@@ -1,0 +1,6 @@
+{
+       "Course": "Fundamentals of Physics I",
+       "Topic": "Mechanics",
+       "Original question": "Consider the force F = 2xy^3*i + 3x^2y^2*j. What is the work done by the force along a path y = x^123456789 joining (0, 0) to (1, 1)?",
+       "Solution": "1"
+}

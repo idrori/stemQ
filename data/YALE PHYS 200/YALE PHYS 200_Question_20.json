@@ -1,0 +1,6 @@
+{
+       "Course": "Fundamentals of Physics I",
+       "Topic": "Fluid Dynamics",
+       "Original question": "Find the lift on an airplane wing of area 50 m^2 if the velocity of air at the upper and lower parts is 90 m/s and 70 m/s respectively. Assume \u03c1air = 1.16 kg/m^3.",
+       "Solution": "9.3 * 10^4 N"
+}

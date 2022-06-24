@@ -1,0 +1,6 @@
+{
+       "Course": "Fundamentals of Physics I",
+       "Topic": "Simple Harmonic Motion",
+       "Original question": "Consider a particle attached to a spring executing a motion x = A sin(\u03c9t + \u03b4) with A = .32 m. At t = 0, it is at x = \u2212.07m and a velocity \u22122m/s. The total energy is 5.6J. Find (i) \u03b4, (ii) f the frequency, (iii) k and (iv) m",
+       "Solution": "(i) \u03b4 = 2.92\n(ii) f = 1.01 cycles/sec\n(iii) k = 109 N/m\n(iv) m = 2.7 kg"
+}

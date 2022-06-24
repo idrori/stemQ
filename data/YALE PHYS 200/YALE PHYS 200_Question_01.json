@@ -1,0 +1,6 @@
+{
+       "Course": "Fundamentals of Physics I",
+       "Topic": "Mechanics",
+       "Original question": "A bullet of mass m moving at horizontal velocity v strikes and sticks to the rim of a wheel (a solid disc) of mass M, radius R, anchored at its center but free to rotate. Which of energy, momentum and angular momentum is conserved for the bullet+wheel system? Give a few words of explanation. ",
+       "Solution": "Only angular momentum is conserved. The collision is an inelastic collision, so energy cannot be conserved. Momentum is not conserved because there is an external force acting at the center of the wheel that keeps the wheel-bullet system from moving forward after the collision. Angular momentum is conserved because there are no external torques acting on the system. (The force acting at the center of the wheel does not provide a torque because it is acting at the pivot point.)"
+}

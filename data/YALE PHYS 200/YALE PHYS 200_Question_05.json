@@ -1,0 +1,6 @@
+{
+       "Course": "Fundamentals of Physics I",
+       "Topic": "Mechanics",
+       "Original question": "Consider the force F = 2xy^3*i + 3x^2y^2*j. Show that it is conservative.",
+       "Solution": "\u2202Fx/\u2202y = 6x*y^2 and \u2202Fy/\u2202x = 6x*y^2, so F is conservative."
+}

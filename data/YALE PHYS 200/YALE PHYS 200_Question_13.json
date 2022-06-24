@@ -1,0 +1,6 @@
+{
+       "Course": "Fundamentals of Physics I",
+       "Topic": "Relativity",
+       "Original question": "A body of rest mass m0 moving at speed v collides with and sticks to an identical body at rest. What is the mass and momentum of the final clump?",
+       "Solution": "Momentum = \u03b3*m0*v\nMass = m0 * sqrt(2*(1 + \u03b3)) where \u03b3 =1/sqrt(1 \u2212 (v/c)^2)"
+}

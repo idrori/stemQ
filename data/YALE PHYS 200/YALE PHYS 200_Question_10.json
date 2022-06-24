@@ -1,0 +1,6 @@
+{
+       "Course": "Fundamentals of Physics I",
+       "Topic": "Relativity",
+       "Original question": "The earth and sun are 8.3 light-minutes apart. Ignore their relative motion for this problem and assume they live in a single inertial frame, the Earth-Sun frame. Events A and B occur at t = 0 on the earth and at 2 minutes on the sun respectively. Find the time difference between the events according to an observer moving at u = .8c from Earth to Sun. Repeat if observer is moving in the opposite direction at u = .8c.",
+       "Solution": "\u2206t_observer1 = -7.7 min\n\u2206t_observer2 = 14 min"
+}

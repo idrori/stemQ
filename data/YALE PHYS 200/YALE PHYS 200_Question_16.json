@@ -1,0 +1,6 @@
+{
+       "Course": "Fundamentals of Physics I",
+       "Topic": "Simple Harmonic Motion",
+       "Original question": "A mass m moving horizontally at velocity v0 on a frictionless table strikes a spring of force constant k. It compresses the spring and then bounces back with opposite velocity. Assuming no loss of energy anywhere find out (i) how long the mass is in contact with the spring and (ii) the maximum compression of the spring.",
+       "Solution": "(i) pi * sqrt(m/k)\n(ii) v0 * sqrt(m/k)"
+}

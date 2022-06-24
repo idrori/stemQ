@@ -1,0 +1,6 @@
+{
+       "Course": "Fundamentals of Physics I",
+       "Topic": "Mechanics",
+       "Original question": "A block of mass M sits on frictionless table L meters from the edge. At t = 0 bullet of mass m and velocity v1 penetrates it from left and exits to the right with a speed v2. When will the block fly off the table?  (Neglect loss of wood in block due to bullet penetrating it and the time it takes bullet to traverse block.)",
+       "Solution": "t = M/m * L/(v1-v2)"
+}

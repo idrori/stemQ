@@ -1,0 +1,6 @@
+{
+       "Course": "Fundamentals of Physics I",
+       "Topic": "Mechanics",
+       "Original question": "Consider the force F = 2xy^3*i + 3x^2y^2*j. What is the potential energy U(x, y) associated with it ?",
+       "Solution": "U(x, y) = \u2212x^2*y^3"
+}

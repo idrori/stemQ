@@ -1,0 +1,6 @@
+{
+       "Course": "Fundamentals of Physics I",
+       "Topic": "Waves",
+       "Original question": "Write the equation for a wave moving along +x with a amplitude .4m, speed 6m/s and frequency 17Hz. If these are waves on a string with mass per unit length \u00b5 = .02kg/m, what is the u, the energy per unit length ? What is the power being fed into the vibrating string?",
+       "Solution": "\u03c8(x,t) = (0.4m) * cos[(17*pi/3 m^-1)x \u2013 (34*pi Hz)*t] \nu = 18.3 J/m\nP = 109.5 W"
+}

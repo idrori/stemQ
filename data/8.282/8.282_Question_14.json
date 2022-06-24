@@ -1,0 +1,6 @@
+{
+       "Course": "Astrophysics",
+       "Topic": "General",
+       "Original question": "It has long been suspected that there is a massive black hole near the center of our Galaxy. Recently, a group of astronomers determined the parameters of a star that is orbiting the suspected black hole. The orbital period is P = 15 years, and the orbit has an angular radius of \\theta = 0.12 arcsec. Take the distance to the Galactic center to be D_{galactic center} = 8 kpc. Compute the mass of the black hole, starting from F=ma. Express the answer in units of the Sun's mass. (assume that Newton's law of gravity is applicable for orbits sufficiently far from a black hole, and that the orbiting start satisfies this condition.",
+       "Solution": "M_BH = 3.9 * 10^6 M_Sun"
+}

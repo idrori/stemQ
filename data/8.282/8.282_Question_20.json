@@ -1,0 +1,6 @@
+{
+       "Course": "Astrophysics",
+       "Topic": "Angular resolution",
+       "Original question": "What is the angular resolution, in arcseconds ($1/3600$ of a degree), of the Hubble Space Telescope (with an aperture diameter of 2.4 m) at a wavelength of $0.5 \\\\mu$m?\n",
+       "Solution": "0.052 {\\\\rm \\\\bf \\\\ arcsec}"
+}

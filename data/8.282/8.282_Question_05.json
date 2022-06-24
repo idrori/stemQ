@@ -1,0 +1,6 @@
+{
+       "Course": "Astrophysics",
+       "Topic": "general",
+       "Original question": "In this question we will find what is the estimated rate for star to star collision. For simplicity we assume that all the stars in our galaxy have the same properties as our Sun, i.e., the same solar radius, and the same velocity, of $200$~km~sec$^{-1}$, and that the direction of their velocity is random (this of-course is {\\\\it not} true, but sufficient for this rough estimation). Assume the stars number density in the galaxy is $10^{-9}$~pc$^{-3}$ and neglect the gravitational pull between the stars. Find the mean free path between collision to collision.",
+       "Solution": "6.27 \\\\times 10^{23} \\\\ {\\\\rm pc}"
+}

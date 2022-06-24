@@ -1,0 +1,6 @@
+{
+       "Course": "Astrophysics",
+       "Topic": "General",
+       "Original question": "A globular cluster contains N = 10^6 stars. Assume they all have the mass of the Sun, m = M_Sun, and the same speed of v = 10 km/s. Use the Virial Theorem to estimate a characteristic size of the cluster.",
+       "Solution": "R = 40 pc"
+}

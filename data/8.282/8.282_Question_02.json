@@ -1,0 +1,6 @@
+{
+       "Course": "Astrophysics",
+       "Topic": "Angular resolution",
+       "Original question": "Calculate the best angular resolution that can, in principle, be achieved with the human eye. Assume a pupil diameter of 0.5 cm and the wavelength of green light, $\\\\sim 0.5 \\\\mu$m. Express your answer in arcminutes, where an arcminute is $1/60$ of a degree.",
+       "Solution": "25 {\\\\rm \\\\ arcsec} or 0.42 arcmins"
+}

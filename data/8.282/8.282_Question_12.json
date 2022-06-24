@@ -1,0 +1,6 @@
+{
+       "Course": "Astrophysics",
+       "Topic": "General",
+       "Original question": "A reasonable approximation to the M_V - P (absolute brightness - period) relation for Cepheid variable is: M_V = -2.3log10(P/days)-1.7. A Cepheid variable with mean apparant magnitude of V=19.0 is found in the galaxy M31 with a pulsation period of 30 days. Find the distance to M31 in parsecs.  ",
+       "Solution": "d = 660,700 pc"
+}

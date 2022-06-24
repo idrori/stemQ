@@ -1,0 +1,6 @@
+{
+       "Course": "Astrophysics",
+       "Topic": "Angular resolution",
+       "Original question": "A triple stellar system, showing a parallax of 0.01 arcsecond, is composed of a binary system, with a distance between the two stars of 0.2 AU, and a third star, at a distance of 90 AU from the binary. This system is observed in the optical ($\\\\lambda \\\\sim 5500$ \\\\AA) with a 1 meter telescope. What is the distance of this system ?",
+       "Solution": "100 pc"
+}

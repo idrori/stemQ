@@ -1,0 +1,6 @@
+{
+       "Course": "Astrophysics",
+       "Topic": "hubble's law",
+       "Original question": "Measurements of the radial recession velocity of five galaxies in a cluster give velocities of 9700, 8600, 8200, 8500 and 10000 km s$^{-1}$. What is the distance to the cluster if the Hubble parameter is $H_0 = 72$ km s$^{-1}$ Mpc$^{-1}$ ? Hint: Use the Hubble law for the average velocity of the members in the cluster.",
+       "Solution": "125 {\\rm \\ Mpc}"
+}

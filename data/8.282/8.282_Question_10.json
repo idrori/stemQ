@@ -1,0 +1,6 @@
+{
+       "Course": "Astrophysics",
+       "Topic": "Neutron stars",
+       "Original question": "Evaluate the minimum rotation period of a neutron star, meaning the fastest it can spin without breaking apart. Assume a mass of 1.4 $M_{\\sun}$, a 10 km radius, and that the star remains spherical.",
+       "Solution": "P > 0.5 ms"
+}

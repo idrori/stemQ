@@ -1,0 +1,6 @@
+{
+       "Course": "Astrophysics",
+       "Topic": "Neutron Stars",
+       "Original question": "A neutron star whose mass is M = 1.4 M_{\\odot} and radius is R = 10 km is in orbit about a normal star. Matter is flowing from the normal star onto the collapsed star at a rate of \\dot{M} = 10^{17} grams per second. Assume that all of the gravitational potential energy of the infalling matter is converted to radiation. Compute the bolometric luminosity of the neutron star.",
+       "Solution": "1.9 \\times 10^{37} ergs / sec"
+}

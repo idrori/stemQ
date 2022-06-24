@@ -1,0 +1,6 @@
+{
+       "Course": "Astrophysics",
+       "Topic": "Neutron Stars",
+       "Original question": "An X-ray binary has an orbital period of P=42 minutes. The neutron star moves in a circular orbit about the center of mass of the binary with a velocity of V_x = 11 km/s, while its unseen companion star has an orbital velocity of V_c = 770 km/s. Find the masses of the unseen companion star and the neutron star.",
+       "Solution": "M_c = 0.02 M_{\\odot};\nM_x = 1.415 M_{\\odot}"
+}

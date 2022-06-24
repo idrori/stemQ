@@ -1,0 +1,6 @@
+{
+       "Course": "Astrophysics",
+       "Topic": "General",
+       "Original question": "If the Sun (more precisely, the local standard of rest) is orbiting the Galactic center at v=220 km/sec, estimate the mass of the Galaxy interior to the Sun\u2019s orbit (in units of M_Sun). Assume the Sun's distance to the center of the galaxy is R = 8 kpc.",
+       "Solution": "M(<R) = 9*10^10 M_Sun"
+}

@@ -1,0 +1,6 @@
+{
+       "Course": "Astrophysics",
+       "Topic": "Blackbody",
+       "Original question": "A white dwarf star has an effective temperature, T = 50,000 degrees Kelvin, but its radius, R_WD, is comparable to that of the Earth. Take R_WD = 10^4 km. Compute the luminosity (power output) of the white dwarf. Treat the white dwarf as a blackbody radiator.",
+       "Solution": "L = 4.5 * 10^33 erg / s "
+}

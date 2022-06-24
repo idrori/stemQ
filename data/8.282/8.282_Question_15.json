@@ -1,0 +1,6 @@
+{
+       "Course": "Astrophysics",
+       "Topic": "General",
+       "Original question": "A galaxy moves directly away from us with a speed of v = 3000 km/s. Find the observed wavelength of the H_alpha line in that galaxy's spectrum. The rest wavelength of H_alpha is \\lambda_rest = 6565 Angstrom.",
+       "Solution": "\\lamba_observed = 6630 Angstrom"
+}

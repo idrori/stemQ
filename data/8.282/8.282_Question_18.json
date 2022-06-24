@@ -1,0 +1,6 @@
+{
+       "Course": "Astrophysics",
+       "Topic": "Blackbody",
+       "Original question": "A very hot star is detected in the galaxy M31 located at a distance of d=800 kpc. The star has a temperature T = 6 * 10^5 K and a produces a flux of f =10^(-12) ergs / cm^2 / sec at the Earth. Treat the star\u2019s surface as a blackbody radiator. Compute the star's radius in units of the Sun's radius.",
+       "Solution": "R = 0.012 R_Sun"
+}

@@ -1,0 +1,6 @@
+{
+       "Course": "Astrophysics",
+       "Topic": "General",
+       "Original question": "A certain red giant star has a radius that is 500 times that of the Sun, and a temperature that is 1/2 that of the Sun's temperature. Find the bolometric (total) luminosity in units of the bolometric luminosity of the Sun.",
+       "Solution": "L_{bol,red giant}  = 1.56 x 10^4 L_{bol,sun}"
+}

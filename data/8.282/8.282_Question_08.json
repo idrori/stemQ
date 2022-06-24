@@ -1,0 +1,6 @@
+{
+       "Course": "Astrophysics",
+       "Topic": "Neutron Stars",
+       "Original question": "A neutron star whose mass is 1.4 M_{\\odot} is in orbit about a normal star. Matter is flowing from the normal star onto the collapsed star at a rate of \\dot{M} = 10^{17} grams per second. Assume that all of the gravitational potential energy of the infalling matter is converted to radiation. Suppose that the surface of the neutron star radiates this energy as a blackbody of a single temperature T. Compute T (Assume the radius of the neutron star, R, is 10 km).",
+       "Solution": "12.7 \\times 10^6 K"
+}

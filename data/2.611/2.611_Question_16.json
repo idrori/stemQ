@@ -1,0 +1,6 @@
+{
+       "Course": "Marine Power and Propulsion",
+       "Topic": "Propulsion",
+       "Original question": "2. A propeller is to be selected for a single-screw container ship with the following features:\n EHP = 80000 HP, ship speed = 25 kts, maximum propeller diameter = 34 ft,\nw = 0.249, t = 0.18, \u03b7R = 1.0, centerline depth, h = 25 ft \nFrom the consideration of cavitation, determine:\n j. The expanded area ratio (EAR) to provide 5% cavitation for a commercial ship.\nAssume the operating conditions are similar to the B 5-90 propeller.",
+       "Solution": "EAR is much less than one, Changing to meet these requirements would\nnot be necessary. "
+}

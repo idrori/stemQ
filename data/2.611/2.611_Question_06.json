@@ -1,0 +1,6 @@
+{
+       "Course": "Marine Power and Propulsion",
+       "Topic": "Propulsion",
+       "Original question": "A survey vessel has a 10 ft diameter, B 5-90 propeller with a pitch of 10 ft. The propeller speed is 200 rpm,\nthe boat speed is 20 knots, and the thrust reduction factor (t) is 0.12, wake fraction (w) is 0.18, and the relative\nrotational efficiency \u03b7R is 1.0. The propeller operates as indicated by the Wageningen (Troost) Series B propeller charts. The propeller is also tested at zero ship speed (bollard pull) and it is found that the engine limits the torque to 50,000 lbf ft. Determine: f. the propeller rpm and thrust at this condition ",
+       "Solution": "3.305 hz, 9.391 * 10^7 s^2 * lb"
+}

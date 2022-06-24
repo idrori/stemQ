@@ -1,0 +1,6 @@
+{
+       "Course": "Marine Power and Propulsion",
+       "Topic": "Thermodynamics",
+       "Original question": "5. A marine steam plant operates as a simple Rankine cycle with a turbine inlet\ntemperature and pressure of 600 \u00b0C and 4 MPa. The condenser operates at a pressure of\n20kPa. Assume that the turbine isentropic efficiency is 80% and the pump isentropic\nefficiency is 90%.\n c. Determine the specific enthalpy change across each component.",
+       "Solution": "995.326 kJ/kg, 184.407 kJ/kg, 3238.573 kJ/kg, 2427.654 kJ/kg"
+}

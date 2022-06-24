@@ -1,0 +1,6 @@
+{
+       "Course": "Principles of Microeconomics",
+       "Topic": "Production and Costs",
+       "Original question": "A firm has a Cobb-Douglas production function q = f(K, L) = K^a * L^(1-a) an d faces wages, w, and rental rate of capital, r. Find the short-run cost curve, C(q), as a function of q and the parameters.",
+       "Solution": "Short Run Cost Curve = C(q) = rK_ + wL*(q)"
+}

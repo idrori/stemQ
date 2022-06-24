@@ -1,0 +1,6 @@
+{
+       "Course": "Principles of Microeconomics",
+       "Topic": "Market Structures",
+       "Original question": "A uniform pricing monopolist has a cost function C(q) = 1/2*q^2. It faces a market demand of D(p) = p^(-u) where u > 1. Calculate the price elasticity of demand.",
+       "Solution": "Optimal Price = (u/(u-1))^(1/(1+u)) = -u"
+}

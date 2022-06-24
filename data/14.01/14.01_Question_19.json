@@ -1,0 +1,6 @@
+{
+       "Course": "Principles of Microeconomics",
+       "Topic": "Utility",
+       "Original question": "Suppose a worker has preferences over consumption and leisure that can be represented by the following utility function: U = ln(c) + ln(l) There are 16 hours per day available for leisure (l) and work (L). The hourly wage is w, and assume that the price of each unit of consumption is $1. Write down the worker\u2019s budget constraint in terms of c and L. Find the optimal consumption and work as a function of w.",
+       "Solution": "Optimal consumption = 8w"
+}

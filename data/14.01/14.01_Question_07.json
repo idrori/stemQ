@@ -1,0 +1,6 @@
+{
+       "Course": "Principles of Microeconomics",
+       "Topic": "Production and Costs",
+       "Original question": "For each of the following production functions: \n  (a) F (L, K) = L^2*K^(1/2)\n  (b) F (L, K) = L + L^(1/2)*K^(1/2)\n  (c) F (L, K) = 2*L + K\n  \n State whether the production function exhibits constant, increasing or decreasing returns to scale.",
+       "Solution": "IRS, CRS, CRS"
+}

@@ -1,0 +1,6 @@
+{
+       "Course": "Principles of Microeconomics",
+       "Topic": "Market Structures",
+       "Original question": "Oliver has an endowment of $10,000 that he wants to invest. He can either invest in a bond, which yields 1% or the stock market, which consist of one firm, Amazon. Amazon's stock costs $100 today, and will be worth $400 in one year with probability 0.5 or will drop to $0 with probability 0.5. Oliver\u2019s utility function is U(w) = sqrt(w). Due to institutional regulations, Oliver can invest only in bonds, or only in Amazon, he cannot buy both Amazon stock and bonds. What is Oliver\u2019s utility of buying bonds? What if he invests only in Amazon\u2019s stock? What does he prefer?",
+       "Solution": "Utility of buying bonds = ~ 100.5\nUtility of investing = 100\nPrefer to buy bonds. "
+}

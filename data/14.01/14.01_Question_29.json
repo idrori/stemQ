@@ -1,0 +1,6 @@
+{
+       "Course": "Principles of Microeconomics",
+       "Topic": "Utility",
+       "Original question": "Xiaoyu spends all her income on statistical software (S) and clothes (C). Her preferences can be represented by the utility function: U(S,C)=4*ln(S)+6*ln(C). Find Xiaoyu's demand functions for software and clothes, Q_S(p_S, p_C, I) and Q_C(p_S, p_C, I), in terms of the price of software (p_S), the price of clothes (p_C), and Xiaoyu's income (I).",
+       "Solution": "Q_s(p_s, p_c, I) = (2/5)*(I/p_s)\nQ_c(p_s, p_c, I) = (3/5)*(I/p_c)"
+}

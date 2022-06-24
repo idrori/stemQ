@@ -1,0 +1,6 @@
+{
+       "Course": "Principles of Microeconomics",
+       "Topic": "Savings",
+       "Original question": "A household has to decide how much to consume during their working age and how much to save for retirement. We will model this as if there were two periods: period 1 is the working age, while period 2 is retirement. Suppose that we can represent the preferences of this household with the utility function U(c1, c2) = ((c_1)^(1-s))/(1-s) + ((c_2)^(1-s))/(1-s) where c_1 is consumption in period 1, and c_2 is consumption in period 2 and s > 0. Buying 1 unit of consumption costs $1 in both periods. Income in period 1 is W dollars and zero during retirement. The household can save at the market interest rate r. Assume that the household gets no utility from leaving any money behind after death. How much of its income will the household consume and how much will it save given the interest rate r?",
+       "Solution": "Savings = s = W \u2212 c1 = W 1 \u2212 1 1 + (1 + r) 1\u2212 \u03c3 \u03c3 ! = W(1 + r) 1\u2212 \u03c3 \u03c3 1 + (1 + r) 1\u2212 \u03c3 \u03c3"
+}

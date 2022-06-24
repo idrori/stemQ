@@ -1,0 +1,6 @@
+{
+       "Course": "Principles of Microeconomics",
+       "Topic": "Supply/Demand",
+       "Original question": "Given the utility function: U(S,C) = 4*ln(S)+6*ln(C), compute the marginal rate of substitution of S for C. Is the marginal rate of substitution increasing or decreasing in S.",
+       "Solution": "MRS is decreasing"
+}

@@ -1,0 +1,6 @@
+{
+       "Course": "Principles of Microeconomics",
+       "Topic": "Production and Costs",
+       "Original question": "Consider a market for skateboards that is in a long-run equilibrium. In this equilibrium, each firm\u2019s short-run and long-run total cost functions are given by: SRTC(q) = q^3 \u22123*(q^2) +3*q+4 LRTC(q) = 3*q The market demand for skateboards is given by Q_D(P) = 27 - P. What is the equilibrium price in the initial long-run equilibrium?",
+       "Solution": "Long run equilibrium price = 3.\n\nLRAC  = LRTC(q)/q = 3q/q = 3 = P\nSince the market is competitive, the equilibrium price must equal the minimum long-run average cost. Hence, P\u2217 = 3."
+}

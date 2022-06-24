@@ -1,0 +1,6 @@
+{
+       "Course": "Principles of Microeconomics",
+       "Topic": "Utility",
+       "Original question": "Consider an economy with only one good: food. There are three people in the economy, A, B and C. A has 400 units of food, B has 100 units, and C has only 16 units. All have the same utility, U_i = sqrt(f) for i = A,B,C. The government decides to redistribute food more equally, so it takes 175 units from A and gives them to B. However, the government spoils 79 of these units in transportation, so B ultimately gets only 96 units of food. What is each person's utility level?",
+       "Solution": "A's Utility = 15\nB's Utility = 14\nC's Utility = 4"
+}

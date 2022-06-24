@@ -1,0 +1,6 @@
+{
+       "Course": "Principles of Microeconomics",
+       "Topic": "Production and Costs",
+       "Original question": "Write a program to compute the associated (long run) total, average, and marginal cost curves given the production function f(L,K) = 2*L^(1/4)*K^(1/4). ",
+       "Solution": "Long Run Average Cost = TC(r, w, Q) = Q^2 w^(1/2) r^(1/2)/2\nAverage Cost = AC(r, w, Q) = Q w^(1/2) r^(1/2)/2\nMarginal Cost = MC(r, w, Q) = Q w^(1/2) r^(1/2)"
+}

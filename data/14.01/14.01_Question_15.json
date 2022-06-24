@@ -1,0 +1,6 @@
+{
+       "Course": "Principles of Microeconomics",
+       "Topic": "Utility",
+       "Original question": "Chloe consumes only books (x) and video games (y). Her preferences can be represented by the following utility function: U (x, y) = x*(y^2). Calculate the Marginal Rate of Substitution (at an arbitrary bundle (x, y)).",
+       "Solution": "Marginal Rate of Substitution = y/2x"
+}

@@ -1,0 +1,6 @@
+{
+       "Course": "Principles of Microeconomics",
+       "Topic": "Pricing",
+       "Original question": "Suppose there are only two goods in the world: tea and coffee. In both the US one pound of tea requires 3 hours of labor to produce and one pound of coffee requires 2 hours of labor to produce. A worker can choose to work either in the tea industry or in the coffee industry (skills are completely transferable across industries) and consider the case when the labor market is perfectly competitive, and the market for tea and coffee are also perfectly competitive. Suppose that on the international market, due to the different production functions by different countries, we can trade k pounds of tea for 1 pound of coffee. For what values of k will the US choose to export tea? For what values of k will the US choose to export coffee",
+       "Solution": "The US will export coffee for k > 2/3 and the US will export tea for k < 2/3."
+}

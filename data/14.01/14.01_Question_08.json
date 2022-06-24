@@ -1,0 +1,6 @@
+{
+       "Course": "Principles of Microeconomics",
+       "Topic": "Production and Costs",
+       "Original question": "You manage a factory that produces cans of peanut butter. The current market price is $10/can, and you know the following about your costs: MC(5) = 10, ATC(5) = 6 MC(4) = 4, ATC(4) = 4 \n  \nA case of food poisoning breaks out due to your peanut butter, and you lose a lawsuit against your company. As punishment, Judge Judy decides to take away all of your profits, and considers the following two options to be equivalent:\n  i. Pay a lump sum in the amount of your profits.\n  ii. Impose a tax of $[P - ATC(q^*)] per can since that is your current profit per can, where q^* is the profit maximizing output before the lawsuit.\nJudge Judy gives you the option of choosing either plan. Which plan would you choose?\nProvide intuition. Hint: a clear diagram may be helpful.",
+       "Solution": "Choose to take the tax. The tax would be $4/can. The firm can reduce its quantity to still make a profit."
+}

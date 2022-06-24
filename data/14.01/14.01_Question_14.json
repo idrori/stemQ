@@ -1,0 +1,6 @@
+{
+       "Course": "Principles of Microeconomics",
+       "Topic": "Utility",
+       "Original question": "Chloe consumes only books (x) and video games (y). Her preferences can be represented by the following utility function: U(x,y) = x*(y^2). The price of books is p_x, the price of video games is p_y, and Chloe has an income of m dollars. Compute Chloe's budget constraint.",
+       "Solution": "Budget constraint is p_x(x) + p_y(y) \u2264 m"
+}

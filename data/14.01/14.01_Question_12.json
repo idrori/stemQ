@@ -1,0 +1,6 @@
+{
+       "Course": "Principles of Microeconomics",
+       "Topic": "Supply/Demand",
+       "Original question": "Lauren wants to be a physicist, so she places more weight on her physics test score. Her utility function is given by u(p, e)=0.6 ln(p)+0.4 ln(e). where p is the score on the physics final and e is the score on the economics final. Although she cares more about physics, she is better at economics; for each hour spent studying economics she will increase her score by 3 points, but her physics score will only increase by 2 points for every hour spent studying physics, How many hours should Lauren optimally spend studying physics? How many hour should Lauren study economics?",
+       "Solution": "Hours studying economics = 9.6\nHours studying physics = 14.4"
+}

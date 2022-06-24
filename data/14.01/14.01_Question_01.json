@@ -1,0 +1,6 @@
+{
+       "Course": "Principles of Microeconomics",
+       "Topic": "Market Structures",
+       "Original question": "Consider the perfectly competitive market for gasoline. The aggregate demand for gasoline is D(p) = 100 - p while the aggregate supply is S(p) = 3*p. Calculate the equilibrium price and quantity. At this equilibrium, compute the consumer surplus, producer surplus and total surplus.",
+       "Solution": "Equilibrium Price = 25\nEquilibrium Quantity = 75\nConsumer Surplus = 2812.5\nProducer Surplus = 937.5\nTotal Surplus = 3750"
+}

@@ -1,0 +1,6 @@
+{
+       "Course": "Principles of Microeconomics",
+       "Topic": "Market Structures",
+       "Original question": "Suppose an industry has a duopoly structure. Duopolist 1 has a cost function given by: c_1(y_1) = (y_1)^2 for y_1 \u2265 0. Duopolist 2 has a cost function given by: c2(y_2) = 12*y_2 for y_2 \u2265 0. The total output produced in the industry is denoted by: y = (y1 + y2). The inverse demand function for the good produced in the industry is denoted by: p = 100 - y. Find the reaction function of each duopolist.",
+       "Solution": "Duopolist 1: (4 * y_1) + y_2 = 100 \nDuopolist 2: y_1 + (2 * y_2) = 88"
+}

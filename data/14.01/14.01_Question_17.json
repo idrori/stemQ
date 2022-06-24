@@ -1,0 +1,6 @@
+{
+       "Course": "Principles of Microeconomics",
+       "Topic": "Utility",
+       "Original question": "A consumer\u2019s preferences are represented by the following utility function: u(x,y) = x^(1/2) + y. Obtain the MRS of the consumer at an arbitrary point (x*, y*), where x* > 0 and y* > 0.",
+       "Solution": "Marginal Rate of Substitution = (-1/2) * (x^(-1/2))"
+}

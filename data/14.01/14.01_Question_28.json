@@ -1,0 +1,6 @@
+{
+       "Course": "Principles of Microeconomics",
+       "Topic": "Supply/Demand",
+       "Original question": "Anne consumes only books (x) and video games (y). Her preferences can be represented by the following utility function: U = (x^2)*y. The price of books is p_x, the price of video games is p_y, and Anne has an income of m dollars. Compute Anne's demand for books and video games as a function of p_x, p_y and m.",
+       "Solution": "x(p_x, p_y, m) = (2/3) * (m/p_x)\ny(p_x, p_y, m) = (1/3) * (m/p_y)"
+}

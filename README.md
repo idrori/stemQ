@@ -2,7 +2,7 @@
 
 The dataset consists of 667 unique questions from 27 courses across 12 departments in 7 universities.
 
-| ID | University | Department                                | Course                                             | Number   | # Questions    |
+| ID | University | Department                                | Course                                             | Number   | Questions      |
 |----|------------|-------------------------------------------|----------------------------------------------------|----------|----------------|
 | 1  | MIT        | Mechanical Engineering                    | Hydrodynamics                                      | 2.016    | 21             |
 | 2  | MIT        | Mechanical Engineering                    | Nonlinear Dynamics I: Chaos                        | 2.050J   | 24             |

@@ -1,6 +1,6 @@
 # A New Dataset for Learning University-Level STEM Courses
 
-The dataset consists of 667 unique questions from 27 courses across 12 departments in 7 universities.
+This repository for the paper "A Dataset for Learning University STEM Courses at Scale" by Zhang et al., contains a dataset of 667 questions from 27 courses across 12 departments in 7 universities.
 
 | ID | University | Department                                | Course                                             | Number   | Questions      |
 |----|------------|-------------------------------------------|----------------------------------------------------|----------|----------------|

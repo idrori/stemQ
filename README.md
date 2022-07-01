@@ -1,6 +1,6 @@
 # A Dataset for Learning University STEM Courses at Scale
 
-This repository for the paper "A Dataset for Learning University STEM Courses at Scale" by Sarah Zhang (MIT), Reece Shuttleworth (MIT), Albert Lu (MIT), Linda Chen (MIT), Sunny Tran (Microsoft), Bereket Birbo (MIT), Michele He (MIT), Bo Feng (Columbia), Newman Cheng (Columbia), Roman Wang (Columbia), Yann Hicke (Cornell), Nikhil Singh (MIT), Avi Shporer (MIT), Nakul Verma (Columbia), Tonio Buonassisi (MIT), Armando Solar-Lezama (MIT), Iddo Drori (MIT and Columbia), is a dataset of 667 questions from 27 courses across 12 departments in 7 universities.
+This repository for the paper "A Dataset for Learning University STEM Courses at Scale" by Sarah Zhang (MIT), Reece Shuttleworth (MIT), Albert Lu (MIT), Linda Chen (MIT), Sunny Tran (Microsoft), Bereket Birbo (MIT), Michele He (MIT), Bo Feng (Columbia), Newman Cheng (Columbia), Roman Wang (Columbia), Yann Hicke (Cornell), Nikhil Singh (MIT), Avi Shporer (MIT), Nakul Verma (Columbia), Tonio Buonassisi (MIT), Armando Solar-Lezama (MIT), Iddo Drori (MIT and Columbia), is a dataset of 667 questions and solutions from 27 STEM courses across 12 departments in 7 universities.
 
 Submitted 6/23/22.
 

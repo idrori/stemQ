@@ -33,4 +33,3 @@ This repository for the paper "A Dataset for Learning University STEM Courses at
 | 26 | UPenn      | Mathematics                               | Calculus                                           | MATH110  | 24             |
 | 27 | Yale       | Mathematics                               | Fundamentals of Physics                            | PHYS200  | 25             |
 
-Submitted 6/23/22.

@@ -1,8 +1,11 @@
 # A Dataset for Learning University STEM Courses at Scale
 
 This repository for the paper "A Dataset for Learning University STEM Courses at Scale and Generating Questions at a Human Level",
+
 Iddo Drori, Sarah Zhang, Zad Chin, Reece Shuttleworth, Albert Lu, Linda Chen, Bereket Birbo, Michele He, Pedro Lantigua, Sunny Tran, Gregory Hunter, Bo Feng, Newman Cheng, Roman Wang, Yann Hicke, Saisamrit Surbehera, Arvind Raghavan, Alexander Siemenn, Nikhil Singh, Jayson Lynch, Avi Shporer, Nakul Verma, Tonio Buonassisi, Armando Solar-Lezama
+
 Educational Advances in Artificial Intelligence (EAAI), 2023
+
 A new dataset of 667 questions and solutions from 27 STEM courses across 12 departments in 7 universities.
 
 
